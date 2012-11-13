@@ -3,3 +3,7 @@ docs/images/ulilogo.intaglio -text
 docs/images/ulilogo.png -text svneol=unset#image/png
 docs/images/ulilogo.svg -text
 docs/images/ulilogosmall.png -text svneol=unset#image/png
+xls/English.xls -text
+xls/German.xlsx -text
+xls/Russian_verified.xls -text
+xls/Spanish.xls -text
