@@ -104,6 +104,7 @@ for loc in locs:
     fn = '../json/%s.js' % (loc)
     f = open(fn, 'wb')
     print >>f, '// Generated from %s.xls' % (loc)
+    print >>f, "// For locale %s: %d rows processed, %d exception entries, %d nonexception (%d unique) - %d total usable" % (loc, nrows, len(exceptionEntries), len(nonExceptionEntries), len(uniqueEntries), len(remainEntries))
     print >>f, json.dumps(jsonOut, sort_keys=True, indent=4)
     print "*** Wrote %s with %d entries" % (fn,len(remainEntries))
     print

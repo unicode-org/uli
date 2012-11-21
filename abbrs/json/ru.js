@@ -1,4 +1,5 @@
 // Generated from ru.xls
+// For locale ru: 11 rows processed, 6 exception entries, 1 nonexception (7 unique) - 6 total usable
 {
     "ru": [
         "12 \u0442\u044b\u0441. \u0434\u043e\u043b\u043b\u0430\u0440\u043e\u0432", 

@@ -1,4 +1,5 @@
 // Generated from es.xls
+// For locale es: 219 rows processed, 15 exception entries, 39 nonexception (53 unique) - 14 total usable
 {
     "es": [
         "also SS.AA.RR. (=Su Alteza Real)", 

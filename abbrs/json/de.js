@@ -1,4 +1,5 @@
 // Generated from de.xls
+// For locale de: 245 rows processed, 160 exception entries, 61 nonexception (186 unique) - 125 total usable
 {
     "de": [
         "gedr.", 

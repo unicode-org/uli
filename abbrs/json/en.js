@@ -1,4 +1,5 @@
 // Generated from en.xls
+// For locale en: 50 rows processed, 21 exception entries, 26 nonexception (43 unique) - 17 total usable
 {
     "en": [
         "Sgt.", 
