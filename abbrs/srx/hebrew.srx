@@ -1,0 +1,1361 @@
+<!--  SRX abbreviations for Hebrew  (UTF-8)  -->
+<!-- <languagemap languagepattern="[][].*" languagerulename="Hebrew"/> -->
+
+<languagerule languagerulename="Hebrew">
+  <rule break="no">
+    <beforebreak>\bא"י</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bא"נ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bא'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאב"כ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאג"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאג"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאגו"י</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאדמו"ר</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאדמו"רים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאו"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאו"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאונ'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאופ"ק</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאח"י</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאח"כ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאח"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאח"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאח"מים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאחה"צ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאי"ה</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאכ"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאס"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאע"פ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאעפ"י</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bארה"ב</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאש"פ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאש"פי</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאל"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאמ"י</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bאמ"ן</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bב"ג</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bב"ה</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bב"כ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bב'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבג"ץ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבד"כ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבי"הח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבי"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבי"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bביה"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bביה"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bביה"ס</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבינ"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבית"ר</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבית"רי</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבית"רית</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבימ"ש</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבכ"ז</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבס"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבע"פ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבע"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבקו"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bברה"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבריה"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bבל"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bג'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bגב'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bגדנ"ע</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bגל"צ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bגמ"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bד"צ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bד"ר</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bד"ש</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bד'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bדו"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bדו"חות</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bדפ"ר</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bדר'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bה"ה</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bה'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bהג"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bהי"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bהנ"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bהנה"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bהקב"ה</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bהמוכ"ז</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bהמזה"ת</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bהמצ"ב</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bו'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bז"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bז"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bז'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bח"ז</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bח"י</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bח"כ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bח"כים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bח"נ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bח"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bח'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bחב"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bחב'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bחהמ"ס</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bחהמ"פ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bחו"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bחוה"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bחוהמ"ס</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bחוהמ"פ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bחז"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bחי"ר</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bט"ו</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bט"ז</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bט'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bי"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bי"ב</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bי"ג</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bי"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bי"ז</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bי"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bי"ט</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bי'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיב"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיבל"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיו"ר</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיו"ש</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיוניפי"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיח"צן</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיח"צנות</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיח"צנית</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיח'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיחצ"נ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיחצ"נות</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיחצ"נית</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיי"ש</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bיש"ע</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bימק"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכ"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכ"ב</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכ"ג</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכ"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכ"ה</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכ"ו</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכ"ז</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכ"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכ"ט</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכ'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכב'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכד'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכו'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכיו"ב</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bכנ"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bנ"ב</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bנ"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bנ'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bנאט"ו</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bנאס"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bנגמ"ש</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bנגמ"שים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bנדל"ן</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bנח"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bני"ע</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bנתב"ג</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bס"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bס"ה</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bס"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bס'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bסא"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bסה"כ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bסטי"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bסכו"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bסמ"ק</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bסמ"ר</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bסמג"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bסמג"דים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bסמח"ט</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bסמח"טים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bסמנכ"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bסמנכ"לים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bסמנכ"לית</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bע"ה</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bע"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bע"י</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bע"ס</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bע"פ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bע"ש</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bע"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bע'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bעב"ז</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bעב"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bעב"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bעב"מים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bעבה"י</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bעו"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bעו"ש</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bעי'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bעכ"פ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bעכו"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bעפ"י</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bעתי"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bעמ'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bפ"נ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bפ"ש</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bפ"ת</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bפ'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bפו"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bפח"ק</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bפצ"ר</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bפק"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bפק"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bפקס'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bפרופ'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bצ"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bצ'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bצד"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bצה"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bצי"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bצל"ש</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bצל"שים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bק"ג</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bק"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bק'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bקב"ה</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bקב"ט</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bקב"ן</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bקג"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bקו"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bקופ"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bקק"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bקמ"ט</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bקמ"ן</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bקמ"ר</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bקמ"ש</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bקמב"צ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bר"ב</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bר"ג</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bר"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bר'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרא"ז</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרא"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרב"ט</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרה"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרו"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרח'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרס"ר</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרס"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרפ"ק</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרפא"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרצ"ב</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרק"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרמב"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bרמטכ"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bש"ב</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bש"ז</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bש"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bש"ס</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bש"צ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bש'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bשב"ס</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bשד'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bשות'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bשכ"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bשכ"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bשכה"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bשכפ"ץ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bשנה"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bשק"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bשק"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bשל"ת</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bת"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bת"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bת'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bתבד"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bתבדל"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bתה"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bתושב"ע</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bתיב"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bתנ"כ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bתנ"כי</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bתק"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bתקשי"ר</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bתל"ג</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bתמ"ס</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bל"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bל"ה</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bל'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bלהד"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bלח"י</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bלי"ש</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bליש"ט</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bלסה"נ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bלפה"ס</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bלפנה"ס</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bלפנה"צ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bלפסה"נ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמ"כ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמ"פ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמ"צ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמ"ק</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמ"ר</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמ"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמ'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמג"ב</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמג"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמג"ה</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמד"א</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמד"ן</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמד"ס</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמה"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמהר"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמו"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמו"לות</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמו"לים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמו"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמוכ"ז</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמוצ"ש</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמזה"ת</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמזכ"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמזל"ט</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמזל"טים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמח"ט</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמט"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמט"י</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמטכ"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמיל'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמכ"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמנה"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמנכ"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמנכ"לים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמנכ"לית</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמס'</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמע"צ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמע"מ</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמפ"ם</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמפא"י</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמפד"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמפכ"ש</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמפכ"ל</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמצ"ב</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמצ"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמש"ק</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמש"קים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמשה"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמשהב"ט</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמתנ"ס</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמל"ח</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמל"ט</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמל"טים</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמלה"ע</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bמלחה"ע</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\bממ"ד</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+</languagerule>

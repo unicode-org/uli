@@ -1,0 +1,1069 @@
+<!--  SRX abbreviations for Swedish  (UTF-8)  -->
+<!-- <languagemap languagepattern="[Ss][Vv].*" languagerulename="Swedish"/> -->
+
+<languagerule languagerulename="Swedish">
+  <rule break="no">
+    <beforebreak>\b[Aa][Bb]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Aa][Bb][Ss][Tt][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Aa][Dd][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Aa][Ll][Ll][Mm]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Aa][Nn][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Aa][Nn][Kk]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Aa][Nn][Mm]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Aa][Nn][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Aa][Rr][Tt]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Aa][Uu][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Aa][Vv][Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Aa][Vv][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Aa][Vv][Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Bb][Ee][Tt]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Bb][Ee][Tt][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Bb][Ii][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Bb][Ii][Tt][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Bb][Ll]\.[Aa]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Bb][Tt][Oo]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Bb][Uu][Ll][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Cc]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Cc]/[Oo]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Cc]:[Aa]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Cc][Aa]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Cc][Gg]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Cc][Ii][Vv]\.[Ee][Kk]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Cc][Ii][Vv]\.[Ii][Nn][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Cc][Ll]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Cc][Mm]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Cc][Oo]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd]\.[Vv]\.[Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd]:[Oo]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd]:[Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Ee][Bb]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Ee][Cc]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Ii][Aa][Mm]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Ii][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Ii][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Ll]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Mm]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Nn][Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Oo]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Oo][Cc]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Oo][Cc]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Ss]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Uu][Ss][Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Vv][Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Dd][Yy][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee]\.[Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee]\.[Dd][Yy][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee]\.[Kk][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Ff][Tt][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Kk][Oo][Nn]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Kk][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Mm]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Nn][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Nn][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Tt][Cc]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Xx]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Xx][Kk][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Xx][Pp]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ee][Xx][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff]\.[Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff]\.[Kk][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff]\.[Nn]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff]\.[Vv]\.[Bb]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff]\.[Öö]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff]:[Aa]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Aa]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Ee][Bb][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Ff]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Ii][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Ii][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Mm]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Nn]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Oo][Rr][Tt][Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Rr]\.[Oo]\.[Mm]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Uu][Ll][Ll][Ss][Tt]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Öö][Ll][Jj]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Öö][Rr][Ee][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Öö][Rr][Ff]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Öö][Rr][Hh]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ff][Öö][Rr][Kk]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Gg][Gg][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Gg][Mm]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Hh][Aa]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Hh][Gg]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Hh][Ll]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Hh][Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Hh][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Hh][Rr][Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ii] [Ss][Tt]\.[Ff]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ii][Bb][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ii][Ll][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ii][Nn][Bb]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ii][Nn][Kk][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ii][Nn][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Jj]:[Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Jj][Aa][Nn]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Jj][Ff][Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Jj][Kk]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Jj][Oo]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Jj][Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Jj][Uu][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Jj][Uu][Ss][Tt]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk]\.[Mm]:[Tt]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk]:[Nn]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Aa][Nn][Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Aa][Pp]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Aa][Tt]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Ee][Mm]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Gg]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Mm]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Nn]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Oo][Ll][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Oo][Nn][Ss][Tt][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Oo][Pp]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Oo][Rr][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Rr][Ee][Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Tt][Oo]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Uu][Nn][Gg][Ll]\.[Mm][Aa][Jj]:[Tt]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Kk][Uu][Rr][Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ll][Ee][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ll][Ii][Cc]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ll][Ii][Kk][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm]\.[Aa]\.[Oo]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm]\.[Ff][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm]\.[Hh]\.[Tt]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm]\.[Mm]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Aa][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Aa][Tt]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Aa][Xx]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Ee][Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Ee][Dd][Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Ee][Dd][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Ee][Kk]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Gg]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Ii][Ll][Jj]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Ii][Nn]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Kk][Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Ll]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Mm]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Oo][Mm]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Oo][Tt][Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Oo][Tt][Ss][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Åå][Nn]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Mm][Öö][Jj][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Nn]:[Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Nn][Bb]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Nn][Gg][Nn]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Nn][Gg][Nn][Ss]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Nn][Gg][Tt]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Nn][Oo][Mm]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Nn][Oo][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Nn][Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Nn][Tt][Oo]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Nn][Uu][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Nn][Vv]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Nn][Ää][Mm][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Nn][Öö]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Oo]\.[Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Oo]\.[Dd][Yy][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Oo]\.[Ss]\.[Aa]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Oo]\.[Ss]\.[Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Oo][Bb][Ee][Ss][Tt]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Oo][Bb][Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Oo][Kk][Tt]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Oo][Mm][Kk][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Oo][Rr][Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Oo][Rr][Dd][Ff]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Oo][Rr][Dd][Nn]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Oo][Rr][Ii][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Oo][Ss][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp]\.[Gg]\.[Aa]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp]\.[Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Aa][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Ee][Rr][Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Ll][Uu][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Mm]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Oo][Ll]\.[Mm][Aa][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Oo][Ll][Ii][Tt]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Rr][Oo][Cc]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Rr][Oo][Ff]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Rr][Oo][Tt]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Ss]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Pp][Ss][Ee][Uu][Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Rr][Ee][Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Rr][Ee][Ff]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Rr][Ee][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Rr][Ee][Ss][Pp]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Rr][Åå]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss]\.[Aa]\.[Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss]\.[Kk]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss]:[Aa]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss]:[Nn]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss]:[Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss]:[Tt]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss]:[Tt][Aa]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Aa]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Ee][Kk]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Ee][Kk][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Ee][Pp][Tt]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Ee][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Ii][Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Ii][Gg][Nn]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Nn]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Pp][Ee][Cc]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Rr]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Tt]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Tt][Uu][Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Vv]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Ää][Rr][Ss][Kk]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ss][Öö]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt]\.[Ee][Xx]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt]\.[Oo]\.[Mm]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt]\.[Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Aa][Bb]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Ee][Kk][Nn]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Ee][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Ee][Ll][Ee][Ff]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Ee][Mm][Pp]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Ff]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Ff][Nn]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Gg][Mm]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Ii][Dd][Nn]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Ii][Dd][Ss][Kk][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Ii][Ll][Ll][Ff]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Ii][Mm]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Jj][Ff]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Kk][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Rr][Pp][Tt]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Vv]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Tt][Ää][Mm][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Uu]\.[Pp]\.[Aa]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Uu][Dd]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Uu][Nn][Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Uu][Nn][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Uu][Pp][Pp][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Uu][Rr][Ss][Pp][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Uu][Tt][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Uu][Tt][Tt][Rr]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Vv][Aa][Rr][Dd]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Vv][Dd]</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Vv][Oo][Ll]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Ää][Vv]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Åå][Rr][Gg]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Åå][Rr][Hh]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Öö]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Öö][Vv][Ee][Rr][Ss]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+</languagerule>

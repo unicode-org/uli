@@ -1,0 +1,37 @@
+<!--  SRX abbreviations for Russian  (UTF-8)  -->
+<!-- <languagemap languagepattern="[Rr][Uu].*" languagerulename="Russian"/> -->
+
+<languagerule languagerulename="Russian">
+  <rule break="no">
+    <beforebreak>\b[Кк][Вв]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Оо][Бб][Лл]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Оо][Тт][Дд]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Пп][Рр][Оо][Фф]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Рр][Уу][Бб]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Тт][Ыы][Сс]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Тт][Ээ][Лл]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+  <rule break="no">
+    <beforebreak>\b[Уу][Лл]\.</beforebreak>
+    <afterbreak>\s</afterebreak>
+  </rule>
+</languagerule>
