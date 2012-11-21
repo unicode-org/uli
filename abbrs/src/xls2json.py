@@ -100,6 +100,7 @@ for loc in locs:
     #print ' ','|'.join(remainEntries)
     jsonOut = {};
     jsonOut[loc] = list(remainEntries);
+    jsonOut[loc].sort()
     #print json.dumps(jsonOut, sort_keys=True, indent=4)
     fn = '../json/%s.js' % (loc)
     f = open(fn, 'wb')
