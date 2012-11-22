@@ -1,6 +1,6 @@
 {
     "about": {
-        "comment": "Generated from ../xls/de.xls - 245 rows processed, 160 exception entries, 61 nonexception (186 unique) - 125 total usable", 
+        "comment": "Generated from ../xls/de.xls - 247 rows processed, 162 exception entries, 63 nonexception (190 unique) - 127 total usable", 
         "id": "de"
     }, 
     "data": {
@@ -23,7 +23,8 @@
             "Ges.", 
             "Hbf.", 
             "Hptst.", 
-            "Hr./Hrn.", 
+            "Hr.", 
+            "Hrn.", 
             "Hrsg.", 
             "Ing.", 
             "Inh.", 
@@ -69,7 +70,8 @@
             "gek.", 
             "gesch.", 
             "gest.", 
-            "ggf./ggfs.", 
+            "ggf.", 
+            "ggfs.", 
             "hpts.", 
             "i.A.", 
             "i.B.", 
