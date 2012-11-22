@@ -29,7 +29,8 @@ for loc in locs:
     print 'Locale: %s' % (loc)
     exceptionEntries = set()
     nonExceptionEntries = set()
-    wb = open_workbook('../xls/%s.xls' % (loc))
+    wbfn = '../xls/%s.xls' % (loc)
+    wb = open_workbook(wbfn)
     nrows = 0
     for s in wb.sheets():
         header = []
@@ -98,14 +99,13 @@ for loc in locs:
 
     #print 'Entries: '
     #print ' ','|'.join(remainEntries)
-    jsonOut = {};
-    jsonOut[loc] = list(remainEntries);
-    jsonOut[loc].sort()
-    #print json.dumps(jsonOut, sort_keys=True, indent=4)
+    data = {};
+    data['abbrs'] = list(remainEntries);
+    data['abbrs'].sort()
+    jsonOut = { 'about': { 'id': loc, 'comment': "COMMENT" }, 'data': data };
     fn = '../json/%s.js' % (loc)
     f = open(fn, 'wb')
-    print >>f, '// Generated from %s.xls' % (loc)
-    print >>f, "// For locale %s: %d rows processed, %d exception entries, %d nonexception (%d unique) - %d total usable" % (loc, nrows, len(exceptionEntries), len(nonExceptionEntries), len(uniqueEntries), len(remainEntries))
+    jsonOut['about']['comment'] = "Generated from %s - %d rows processed, %d exception entries, %d nonexception (%d unique) - %d total usable" % (wbfn, nrows, len(exceptionEntries), len(nonExceptionEntries), len(uniqueEntries), len(remainEntries))
     print >>f, json.dumps(jsonOut, sort_keys=True, indent=4)
     print "*** Wrote %s with %d entries" % (fn,len(remainEntries))
     print
