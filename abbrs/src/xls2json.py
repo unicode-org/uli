@@ -11,8 +11,8 @@ from xlrd import open_workbook
 import json
 import os
 
-#testing
-#locs = ['en']
+dbg = False
+
 locs = []
 
 # doing it wrong.
@@ -24,6 +24,9 @@ for ent in files:
     for file in files:
         if(file.endswith('.xls')):
             locs.append(file.split('.')[0])
+
+#testing
+#locs = ['ru']
 
 for loc in locs:
     print 'Locale: %s' % (loc)
@@ -53,16 +56,19 @@ for loc in locs:
         for i in range(len(header)):
             if header[i]=='Entry example':
                 entryHeader = i
+            elif header[i]=='Abbreviation':
+                entryHeader = i
             elif header[i]=='isException':
                 exceptionHeader = i
             elif header[i]=='Exception?':
                 exceptionHeader = i
 
-        if(entryHeader==-1 and exceptionHeader==-1):
+        if(entryHeader==-1 or exceptionHeader==-1):
             print '   Skipping this sheet: could not find entryHeader and exceptionHeader in %s' % (loc)
             continue
             # exit?
-        
+    
+        #print "EntryHeader %d, exceptionHeader %d" % (entryHeader,exceptionHeader)
 
         rows = []
         for row in range(1,s.nrows):
@@ -75,6 +81,8 @@ for loc in locs:
             entry = str(values[entryHeader])
             isException = str(values[exceptionHeader])
             if(isException == 'Yes'):
+                exc = True
+            elif(isException == 'yes'):
                 exc = True
             elif(isException == 'No'):
                 exc = False
@@ -97,8 +105,7 @@ for loc in locs:
 
     print "Locale %s: %d rows processed, %d exception entries, %d nonexception (%d unique) - %d total usable" % (loc, nrows, len(exceptionEntries), len(nonExceptionEntries), len(uniqueEntries), len(remainEntries))
 
-    #print 'Entries: '
-    #print ' ','|'.join(remainEntries)
+    #print 'Entries: ','|'.join(remainEntries)
     data = {};
     data['abbrs'] = list(remainEntries);
     data['abbrs'].sort()
