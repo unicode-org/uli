@@ -110,7 +110,7 @@ for loc in locs:
     data['abbrs'] = list(remainEntries);
     data['abbrs'].sort()
     jsonOut = { 'about': { 'id': loc, 'comment': "COMMENT" }, 'data': data };
-    fn = '../json/%s.js' % (loc)
+    fn = '../json/%s.json' % (loc)
     f = open(fn, 'wb')
     jsonOut['about']['comment'] = "Generated from %s - %d rows processed, %d exception entries, %d nonexception (%d unique) - %d total usable" % (wbfn, nrows, len(exceptionEntries), len(nonExceptionEntries), len(uniqueEntries), len(remainEntries))
     print >>f, json.dumps(jsonOut, sort_keys=True, indent=4)

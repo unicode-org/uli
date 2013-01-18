@@ -33,11 +33,16 @@ abbrs/abr/rodolpho/portuguese.abr -text
 abbrs/abr/rodolpho/spanish.abr -text
 abbrs/abr/rodolpho/swedish.abr -text
 abbrs/abr/rodolpho/thai.abr -text
-abbrs/json/de.js -text svneol=unset#text/json
-abbrs/json/en.js -text svneol=unset#text/json
-abbrs/json/es.js -text svneol=unset#text/json
-abbrs/json/ru.js -text svneol=unset#text/json
+abbrs/json-cooked/de.json -text svneol=unset#application/json
+abbrs/json-cooked/en.json -text svneol=unset#application/json
+abbrs/json-cooked/es.json -text svneol=unset#application/json
+abbrs/json-cooked/ru.json -text svneol=unset#application/json
+abbrs/json/de.json -text svneol=unset#text/json
+abbrs/json/en.json -text svneol=unset#text/json
+abbrs/json/es.json -text svneol=unset#text/json
+abbrs/json/ru.json -text svneol=unset#text/json
 abbrs/src/Makefile -text
+abbrs/src/cookjson.py -text
 abbrs/src/xls2json.py -text
 abbrs/srx/catalan.srx -text
 abbrs/srx/czech.srx -text
