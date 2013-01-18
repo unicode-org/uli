@@ -1,7 +1,7 @@
 {
     "about": {
         "comment": "Generated from ../xls/de.xls - 247 rows processed, 162 exception entries, 63 nonexception (190 unique) - 127 total usable", 
-        "cooked": "Loaded 18 abbrs from CLDR", 
+        "cooked": "Loaded 17 abbrs from CLDR", 
         "id": "de"
     }, 
     "data": {
@@ -24,7 +24,6 @@
             "Fam.", 
             "Feb.", 
             "Forts. f.", 
-            "Fr.", 
             "Fr.", 
             "Frl.", 
             "Gebr.", 

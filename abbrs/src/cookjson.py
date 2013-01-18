@@ -45,7 +45,7 @@ for loc in locs:
     cldrf.close()
 
     # read ULI data
-    abbrs = list(data['data']['abbrs'])
+    abbrs = set(data['data']['abbrs'])
 
     # TODO: parameterize, use all calendars. Additional items.
     lists = [cldr["dates"]["calendars"]["gregorian"]["months"]["format"]["abbreviated"], cldr["dates"]["calendars"]["gregorian"]["days"]["format"]["abbreviated"],cldr["dates"]["calendars"]["gregorian"]["eras"]["eraAbbr"]]
@@ -62,14 +62,15 @@ for loc in locs:
             # TODO: use other abbrs besides '.'.  Find out which items cause break.
             if v[len(v)-1] == '.':
                 # ends with dot
-                abbrs.append(v)
+                abbrs.add(v)
 
     len1 = len(abbrs) 
 
     print "new len: %d - added %d" % (len(abbrs), (len1-len0))
-    abbrs.sort()
+    #abbrs.sort()
     # copy back
-    data['data']['abbrs'] = abbrs
+    data['data']['abbrs'] = list(abbrs)
+    data['data']['abbrs'].sort()
     if len1 > len0:
         data['about']['cooked'] = 'Loaded %d abbrs from CLDR' % (len1-len0)
     else:
