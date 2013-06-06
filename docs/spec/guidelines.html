@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for Mac OS X (vers 31 October 2006 - Apple Inc. build 15.10), see www.w3.org">
+  <meta charset="utf-8">
+  <meta http-equiv="Content-type" content=
+  "text/html; charset=utf-8">
+
+  <title></title><!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  <style type="text/css" media="screen">
+      img.ulilogo {
+           border:  0; 
+           float: right;
+        }
+  </style>
+</head>
+
+<body id="uli_guidelines">
+  <h1><a href="http://uli.unicode.org">ULI<img class="ulilogo"
+  height="32" alt="ULI Logo" src="../images/ulilogo.png"></a>
+  Translation Guidelines</h1>
+
+  <p>Version: 0.0<br>
+  Date: 6 June 2013</p>
+  <hr>
+
+  <p>The purpose of this document is to describe how the ULI
+  (Unicode Localization Data Interoperability Technical Committee)
+  sentence segmentation data spreadsheet is structured.</p>
+
+  <p>There are seven fields per entry,</p>
+
+  <ol>
+    <li><b>Entry</b>: the entry as entered in context. Case is
+    currently ignored. If an Entry has “a.m. ; A.M.” please remove
+    one variant or split it into two rows.</li>
+
+    <li><b>Full entry name</b>: fully spelled out representation of
+    the entry, if different. May be identical to Entry.</li>
+
+    <li><b>Example content including entry</b>: An example of real
+    content when the entry is used within context</li>
+
+    <li><b>isException</b>: whether or not that usage represents an
+    override to UAX#29 (see http://www.unicode.org/reports/tr29/
+    for more details)</li>
+
+    <li><b>Frequency</b>: the likelihood of the entry of expected
+    segmentation behavior occurring within the context</li>
+
+    <li><b>Notes</b>: comments regarding the entry of expected
+    segmentation behavior</li>
+
+    <li><b>Possible translations to English</b>: all possible
+    translations of the entry to English within context</li>
+  </ol>
+
+  <p>For example, in English, we have four distinct entries for
+  “Dr.”:</p><img id="enxls" src="enxls.png" alt=
+  "(Sample from en.xls)" style="display: block; margin: 1em;">
+
+  <p>All rows with the identical “<b>Entry</b>” should add up to
+  100%.</p>
+
+  <p>If only a single value for isException is given (i.e. all Yes
+  or all No), the complementary percentage is assumed for the
+  complementary isException value.</p>
+
+  <p>For example, “20% Yes” implies 80% No, “10% No” implies 90%
+  Yes. “30% Yes / 40% Yes” implies 30% No.</p>
+
+  <p>It is an error to have both Yes and No and not explicitly
+  specify 100% of the cases.</p>
+</body>
+</html>
