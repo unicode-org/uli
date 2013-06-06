@@ -62,10 +62,10 @@ abbrs/srx/russian.srx -text
 abbrs/srx/spanish.srx -text
 abbrs/srx/swedish.srx -text
 abbrs/srx/thai.srx -text
-abbrs/xls/br.xls -text
 abbrs/xls/de.xls -text
 abbrs/xls/en.xls -text
 abbrs/xls/es.xls -text
+abbrs/xls/pt_BR.xls -text
 abbrs/xls/ru.xls -text
 docs/images/ulilogo.intaglio -text
 docs/images/ulilogo.png -text svneol=unset#image/png
