@@ -67,6 +67,8 @@ abbrs/xls/en.xls -text
 abbrs/xls/es.xls -text
 abbrs/xls/pt_BR.xls -text
 abbrs/xls/ru.xls -text
+abbrs/xml/common/dtd/ldml.dtd -text
+abbrs/xml/common/segments/en.xml svneol=native#text/xml
 docs/images/ulilogo.intaglio -text
 docs/images/ulilogo.png -text svneol=unset#image/png
 docs/images/ulilogo.svg -text
