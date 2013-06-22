@@ -36,13 +36,16 @@ abbrs/abr/rodolpho/thai.abr -text
 abbrs/json-cooked/de.json -text svneol=unset#application/json
 abbrs/json-cooked/en.json -text svneol=unset#application/json
 abbrs/json-cooked/es.json -text svneol=unset#application/json
+abbrs/json-cooked/pt_BR.json -text svneol=unset#application/json
 abbrs/json-cooked/ru.json -text svneol=unset#application/json
 abbrs/json/de.json -text svneol=unset#text/json
 abbrs/json/en.json -text svneol=unset#text/json
 abbrs/json/es.json -text svneol=unset#text/json
+abbrs/json/pt_BR.json -text svneol=unset#application/json
 abbrs/json/ru.json -text svneol=unset#text/json
 abbrs/src/Makefile -text
 abbrs/src/cookjson.py -text
+abbrs/src/json2cldr.py -text
 abbrs/src/xls2json.py -text
 abbrs/srx/catalan.srx -text
 abbrs/srx/czech.srx -text
@@ -68,7 +71,11 @@ abbrs/xls/es.xls -text
 abbrs/xls/pt_BR.xls -text
 abbrs/xls/ru.xls -text
 abbrs/xml/common/dtd/ldml.dtd -text
+abbrs/xml/common/segments/de.xml svneol=native#text/xml
 abbrs/xml/common/segments/en.xml svneol=native#text/xml
+abbrs/xml/common/segments/es.xml svneol=native#text/xml
+abbrs/xml/common/segments/pt_BR.xml svneol=native#text/xml
+abbrs/xml/common/segments/ru.xml svneol=native#text/xml
 docs/images/ulilogo.intaglio -text
 docs/images/ulilogo.png -text svneol=unset#image/png
 docs/images/ulilogo.svg -text

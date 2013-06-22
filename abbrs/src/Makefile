@@ -6,7 +6,7 @@
 
 include Makefile.local
 
-all:	spread cook
+all:	spread cook xml
 
 spread:
 	python ./xls2json.py
@@ -14,5 +14,7 @@ spread:
 cook:
 	python ./cookjson.py $(CLDR_JSON)
 
+xml:
+	python ./json2cldr.py
 
 .PHONY:	spread cook all

@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<ldml>
+  <identity>
+    <version number="$Revision$"/>
+    <generation date="$Date$"/>
+    <language type="de"/>
+  </identity>
+  <segmentations>
+    <segmentation type="SentenceBreak">
+      <!--From ULI data, http://uli.unicode.org-->
+      <exceptions draft="provisional">
+       gedr.
+       Di.
+       Ges.
+       frz.
+       entspr.
+       Gebr.
+       erw.
+       Frl.
+       Inh.
+       k.u.k.
+       evtl.
+       Hrn.
+       i.B.
+       kgl.
+       o.B.
+       Sa.
+       ev.
+       Dez.
+       am.
+       i.R.
+       eigtl.
+       i.J.
+       u.U.
+       z.Hd.
+       u.A.w.g.
+       St.
+       led.
+       Ing.
+       amtl.
+       i.A.
+       Hr.
+       a.Rh.
+       Chr.
+       ggf.
+       sog.
+       schwäb.
+       Aug.
+       Dipl.-Ing.
+       Hbf.
+       Fa.
+       Mo.
+       n.u.Z.
+       Mrd.
+       verh.
+       Dir.
+       Ztr.
+       k. u. k.
+       b.
+       kath.
+       i.H.
+       v.R.w.
+       o.A.
+       Abs.
+       Mär.
+       Dtzd.
+       jhrl.
+       s.a.
+       tägl.
+       gest.
+       gesch.
+       z.B.
+       Abt.
+       e.Wz.
+       v.T.
+       Nov.
+       z.
+       n. Chr.
+       u.v.a.
+       i.V.
+       Jan.
+       od.
+       Pfd.
+       a.a.O.
+       p.Adr.
+       zzgl.
+       v. Chr.
+       ggfs.
+       z.Z.
+       m.W.
+       Verf.
+       r.
+       Adr.
+       Sep.
+       Kl.
+       hpts.
+       Feb.
+       jew.
+       a.M.
+       Str.
+       exkl.
+       ehem.
+       näml.
+       Dipl.-Kfm.
+       mtl.
+       Hrsg.
+       u.Ä.
+       u.
+       Kap.
+       a.D.
+       röm.
+       v.u.Z.
+       Fr.
+       d.J.
+       Reg.-Bez.
+       m.E.
+       schles.
+       inkl.
+       geb.
+       e.h.
+       kfm.
+       Nr.
+       d.Ä.
+       verw.
+       vgl.
+       Do.
+       v.Chr.
+       s.
+       e.V.
+       möbl.
+       F.f.
+       a.a.S.
+       v. H.
+       Msp.
+       Apr.
+       v.H.
+       So.
+       einschl.
+       StR.
+       Fam.
+       u.a.
+       schweiz.
+       o.g.
+       Kfm.
+       Mi.
+       beil.
+       röm.-kath.
+       Okt.
+       u.ä.
+       Hptst.
+       südd.
+       Mio.
+       Forts. f.
+       gek.
+       österr.
+     </exceptions>
+    </segmentation>
+  </segmentations>
+</ldml>
+

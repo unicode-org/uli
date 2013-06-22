@@ -4,29 +4,29 @@
   <identity>
     <version number="$Revision$"/>
     <generation date="$Date$"/>
-    <language type="en"/>
+    <language type="ru"/>
   </identity>
   <segmentations>
     <segmentation type="SentenceBreak">
       <!--From ULI data, http://uli.unicode.org-->
       <exceptions draft="provisional">
-       Sgt.
-       A.D.
-       Ms.
-       Ph.D.
-       Rev.
-       PP.
-       Mrs.
-       pp.
-       Fri.
-       Mr.
-       Lt.Cdr.
-       vs.
-       Pvt.
-       a.m.
-       Corp.
-       Prof.
-       Hon.B.A.
+       руб.
+       янв.
+       тел.
+       до н.э.
+       дек.
+       февр.
+       нояб.
+       апр.
+       окт.
+       тыс.
+       авг.
+       проф.
+       сент.
+       н.э.
+       кв.
+       ул.
+       отд.
      </exceptions>
     </segmentation>
   </segmentations>
