@@ -1,6 +1,6 @@
 {
     "about": {
-        "comment": "Generated from ../xls/en.xls - 50 rows processed, 21 exception entries, 26 nonexception (43 unique) - 17 total usable", 
+        "comment": "Generated from ../xls/en.xls - 52 rows processed, 22 exception entries, 27 nonexception (44 unique) - 17 total usable", 
         "cooked": "No abbrs loaded from CLDR", 
         "id": "en"
     }, 

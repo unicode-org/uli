@@ -78,8 +78,20 @@ for loc in locs:
                 values.append(s.cell(row,col).value)
             rows.append(values)
 
-            entry = str(values[entryHeader])
-            isException = str(values[exceptionHeader])
+            entry = str(values[entryHeader]).strip()
+
+            if(len(entry)==0):
+                if dbg:
+                    print "Skipping empty value on row %d" % row
+                continue
+
+            isException = str(values[exceptionHeader]).strip()
+
+            if(len(isException)==0):
+                if dbg:
+                    print "Skipping empty isException value on row %d" % row
+                continue
+
             if(isException == 'Yes'):
                 exc = True
             elif(isException == 'yes'):
@@ -89,7 +101,7 @@ for loc in locs:
             elif(isException == 'no'):
                 exc = False
             else:
-                print 'Unknown true/false value %s' % (isException)
+                print 'Row %d: Unknown true/false value "%s"' % (row, isException)
                 exc = True
 
             #print "Entry %s, exception %s" % (entry,exc)

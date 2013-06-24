@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<ldml>
+  <identity>
+    <version number="$Revision$"/>
+    <generation date="$Date$"/>
+    <language type="fr"/>
+  </identity>
+  <segmentations>
+    <segmentation type="SentenceBreak">
+      <!--From ULI data, http://uli.unicode.org-->
+      <exceptions draft="provisional">
+       aux.
+       config.
+       collab.
+       M.
+       dim.
+       imprim.
+       oct.
+       syst.
+       bull.
+       MM.
+       doc.
+       hôp.
+       quart.
+       dir.
+       adr.
+       symb.
+       jeu.
+       anc.
+       voit.
+       graph.
+       éd.
+       fig.
+       cam.
+       éval.
+       juil.
+       dict.
+       févr.
+       équiv.
+       sept.
+       acoust.
+       nov.
+       anon.
+       illustr.
+       avr.
+       dest.
+       P.-D. G.
+       ill.
+       édit.
+       encycl.
+       mer.
+       broch.
+       ven.
+       lun.
+       append.
+       réf.
+       categ.
+       sam.
+       janv.
+       imm.
+       coll.
+       mar.
+       exempl.
+       déc.
+       ann.
+       synth.
+       indus.
+       av. J.-C.
+       niv.
+       ap. J.-C.
+       gouv.
+       trav. publ.
+     </exceptions>
+    </segmentation>
+  </segmentations>
+</ldml>
+

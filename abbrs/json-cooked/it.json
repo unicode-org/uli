@@ -1,0 +1,45 @@
+{
+    "about": {
+        "comment": "Generated from ../xls/it.xls - 187 rows processed, 65 exception entries, 69 nonexception (103 unique) - 34 total usable", 
+        "cooked": "No abbrs loaded from CLDR", 
+        "id": "it"
+    }, 
+    "data": {
+        "abbrs": [
+            "C.P.", 
+            "Geom.", 
+            "Ing.", 
+            "N.B.", 
+            "N.d.A.", 
+            "N.d.E.", 
+            "N.d.T.", 
+            "O.d.G.", 
+            "S.p.A.", 
+            "Sig.", 
+            "a.C.", 
+            "ag.", 
+            "all.", 
+            "arch.", 
+            "avv.", 
+            "c.c.p.", 
+            "d.C.", 
+            "d.p.R.", 
+            "div.", 
+            "dott.", 
+            "dr.", 
+            "fig.", 
+            "int.", 
+            "mitt.", 
+            "on.", 
+            "p.", 
+            "p.i.", 
+            "pag.", 
+            "rag.", 
+            "sez.", 
+            "tab.", 
+            "tav.", 
+            "ver.", 
+            "vol."
+        ]
+    }
+}

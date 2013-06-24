@@ -11,181 +11,176 @@
     <segmentation type="SentenceBreak">
       <!--From ULI data, http://uli.unicode.org-->
       <exceptions draft="provisional">
-       
-       séc. 
-       long. 
-       agric. 
-       Alm. 
-       des.
-       mús. 
+       psicol.
+       fig.
+       compl.
+       rep.
+       cap.
        doc.
-       Dra. 
-       geom. 
-       rep. 
-       prod. 
-       odont.
-       biogr. 
-       créd. 
-       V.T. 
+       fisiol.
+       dipl.
+       astron.
+       port.
+       eletrôn.
+       geom.
        mov.
-       Ph.D. 
        ago.
-       rel. 
+       trad.
+       arquit.
        dez.
-       caps. 
+       ed.
        apt.
        Exmo.
        col.
        ff.
-       pp. 
-       com. 
-       náut. 
+       univ.
+       res.
+       R.
+       transp.
        D.C
        l.
-       prof. 
-       odontol. 
+       des.
        fev.
-       filos. 
-       astron. 
+       abr.
+       liter.
+       lat.
        Dir.
-       gên. 
+       cf.
        adm.
        fot.
        p.m. ; P.M.
-       ed. 
-       aer. 
-       fisiol. 
-       abr. 
-       psicol. 
-       arquit. 
-       Pe. 
-       Dr. 
-       elem. 
+       créd.
+       jur.
+       com.
+       anat.
        dir.
        end.
+       fís.
        E.
-       quím. 
        Est.
        cont.
        matem.
-       S. 
+       Drs.
+       gên.
        neol.
        pág.
+       índ.
        Ltda.
        Exma.
-       pron. 
-       mai.
-       fac. 
-       apart. 
+       esp.
+       ingl.
        tecnol.
-       fís. 
        Mar.
-       res. 
-       liter.
-       esp. 
-       A.C.
+       símb.
+       Pe.
+       pal.
+       filos.
+       V.T.
+       fasc.
+       vs.
+       mai.
        S.A.
-       relat. 
-       fasc. 
+       profa.
+       N.Sra.
        r.s.v.p.
        cel.
        mat.
-       índ. 
-       comp. 
+       abrev.
        out.
-       fig. 
-       lat.
+       long.
        aux.
+       arit.
+       aer.
        jul.
-       cf. 
        lin.
-       N.T. 
-       N.Sra. 
-       pal. 
-       hist. 
-       arqueol. 
+       S.
+       méd.
+       odontol.
        org.
-       trad. 
-       arit. 
-       R. 
+       A.C.
+       jun.
        déb.
+       Av.
+       álg.
        sup.
        fl.
-       Sto. 
-       vol.
+       odont.
+       caps.
+       relat.
+       organiz.
+       hist.
+       Fr.
        Ilmo.
-       Sta. 
-       profa. 
+       fem.
        ap.
-       cód. 
        Ltd.
-       Jr. 
+       pol.
+       séc.
+       prof.
        cx.
        nov.
-       univ.
-       dep. 
+       quím.
+       mús.
+       agric.
        mar.
        W.C.
+       fr.
        cat.
-       pol. 
        jan.
+       pron.
        rel.
        autom.
-       Drs. 
-       ref. 
+       Sta.
+       Dra.
        p.
-       Dras. 
        tel.
        div.
+       p. ex.
        a.C.
        bras.
-       port. 
+       Alm.
+       Dr.
+       comp.
        pq.
-       símb. 
-       fr. 
-       desc. 
-       inf.
+       arqueol.
+       náut.
+       biogr.
        f.
        círc.
+       fac.
        d.C.
-       gram. 
-       fem. 
+       apart.
        ex.
-       rementente
+       Jr.
        set.
-       anat. 
-       dipl. 
        tec.
-       vs. 
-       álg. 
-       méd. 
-       transp. 
+       sociol.
+       gram.
        ind.
-        f.
        Ilma.
-       jur. 
+       vol.
+       eng.
        rod.
-       compl. 
-       ingl.
-       abrev. 
+       Ph.D.
+       Dras.
+       pp.
+       elem.
        máq.
-       jun.
-       Fr. 
-       obs. 
-       eletrôn. 
+       cód.
+       eletr.
+       prod.
+       ref.
+       fil.
        a.m. ; A.M
-       eng. 
-       cap. 
-       p. ex. 
-       organiz. 
+       obs.
+       N.T.
        contab.
-       fil. 
-       sociol. 
+       Sto.
        lit.
        educ.
-       Av. 
+       rementente
+       desc.
        próx.
-       eletr. 
      </exceptions>
     </segmentation>
   </segmentations>

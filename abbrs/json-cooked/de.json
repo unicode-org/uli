@@ -1,6 +1,6 @@
 {
     "about": {
-        "comment": "Generated from ../xls/de.xls - 247 rows processed, 162 exception entries, 63 nonexception (190 unique) - 127 total usable", 
+        "comment": "Generated from ../xls/de.xls - 290 rows processed, 161 exception entries, 64 nonexception (189 unique) - 125 total usable", 
         "cooked": "Loaded 17 abbrs from CLDR", 
         "id": "de"
     }, 
@@ -30,8 +30,7 @@
             "Ges.", 
             "Hbf.", 
             "Hptst.", 
-            "Hr.", 
-            "Hrn.", 
+            "Hr./Hrn.", 
             "Hrsg.", 
             "Ing.", 
             "Inh.", 
@@ -86,8 +85,7 @@
             "gek.", 
             "gesch.", 
             "gest.", 
-            "ggf.", 
-            "ggfs.", 
+            "ggf./ggfs.", 
             "hpts.", 
             "i.A.", 
             "i.B.", 
