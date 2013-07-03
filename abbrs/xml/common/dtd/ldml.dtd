@@ -1299,7 +1299,7 @@ $Date: 2013-06-24 11:06:57 -0700 (Mon, 24 Jun 2013) $
 
 <!-- ######################################################### -->
 
-<!ELEMENT collations (alias | (default*, defaultCollation*, collation*, special*)) >
+<!ELEMENT collations (alias | (defaultCollation?, default*, collation*, special*)) >
 <!ATTLIST collations version NMTOKEN #IMPLIED >
 <!ATTLIST collations draft ( approved | contributed | provisional | unconfirmed | true | false ) #IMPLIED > <!-- true and false are deprecated. -->
 <!ATTLIST collations validSubLocales CDATA #IMPLIED >
