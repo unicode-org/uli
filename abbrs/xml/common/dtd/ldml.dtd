@@ -1,9 +1,3 @@
-<!-- 
-     This DTD has been modified to add ULI exceptions as per proposal in:
-     http://unicode.org/cldr/trac/ticket/6336#comment:6
-
-     It is a work in progress and NOT an official CLDR document. Caveat lector.
--->
 <!--
 Copyright © 2003-2013 Unicode, Inc. and others. All rights reserved. Distributed under the Terms of Use in http://www.unicode.org/copyright.html.
 
@@ -12,8 +6,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA FILES OR SOFTWARE.
 
 Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in these Data Files or Software without prior written authorization of the copyright holder.
-$Revision: 8720 $
-$Date: 2013-05-15 10:46:45 -0700 (Wed, 15 May 2013) $
+$Revision: 8962 $
+$Date: 2013-06-24 11:06:57 -0700 (Mon, 24 Jun 2013) $
 -->
 
 <!ELEMENT ldml (identity, (alias | (fallback*, localeDisplayNames?, layout?, contextTransforms?, characters?, delimiters?, measurement?, dates?, numbers?, units?, listPatterns?, collations?, posix?, segmentations?, rbnf?, metadata?, references?, special*))) >
@@ -69,9 +63,9 @@ $Date: 2013-05-15 10:46:45 -0700 (Wed, 15 May 2013) $
 <!ATTLIST alias draft ( approved | contributed | provisional | unconfirmed | true | false ) #IMPLIED > <!-- true and false are deprecated. -->
 <!ATTLIST alias alt NMTOKENS #IMPLIED >
 
-<!ELEMENT default (special*) >
-<!ATTLIST default type NMTOKEN #IMPLIED > <!-- only used in collation, to be deprecated -->
-<!ATTLIST default choice NMTOKEN #IMPLIED > <!-- deprecated -->
+<!ELEMENT default (special*) > <!-- deprecated -->
+<!ATTLIST default type NMTOKEN #IMPLIED >
+<!ATTLIST default choice NMTOKEN #IMPLIED >
 <!ATTLIST default draft ( approved | contributed | provisional | unconfirmed | true | false ) #IMPLIED > <!-- true and false are deprecated. -->
 <!ATTLIST default references CDATA #IMPLIED >
 <!ATTLIST default alt NMTOKENS #IMPLIED >
@@ -1305,12 +1299,14 @@ $Date: 2013-05-15 10:46:45 -0700 (Wed, 15 May 2013) $
 
 <!-- ######################################################### -->
 
-<!ELEMENT collations (alias | (default*, collation*, special*)) >
+<!ELEMENT collations (alias | (default*, defaultCollation*, collation*, special*)) >
 <!ATTLIST collations version NMTOKEN #IMPLIED >
 <!ATTLIST collations draft ( approved | contributed | provisional | unconfirmed | true | false ) #IMPLIED > <!-- true and false are deprecated. -->
 <!ATTLIST collations validSubLocales CDATA #IMPLIED >
 
-<!ELEMENT collation (alias | (base?, settings?, suppress_contractions?, optimize?, rules?, special*)) >
+<!ELEMENT defaultCollation ( #PCDATA ) >
+
+<!ELEMENT collation (alias | (base?, import*, settings?, suppress_contractions?, optimize?, (cr* | rules?), special*)) >
 <!ATTLIST collation type NMTOKEN "standard" >
 <!ATTLIST collation draft ( approved | contributed | provisional | unconfirmed | true | false ) #IMPLIED > <!-- true and false are deprecated. -->
 <!ATTLIST collation standard CDATA #IMPLIED > <!-- the "standard" attribute is deprecated everywhere. -->
@@ -1320,6 +1316,10 @@ $Date: 2013-05-15 10:46:45 -0700 (Wed, 15 May 2013) $
 <!ATTLIST collation visibility ( internal | external ) "external" > 
 
 <!ELEMENT base (alias|special) >
+
+<!ELEMENT import EMPTY >
+<!ATTLIST import source CDATA #REQUIRED >
+<!ATTLIST import type CDATA #IMPLIED >
 
 <!ELEMENT settings (special*) >
 <!ATTLIST settings strength             ( primary | secondary | tertiary | quaternary | identical ) #IMPLIED >
@@ -1339,53 +1339,53 @@ $Date: 2013-05-15 10:46:45 -0700 (Wed, 15 May 2013) $
 
 <!ELEMENT optimize ( #PCDATA | cp )* >
 
-<!ELEMENT rules (alias | ( ( reset | import ), ( reset | import | p | pc |  s | sc | t | tc | q | qc | i | ic | x)* )) >
+<!ELEMENT cr ( #PCDATA )>
 
-<!ELEMENT reset ( #PCDATA | cp  | first_variable| last_variable | first_tertiary_ignorable | last_tertiary_ignorable | first_secondary_ignorable | last_secondary_ignorable | first_primary_ignorable | last_primary_ignorable | first_non_ignorable | last_non_ignorable | first_trailing | last_trailing )* >
+<!-- The rules element and all of its sub-elements are deprecated. Use the cr element instead, with ICU syntax. -->
+
+<!ELEMENT rules (alias | ( ( reset | import ), ( reset | import | p | pc |  s | sc | t | tc | q | qc | i | ic | x)* )) > <!-- deprecated -->
+
+<!ELEMENT reset ( #PCDATA | cp  | first_variable| last_variable | first_tertiary_ignorable | last_tertiary_ignorable | first_secondary_ignorable | last_secondary_ignorable | first_primary_ignorable | last_primary_ignorable | first_non_ignorable | last_non_ignorable | first_trailing | last_trailing )* > <!-- deprecated -->
 <!ATTLIST reset before NMTOKEN #IMPLIED >
 
-<!ELEMENT import EMPTY >
-<!ATTLIST import source CDATA #REQUIRED >
-<!ATTLIST import type CDATA #IMPLIED >
+<!ELEMENT p  ( #PCDATA  | cp | last_variable )* > <!-- deprecated -->
 
-<!ELEMENT p  ( #PCDATA  | cp | last_variable )* >
+<!ELEMENT pc ( #PCDATA  | cp | last_variable )* > <!-- deprecated -->
 
-<!ELEMENT pc ( #PCDATA  | cp | last_variable )* >
+<!ELEMENT s  ( #PCDATA  | cp | last_variable )* > <!-- deprecated -->
 
-<!ELEMENT s  ( #PCDATA  | cp | last_variable )* >
+<!ELEMENT sc ( #PCDATA  | cp | last_variable )* > <!-- deprecated -->
 
-<!ELEMENT sc ( #PCDATA  | cp | last_variable )* >
+<!ELEMENT t  ( #PCDATA  | cp | last_variable )* > <!-- deprecated -->
 
-<!ELEMENT t  ( #PCDATA  | cp | last_variable )* >
-
-<!ELEMENT tc ( #PCDATA  | cp | last_variable )* >
+<!ELEMENT tc ( #PCDATA  | cp | last_variable )* > <!-- deprecated -->
 
 <!ELEMENT q  ( #PCDATA  | cp | last_variable )* > <!-- deprecated -->
 
 <!ELEMENT qc ( #PCDATA  | cp | last_variable )* > <!-- deprecated -->
 
-<!ELEMENT i  ( #PCDATA  | cp | last_variable )* >
+<!ELEMENT i  ( #PCDATA  | cp | last_variable )* > <!-- deprecated -->
 
-<!ELEMENT ic ( #PCDATA  | cp | last_variable )* >
+<!ELEMENT ic ( #PCDATA  | cp | last_variable )* > <!-- deprecated -->
 
-<!ELEMENT x (context?, (  p | pc |  s | sc | t | tc | q | qc | i | ic )*, extend? )  >
+<!ELEMENT x (context?, (  p | pc |  s | sc | t | tc | q | qc | i | ic )*, extend? )  > <!-- deprecated -->
 
-<!ELEMENT extend ( #PCDATA | cp )* >
+<!ELEMENT extend ( #PCDATA | cp )* > <!-- deprecated -->
 
-<!ELEMENT context (  #PCDATA | cp )* >
+<!ELEMENT context (  #PCDATA | cp )* > <!-- deprecated -->
 
-<!ELEMENT first_variable EMPTY >
-<!ELEMENT last_variable EMPTY >
-<!ELEMENT first_tertiary_ignorable EMPTY >
-<!ELEMENT last_tertiary_ignorable EMPTY >
-<!ELEMENT first_secondary_ignorable EMPTY >
-<!ELEMENT last_secondary_ignorable EMPTY >
-<!ELEMENT first_primary_ignorable EMPTY >
-<!ELEMENT last_primary_ignorable EMPTY >
-<!ELEMENT first_non_ignorable EMPTY >
-<!ELEMENT last_non_ignorable EMPTY >
-<!ELEMENT first_trailing EMPTY >
-<!ELEMENT last_trailing EMPTY >
+<!ELEMENT first_variable EMPTY > <!-- deprecated -->
+<!ELEMENT last_variable EMPTY > <!-- deprecated -->
+<!ELEMENT first_tertiary_ignorable EMPTY > <!-- deprecated -->
+<!ELEMENT last_tertiary_ignorable EMPTY > <!-- deprecated -->
+<!ELEMENT first_secondary_ignorable EMPTY > <!-- deprecated -->
+<!ELEMENT last_secondary_ignorable EMPTY > <!-- deprecated -->
+<!ELEMENT first_primary_ignorable EMPTY > <!-- deprecated -->
+<!ELEMENT last_primary_ignorable EMPTY > <!-- deprecated -->
+<!ELEMENT first_non_ignorable EMPTY > <!-- deprecated -->
+<!ELEMENT last_non_ignorable EMPTY > <!-- deprecated -->
+<!ELEMENT first_trailing EMPTY > <!-- deprecated -->
+<!ELEMENT last_trailing EMPTY > <!-- deprecated -->
 
 <!-- ######################################################### -->
 
@@ -1428,7 +1428,7 @@ $Date: 2013-05-15 10:46:45 -0700 (Wed, 15 May 2013) $
 <!ATTLIST segmentations validSubLocales CDATA #IMPLIED >
 <!ATTLIST segmentations references CDATA #IMPLIED >
 
-<!ELEMENT segmentation ( alias | (variables?, segmentRules?, exceptions) | special*) >
+<!ELEMENT segmentation ( alias | (variables?, segmentRules?, exceptions?) | special*) >
 <!ATTLIST segmentation type NMTOKEN #REQUIRED >
 <!ATTLIST segmentation draft ( approved | contributed | provisional | unconfirmed | true | false ) #IMPLIED ><!-- true and false are deprecated. -->
 <!ATTLIST segmentation alt NMTOKENS #IMPLIED >
@@ -1451,9 +1451,10 @@ $Date: 2013-05-15 10:46:45 -0700 (Wed, 15 May 2013) $
 <!ATTLIST rule alt NMTOKENS #IMPLIED >
 <!ATTLIST rule references CDATA #IMPLIED >
 
-<!ELEMENT exceptions ( #PCDATA ) >
-<!ATTLIST exceptions draft ( approved | contributed | provisional | unconfirmed ) #IMPLIED >
-<!ATTLIST exceptions alt NMTOKENS #IMPLIED >
+<!ELEMENT exceptions ( exception* ) >
+
+<!ELEMENT exception ( #PCDATA ) >
+<!ATTLIST exception draft ( approved | contributed | provisional | unconfirmed ) #IMPLIED >
 
 <!ELEMENT rbnf ( alias | rulesetGrouping*) >
 

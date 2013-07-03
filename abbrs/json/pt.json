@@ -1,8 +1,7 @@
 {
     "about": {
-        "comment": "Generated from ../xls/pt_BR.xls - 296 rows processed, 190 exception entries, 53 nonexception (223 unique) - 170 total usable", 
-        "cooked": "No abbrs loaded from CLDR", 
-        "id": "pt_BR"
+        "comment": "Generated from ../xls/pt.xls - 296 rows processed, 190 exception entries, 53 nonexception (223 unique) - 170 total usable", 
+        "id": "pt"
     }, 
     "data": {
         "abbrs": [

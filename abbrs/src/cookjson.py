@@ -28,27 +28,38 @@ for ent in files:
 #locs = ['de']
 
 # TODO: read this from argv[1]
-CLDR_JSON='/home/srl/src/cldr-aux/json/22.1'
+# cldr-json must be local or symlink
+CLDR_JSON='./cldr-json'
 
 for loc in locs:
     print 'Locale: %s' % (loc)
-    fni = '../json/%s.json' % (loc)
-    fi  = open(fni, 'rb')
-    data = json.load(fi)
-    fi.close()
+
 
     #print(data)
 
-    cldrfn = '%s/main/%s.json' % (CLDR_JSON, loc)
-    cldrf = open(cldrfn, 'rb')
-    cldr = json.load(cldrf)
-    cldrf.close()
+    ulifn= '../json/%s.json' % (loc)
+    ulif = open(ulifn, 'rb')
+    data = json.load(ulif)
+    ulif.close()
+
+
+    cldr = {}
+
+    # don't load all of cldr
+    subfiles = ['ca-gregorian']
+
+    for subfile in subfiles:
+        fni = '%s/main/%s/%s.json' % (CLDR_JSON, loc, subfile)
+        print "Reading %s" % (fni)
+        fi  = open(fni, 'rb')
+        cldr[subfile] = json.load(fi)
+        fi.close()
 
     # read ULI data
     abbrs = set(data['data']['abbrs'])
 
     # TODO: parameterize, use all calendars. Additional items.
-    lists = [cldr["dates"]["calendars"]["gregorian"]["months"]["format"]["abbreviated"], cldr["dates"]["calendars"]["gregorian"]["days"]["format"]["abbreviated"],cldr["dates"]["calendars"]["gregorian"]["eras"]["eraAbbr"]]
+    lists = [cldr["ca-gregorian"]["main"][loc]["dates"]["calendars"]["gregorian"]["months"]["format"]["abbreviated"], cldr["ca-gregorian"]["main"][loc]["dates"]["calendars"]["gregorian"]["days"]["format"]["abbreviated"],cldr["ca-gregorian"]["main"][loc]["dates"]["calendars"]["gregorian"]["eras"]["eraAbbr"]]
 
     # list of stuff to add
     #print lists
@@ -71,13 +82,17 @@ for loc in locs:
     # copy back
     data['data']['abbrs'] = list(abbrs)
     data['data']['abbrs'].sort()
+
+    cldrver = cldr["ca-gregorian"]["main"][loc]["identity"]["version"]["@cldrVersion"]
+
+
     if len1 > len0:
-        data['about']['cooked'] = 'Loaded %d abbrs from CLDR' % (len1-len0)
+        data['about']['cooked'] = 'Loaded %d abbrs from CLDR %s' % (len1-len0, cldrver)
+        data['about']['cldrVer'] = cldrver
     else:
-        data['about']['cooked'] = 'No abbrs loaded from CLDR'
+        data['about']['cooked'] = 'No abbrs loaded from CLDR %s' % (cldrver)
 
     fn = '../json-cooked/%s.json' % (loc)
     f = open(fn, 'wb')
     print >>f, json.dumps(data, sort_keys=True, indent=4)
-    
 

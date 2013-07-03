@@ -1,7 +1,8 @@
 {
     "about": {
+        "cldrVer": "23.1", 
         "comment": "Generated from ../xls/ru.xls - 11 rows processed, 7 exception entries, 1 nonexception (8 unique) - 7 total usable", 
-        "cooked": "Loaded 10 abbrs from CLDR", 
+        "cooked": "Loaded 10 abbrs from CLDR 23.1", 
         "id": "ru"
     }, 
     "data": {

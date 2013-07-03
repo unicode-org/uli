@@ -12,9 +12,20 @@ spread:
 	python ./xls2json.py
 
 cook:
-	python ./cookjson.py $(CLDR_JSON)
+	@if [ ! -f ./cldr-json/main/root/ca-gregorian.json ]; \
+	then \
+		echo "Error: ./cldr-json needs to be a symlink to the latest CLDR JSON data" ; \
+		exit 1 ; \
+	fi
+	python ./cookjson.py
 
 xml:
 	python ./json2cldr.py
+	@if [ ! -f ./cldr.jar ]; \
+	then \
+		echo "Error: ./cldr.jar needs to be a symlink to the latest cldr.jar" ; \
+		exit 1 ; \
+	fi
+	java -classpath ./cldr.jar org.unicode.cldr.util.XMLValidator ../xml/*.xml
 
-.PHONY:	spread cook all
+.PHONY:	spread cook all 

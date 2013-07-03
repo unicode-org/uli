@@ -9,25 +9,25 @@
   <segmentations>
     <segmentation type="SentenceBreak">
       <!--From ULI data, http://uli.unicode.org-->
-      <exceptions draft="provisional">
-       Sgt.
-       A.D.
-       Ms.
-       Ph.D.
-       Rev.
-       PP.
-       Mrs.
-       pp.
-       Fri.
-       Mr.
-       Lt.Cdr.
-       vs.
-       Pvt.
-       a.m.
-       Corp.
-       Prof.
-       Hon.B.A.
-     </exceptions>
+      <exceptions>
+        <exception draft="provisional">Sgt.</exception>
+        <exception draft="provisional">A.D.</exception>
+        <exception draft="provisional">Ms.</exception>
+        <exception draft="provisional">Ph.D.</exception>
+        <exception draft="provisional">Rev.</exception>
+        <exception draft="provisional">PP.</exception>
+        <exception draft="provisional">Mrs.</exception>
+        <exception draft="provisional">pp.</exception>
+        <exception draft="provisional">Fri.</exception>
+        <exception draft="provisional">Mr.</exception>
+        <exception draft="provisional">Lt.Cdr.</exception>
+        <exception draft="provisional">vs.</exception>
+        <exception draft="provisional">Pvt.</exception>
+        <exception draft="provisional">a.m.</exception>
+        <exception draft="provisional">Corp.</exception>
+        <exception draft="provisional">Prof.</exception>
+        <exception draft="provisional">Hon.B.A.</exception>
+      </exceptions>
     </segmentation>
   </segmentations>
 </ldml>

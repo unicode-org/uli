@@ -1,7 +1,8 @@
 {
     "about": {
+        "cldrVer": "23.1", 
         "comment": "Generated from ../xls/de.xls - 290 rows processed, 161 exception entries, 64 nonexception (189 unique) - 125 total usable", 
-        "cooked": "Loaded 17 abbrs from CLDR", 
+        "cooked": "Loaded 17 abbrs from CLDR 23.1", 
         "id": "de"
     }, 
     "data": {
