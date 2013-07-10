@@ -1,18 +1,23 @@
 {
     "about": {
-        "comment": "Generated from ../xls/en.xls - 52 rows processed, 22 exception entries, 27 nonexception (44 unique) - 17 total usable", 
+        "comment": "Generated from ../xls/en.xls - 71 rows processed, 28 exception entries, 40 nonexception (63 unique) - 23 total usable", 
         "id": "en"
     }, 
     "data": {
         "abbrs": [
             "A.D.", 
-            "Corp.", 
+            "Capt.", 
+            "Col.", 
             "Fri.", 
             "Hon.B.A.", 
+            "Lt.", 
             "Lt.Cdr.", 
+            "Maj.", 
+            "Md.", 
             "Mr.", 
             "Mrs.", 
             "Ms.", 
+            "Mt.", 
             "PP.", 
             "Ph.D.", 
             "Prof.", 
@@ -20,6 +25,7 @@
             "Rev.", 
             "Sgt.", 
             "a.m.", 
+            "exec.", 
             "pp.", 
             "vs."
         ]

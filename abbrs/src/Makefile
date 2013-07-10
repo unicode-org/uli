@@ -1,10 +1,15 @@
 #
+# To setup:
 #
+#  ( needs python-devel or equivalent, libsxslt-devel or equivalent, and easy_install )
+#
+#  $ easy_install xlrd lxml 
+#  $ ln -s <path-to>/cldr.jar .
+#  $ ln -s <path-to-cldr-aux>/json/23.1 ./cldr-json
+#  $ make
 #
 
-# edit Makefile.local to include:  CLDR_JSON=/home/srl/src/cldr-aux/json/22.1
-
-include Makefile.local
+-include Makefile.local
 
 all:	spread cook xml
 
@@ -26,6 +31,6 @@ xml:
 		echo "Error: ./cldr.jar needs to be a symlink to the latest cldr.jar" ; \
 		exit 1 ; \
 	fi
-	java -classpath ./cldr.jar org.unicode.cldr.util.XMLValidator ../xml/*.xml
+	java -classpath ./cldr.jar org.unicode.cldr.util.XMLValidator ../xml/common/segments/*.xml && echo 'XML files OK'
 
 .PHONY:	spread cook all 

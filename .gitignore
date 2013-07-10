@@ -1,2 +1,4 @@
 abbrs/src/Makefile.local
+abbrs/src/cldr-json
+abbrs/src/cldr.jar
 abbrs/xls/.*.xls
