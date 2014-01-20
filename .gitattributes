@@ -51,6 +51,7 @@ abbrs/src/Makefile -text
 abbrs/src/cookjson.py -text
 abbrs/src/json2cldr.py -text
 abbrs/src/xls2json.py -text
+abbrs/src/xls2txt.py -text
 abbrs/srx/catalan.srx -text
 abbrs/srx/czech.srx -text
 abbrs/srx/danish.srx -text
