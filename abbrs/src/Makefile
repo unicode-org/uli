@@ -34,3 +34,6 @@ xml:
 	java -classpath ./cldr.jar org.unicode.cldr.util.XMLValidator ../xml/common/segments/*.xml && echo 'XML files OK'
 
 .PHONY:	spread cook all 
+
+merge:
+	java  -DCLDR_DIR=./cldr -classpath ./cldr.jar:./icu4j.jar:./utilities.jar org.unicode.cldr.tool.CLDRModify -j../xml/common/segments/junk/ -ir -d./cldr-new -s./cldr/common/main/ -asegments
