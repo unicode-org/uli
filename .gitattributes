@@ -77,6 +77,8 @@ abbrs/xls/fr.xls -text
 abbrs/xls/it.xls -text
 abbrs/xls/pt.xls -text
 abbrs/xls/ru.xls -text
+abbrs/xls_dbpedia/abbrev_de.xls-unique.txt svneol=native#text/plain
+abbrs/xls_dbpedia/abbrev_en.xls-unique.txt svneol=native#text/plain
 abbrs/xls_dbpedia/es.xls -text
 abbrs/xls_dbpedia/fr.xls -text
 abbrs/xls_dbpedia/it.xls -text
