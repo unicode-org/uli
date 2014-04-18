@@ -26,7 +26,7 @@ for wbfn in sys.argv[1::]:
     for s in wb.sheets():
         header = []
         for col in range(s.ncols):
-            header.append(s.cell(0,col).value)
+            header.append(str(s.cell(0,col).value))
 
         # the header row counts
         nrows = nrows + 1
@@ -34,7 +34,8 @@ for wbfn in sys.argv[1::]:
         # short sheet?
         if(len(header)==0):
             continue
-        print '.. Sheet Header: %s' % (','.join(header))
+        print header
+        print '.. Sheet Header: %s' % str(','.join(header))
 
         # now, find the headers we want
         # Entry example,Full entry name,Example tested,isException,Note
@@ -52,7 +53,7 @@ for wbfn in sys.argv[1::]:
                 exceptionHeader = i
 
         if(entryHeader==-1):
-            print '   Skipping this sheet: could not find entryHeader and exceptionHeader in %s' % (loc)
+            print '   Skipping this sheet: could not find entryHeader and exceptionHeader in sheet %s' % (s.name)
             continue
             # exit?
 
