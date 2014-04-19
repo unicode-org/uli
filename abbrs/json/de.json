@@ -1,6 +1,6 @@
 {
     "about": {
-        "comment": "Generated from ../xls/de.xls - 389 rows processed, 260 exception entries, 64 nonexception (288 unique) - 224 total usable", 
+        "comment": "Generated from ../xls/de.xls - 392 rows processed, 263 exception entries, 64 nonexception (291 unique) - 227 total usable", 
         "id": "de"
     }, 
     "data": {
@@ -112,6 +112,7 @@
             "Reg.-Bez.", 
             "Rel.", 
             "Rep.", 
+            "S.A.", 
             "Schr.", 
             "Sek.", 
             "Sept.", 
@@ -128,6 +129,8 @@
             "T\u00e4gl.", 
             "U.", 
             "U. U.", 
+            "U.S.", 
+            "U.S.A.", 
             "U.U.", 
             "Urspr.", 
             "Urspr\u00fcngl.", 
