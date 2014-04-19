@@ -59,11 +59,11 @@ def scanHeader(sheet):
             hdrMap['tmbPercentageHeader'] = i
         elif header[i]=='Usage Frequency':
             hdrMap['usage'] = i
-        elif header[i]=='Full entry name':
+        elif header[i]=='Full entry name' or header[i]=='Full form':
             hdrMap['full'] = i
-        elif header[i]=='Translation to English':
+        elif header[i]=='Translation to English' or header[i]=='English':
             hdrMap['english'] = i
-        elif header[i]=='Comment':
+        elif header[i]=='Comment' or header[i]=='comments':
             hdrMap['comment'] = i
         else:
             unknownHeaders.add(header[i])
@@ -175,8 +175,14 @@ def getEntryMap(tmbxls, needTMB=False, needExamples=False):
                     if needTMB:
                         entryDict['tmbPercent'] = s.cell_value(row, hdrMap['tmbPercentageHeader']) # may be %
                     if needExamples:
-                        entryDict['full'] = s.cell_value(row, hdrMap['full'])
-                        entryDict['english'] = s.cell_value(row, hdrMap['english'])
+                        if hdrMap.has_key('full'):
+                            entryDict['full'] = s.cell_value(row, hdrMap['full'])
+                        else:
+                            entryDict['full'] = ''
+                        if hdrMap.has_key('english'):
+                            entryDict['english'] = s.cell_value(row, hdrMap['english'])
+                        else:
+                            entryDict['english'] = ''
                     # store data to map
                     tmbMap[entry] = entryDict
                 if len(tmbMap) == 0:
@@ -288,7 +294,7 @@ with open_workbook(args.ulixls, formatting_info=True) as wbuli:
         addList.sort()
         for addEntry in addList:
             addLoc = insertLoc(addEntry, outEntryList)
-            if args.verbose>4: print '+ Add: "%s" to loc %d/%d' % (addEntry, addLoc, len(outEntryList))
+            if args.verbose>5: print '+ Add: "%s" to loc %d/%d' % (addEntry, addLoc, len(outEntryList))
             outEntryList.insert(addLoc, addEntry)
             outEntryRows.insert(addLoc, None) # marker - "new row"
 
@@ -343,6 +349,4 @@ with open_workbook(args.ulixls, formatting_info=True) as wbuli:
     print "## Duplicates - please check manually"
     print dupSet
 
-# Local Variables:
-# compile-command: "python addDBPfiltered.py -u ../xls/de.xls -d ../xls_dbpedia/de.xls -t ../tmb/TMB_de.xls -o ../xls/de_new.xls -vvvvvvv"
-# End:
+
