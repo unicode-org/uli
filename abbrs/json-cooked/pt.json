@@ -1,7 +1,7 @@
 {
     "about": {
         "comment": "Generated from ../xls/pt.xls - 296 rows processed, 190 exception entries, 53 nonexception (223 unique) - 170 total usable", 
-        "cooked": "No abbrs loaded from CLDR 23.1", 
+        "cooked": "No abbrs loaded from CLDR 25", 
         "id": "pt"
     }, 
     "data": {

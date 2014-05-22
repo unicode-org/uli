@@ -1,8 +1,8 @@
 {
     "about": {
-        "cldrVer": "23.1", 
+        "cldrVer": "25", 
         "comment": "Generated from ../xls/ru.xls - 11 rows processed, 7 exception entries, 1 nonexception (8 unique) - 7 total usable", 
-        "cooked": "Loaded 10 abbrs from CLDR 23.1", 
+        "cooked": "Loaded 11 abbrs from CLDR 25", 
         "id": "ru"
     }, 
     "data": {
@@ -10,8 +10,9 @@
             "\u0430\u0432\u0433.", 
             "\u0430\u043f\u0440.", 
             "\u0434\u0435\u043a.", 
-            "\u0434\u043e \u043d.\u044d.", 
+            "\u0434\u043e \u043d. \u044d.", 
             "\u043a\u0432.", 
+            "\u043d. \u044d.", 
             "\u043d.\u044d.", 
             "\u043d\u043e\u044f\u0431.", 
             "\u043e\u043a\u0442.", 

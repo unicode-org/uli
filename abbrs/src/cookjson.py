@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # by srl
-# 
+#
 # Cook the ULI JSON by loading CLDR data
 
 import sys
@@ -75,7 +75,7 @@ for loc in locs:
                 # ends with dot
                 abbrs.add(v)
 
-    len1 = len(abbrs) 
+    len1 = len(abbrs)
 
     print "new len: %d - added %d" % (len(abbrs), (len1-len0))
     #abbrs.sort()
@@ -83,7 +83,8 @@ for loc in locs:
     data['data']['abbrs'] = list(abbrs)
     data['data']['abbrs'].sort()
 
-    cldrver = cldr["ca-gregorian"]["main"][loc]["identity"]["version"]["@cldrVersion"]
+    # changed from @cldrVersion to _cldrVersion
+    cldrver = cldr["ca-gregorian"]["main"][loc]["identity"]["version"]["_cldrVersion"]
 
 
     if len1 > len0:
@@ -95,4 +96,3 @@ for loc in locs:
     fn = '../json-cooked/%s.json' % (loc)
     f = open(fn, 'wb')
     print >>f, json.dumps(data, sort_keys=True, indent=4)
-
