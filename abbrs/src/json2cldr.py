@@ -84,10 +84,10 @@ for loc in locs:
 
     ldml.append(identity)
     segmentations = etree.Element('segmentations')
-    segmentation = etree.Element('segmentation',type='SentenceBreak')
-    exceptions = etree.Element('exceptions')
+    segmentation = etree.Element('segmentation', type='SentenceBreak')
+    exceptions = etree.Element('suppressions', type='standard')
     for k in abbrs:
-        exception = etree.Element('exception', draft=draft)
+        exception = etree.Element('suppression')
         exception.text = k
         exceptions.append(exception)
     segmentation.append(etree.Comment(comment))
