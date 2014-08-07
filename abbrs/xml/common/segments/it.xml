@@ -16,6 +16,8 @@
         <exception draft="provisional">fig.</exception>
         <exception draft="provisional">d.p.R.</exception>
         <exception draft="provisional">c.c.p.</exception>
+        <exception draft="provisional">Cfr.</exception>
+        <exception draft="provisional">vol.</exception>
         <exception draft="provisional">Geom.</exception>
         <exception draft="provisional">O.d.G.</exception>
         <exception draft="provisional">S.p.A.</exception>
@@ -27,22 +29,31 @@
         <exception draft="provisional">N.d.T.</exception>
         <exception draft="provisional">rag.</exception>
         <exception draft="provisional">Sig.</exception>
+        <exception draft="provisional">Mod.</exception>
         <exception draft="provisional">pag.</exception>
         <exception draft="provisional">dr.</exception>
+        <exception draft="provisional">tav.</exception>
         <exception draft="provisional">N.d.E.</exception>
+        <exception draft="provisional">DC.</exception>
         <exception draft="provisional">mitt.</exception>
         <exception draft="provisional">Ing.</exception>
-        <exception draft="provisional">vol.</exception>
+        <exception draft="provisional">int.</exception>
         <exception draft="provisional">on.</exception>
         <exception draft="provisional">C.P.</exception>
         <exception draft="provisional">ag.</exception>
-        <exception draft="provisional">int.</exception>
+        <exception draft="provisional">L.</exception>
+        <exception draft="provisional">U.S.</exception>
+        <exception draft="provisional">S.M.A.R.T.</exception>
         <exception draft="provisional">p.i.</exception>
         <exception draft="provisional">tab.</exception>
-        <exception draft="provisional">all.</exception>
+        <exception draft="provisional">Ltd.</exception>
+        <exception draft="provisional">Liv.</exception>
+        <exception draft="provisional">D.</exception>
+        <exception draft="provisional">U.S.A.</exception>
         <exception draft="provisional">sez.</exception>
         <exception draft="provisional">avv.</exception>
-        <exception draft="provisional">tav.</exception>
+        <exception draft="provisional">S.A.R.</exception>
+        <exception draft="provisional">all.</exception>
         <exception draft="provisional">p.</exception>
       </exceptions>
     </segmentation>
