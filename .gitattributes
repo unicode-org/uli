@@ -78,13 +78,6 @@ abbrs/xls/it.xls -text
 abbrs/xls/pt.xls -text
 abbrs/xls/ru.xls -text
 abbrs/xls_dbpedia/README -text
-abbrs/xls_dbpedia/de-unique.txt svneol=native#text/plain
-abbrs/xls_dbpedia/de.xls -text
-abbrs/xls_dbpedia/en-unique.txt svneol=native#text/plain
-abbrs/xls_dbpedia/en.xls -text
-abbrs/xls_dbpedia/es.xls -text
-abbrs/xls_dbpedia/fr.xls -text
-abbrs/xls_dbpedia/it.xls -text
 abbrs/xml/common/segments/de.xml svneol=native#text/xml
 abbrs/xml/common/segments/en.xml svneol=native#text/xml
 abbrs/xml/common/segments/es.xml svneol=native#text/xml
