@@ -8,6 +8,7 @@ This directory changes depending on what stage of the submission is available. S
 ENTRY	FULLENTRY	<URL>
 
 * Here is the current list of locales:
+(Items in [brackets] in the English column are in ISO639-3 but not CLDR.)
 
 wikipedia_code  bcp47?    English?
 ----------------------------------
@@ -87,7 +88,7 @@ ro	ro	Romanian
 ru	ru	Russian
 scn	scn	Sicilian
 sco	sco	Scots
-sh	sh	Serbo-Croatian
+sh	sr-Latn	Serbian (Latin)
 simple	en-x-simple	English (Private-Use: simple)
 sk	sk	Slovak
 sl	sl	Slovenian
