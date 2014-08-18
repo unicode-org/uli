@@ -134,6 +134,7 @@ abbrs/xls_dbpedia/ky.tsv -text
 abbrs/xls_dbpedia/la.tsv -text
 abbrs/xls_dbpedia/lb.tsv -text
 abbrs/xls_dbpedia/lmo.tsv -text
+abbrs/xls_dbpedia/locs.txt svneol=native#text/plain
 abbrs/xls_dbpedia/lt.tsv -text
 abbrs/xls_dbpedia/lv.tsv -text
 abbrs/xls_dbpedia/mk.tsv -text

@@ -1,2 +1,112 @@
 contributed data from the DBPedia project, http://dbpedia.org/
 contact srl for details.
+
+This directory changes depending on what stage of the submission is available. See the repository history for more detail.
+
+* Current format is the following, tab separated (TSV):
+
+ENTRY	FULLENTRY	<URL>
+
+* Here is the current list of locales:
+
+wikipedia_code  bcp47?    English?
+----------------------------------
+af	af	Afrikaans
+am	am	Amharic
+an	an	Aragonese
+ar	ar	Arabic
+ast	ast	Asturian
+az	az	Azerbaijani
+bat_smg	sgs	[Samogitian]
+be_x_old	be-tarask	Belarusian (Taraskievica orthography)
+bg	bg	Bulgarian
+bn	bn	Bengali
+br	br	Breton
+bs	bs	Bosnian
+ca	ca	Catalan
+ceb	ceb	Cebuano
+ckb	ckb	Sorani Kurdish
+cs	cs	Czech
+cy	cy	Welsh
+da	da	Danish
+de	de	German
+el	el	Greek
+en	en	English
+eo	eo	Esperanto
+es	es	Spanish
+et	et	Estonian
+eu	eu	Basque
+fa	fa	Persian
+fi	fi	Finnish
+fr	fr	French
+fy	fy	Western Frisian
+ga	ga	Irish
+gd	gd	Scottish Gaelic
+gl	gl	Galician
+gu	gu	Gujarati
+he	he	Hebrew
+hif	hif	[Fiji Hindi]
+hi	hi	Hindi
+hr	hr	Croatian
+ht	ht	Haitian
+hu	hu	Hungarian
+hy	hy	Armenian
+ia	ia	Interlingua
+id	id	Indonesian
+io	io	Ido
+is	is	Icelandic
+it	it	Italian
+ja	ja	Japanese
+jv	jv	Javanese
+ka	ka	Georgian
+kk	kk	Kazakh
+kn	kn	Kannada
+ko	ko	Korean
+ku	ku	Kurdish
+ky	ky	Kyrgyz
+la	la	Latin
+lb	lb	Luxembourgish
+lmo	lmo	[Lombard]
+lt	lt	Lithuanian
+lv	lv	Latvian
+mk	mk	Macedonian
+ml	ml	Malayalam
+mr	mr	Marathi
+ms	ms	Malay
+my	my	Burmese
+nds	nds	Low German
+ne	ne	Nepali
+nl	nl	Dutch
+nn	nn	Norwegian Nynorsk
+no	no	Norwegian
+oc	oc	Occitan
+pl	pl	Polish
+pt	pt	Portuguese
+qu	qu	Quechua
+ro	ro	Romanian
+ru	ru	Russian
+scn	scn	Sicilian
+sco	sco	Scots
+sh	sh	Serbo-Croatian
+simple	en-x-simple	English (Private-Use: simple)
+sk	sk	Slovak
+sl	sl	Slovenian
+sq	sq	Albanian
+sr	sr	Serbian
+sv	sv	Swedish
+sw	sw	Swahili
+ta	ta	Tamil
+te	te	Telugu
+th	th	Thai
+tl	fil	Filipino
+tr	tr	Turkish
+tt	tt	Tatar
+uk	uk	Ukrainian
+ur	ur	Urdu
+uz	uz	Uzbek
+vi	vi	Vietnamese
+wa	wa	Walloon
+yi	yi	Yiddish
+yo	yo	Yoruba
+zh	zh	Chinese
+zh_yue	yue	Cantonese
