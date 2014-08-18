@@ -1,0 +1,632 @@
+U.S.A.	Stati Uniti d'America	<http://it.wikipedia.org/wiki/Stati_Uniti_d'America>	<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Country>,<http://schema.org/Place> 
+U.R.S.S.	Unione Sovietica	<http://it.wikipedia.org/wiki/Unione_Sovietica>	
+E.T.	E.T. l'extra-terrestre	<http://it.wikipedia.org/wiki/E.T._l'extra-terrestre>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+NEWS!	Network of European Worldshops	<http://it.wikipedia.org/wiki/Network_of_European_Worldshops>	
+D.U.C.K.	Don Rosa	<http://it.wikipedia.org/wiki/Don_Rosa>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+S.Y.N.A.P.S.E.	S.Y.N.A.P.S.E. - Pericolo in rete	<http://it.wikipedia.org/wiki/S.Y.N.A.P.S.E._-_Pericolo_in_rete>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+S.r.l.	SRL	<http://it.wikipedia.org/wiki/SRL>	
+F.I.J.L.K.A.M.	Federazione Italiana Judo Lotta Karate Arti Marziali	<http://it.wikipedia.org/wiki/Federazione_Italiana_Judo_Lotta_Karate_Arti_Marziali>	
+A.C.	Avanti Cristo	<http://it.wikipedia.org/wiki/Avanti_Cristo>	
+D.C.	Dopo Cristo	<http://it.wikipedia.org/wiki/Dopo_Cristo>	
+Ph.D.	Dottorato di ricerca	<http://it.wikipedia.org/wiki/Dottorato_di_ricerca>	
+C.I.R.T.	Centre International de Recherches Théâtrales	<http://it.wikipedia.org/wiki/Centre_International_de_Recherches_Théâtrales>	
+Loud.	John Claudius Loudon	<http://it.wikipedia.org/wiki/John_Claudius_Loudon>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+DC.	Augustin Pyrame de Candolle	<http://it.wikipedia.org/wiki/Augustin_Pyrame_de_Candolle>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Murder!	Omicidio!	<http://it.wikipedia.org/wiki/Omicidio!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Cham.	Adelbert von Chamisso	<http://it.wikipedia.org/wiki/Adelbert_von_Chamisso>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+C.I.A.	Central Intelligence Agency	<http://it.wikipedia.org/wiki/Central_Intelligence_Agency>	
+Oi!	Street punk	<http://it.wikipedia.org/wiki/Street_punk>	
+E.V.I.S.	Esercito Volontario per l'Indipendenza della Sicilia	<http://it.wikipedia.org/wiki/Esercito_Volontario_per_l'Indipendenza_della_Sicilia>	
+G.U.F.O.	Hogwarts	<http://it.wikipedia.org/wiki/Hogwarts>	
+R.A.B.	Black (famiglia)	<http://it.wikipedia.org/wiki/Black_(famiglia)>	
+Risiko!	RisiKo!	<http://it.wikipedia.org/wiki/RisiKo!>	
+M.A.S.H.	M*A*S*H (film)	<http://it.wikipedia.org/wiki/M*A*S*H_(film)>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+M.A.S.H.	M*A*S*H (serie televisiva)	<http://it.wikipedia.org/wiki/M*A*S*H_(serie_televisiva)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow> 
+M.A.S.H.	M*A*S*H (romanzo)	<http://it.wikipedia.org/wiki/M*A*S*H_(romanzo)>	<http://schema.org/CreativeWork>,<http://schema.org/Book>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://purl.org/ontology/bibo/Book>,<http://dbpedia.org/ontology/Book> 
+Yu-gi-oh!	Yu-Gi-Oh!	<http://it.wikipedia.org/wiki/Yu-Gi-Oh!>	
+Lam.	Jean-Baptiste de Lamarck	<http://it.wikipedia.org/wiki/Jean-Baptiste_de_Lamarck>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+I.S.K.C.O.N.	Associazione internazionale per la coscienza di Krishna	<http://it.wikipedia.org/wiki/Associazione_internazionale_per_la_coscienza_di_Krishna>	
+SmackDown!	WWE SmackDown	<http://it.wikipedia.org/wiki/WWE_SmackDown>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+Smackdown!	WWE SmackDown	<http://it.wikipedia.org/wiki/WWE_SmackDown>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+SER.T.	Servizio per le tossicodipendenze	<http://it.wikipedia.org/wiki/Servizio_per_le_tossicodipendenze>	
+UN.FOE.PRAE.	Universalis Foederatio Praesepistica	<http://it.wikipedia.org/wiki/Universalis_Foederatio_Praesepistica>	
+B.-P.	Robert Baden-Powell	<http://it.wikipedia.org/wiki/Robert_Baden-Powell>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryPerson>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Cic.	Marco Tullio Cicerone	<http://it.wikipedia.org/wiki/Marco_Tullio_Cicerone>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Suet.	Gaio Svetonio Tranquillo	<http://it.wikipedia.org/wiki/Gaio_Svetonio_Tranquillo>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Macrob.	Ambrogio Teodosio Macrobio	<http://it.wikipedia.org/wiki/Ambrogio_Teodosio_Macrobio>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Plin.	Gaio Plinio Secondo	<http://it.wikipedia.org/wiki/Gaio_Plinio_Secondo>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Liv.	Tito Livio	<http://it.wikipedia.org/wiki/Tito_Livio>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Plut.	Plutarco	<http://it.wikipedia.org/wiki/Plutarco>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+M.A.G.O.	Hogwarts	<http://it.wikipedia.org/wiki/Hogwarts>	
+Dionys.	Dionigi di Alicarnasso	<http://it.wikipedia.org/wiki/Dionigi_di_Alicarnasso>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Tac.	Publio Cornelio Tacito	<http://it.wikipedia.org/wiki/Publio_Cornelio_Tacito>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Veg.	Publio Vegezio Renato	<http://it.wikipedia.org/wiki/Publio_Vegezio_Renato>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Engl.	Adolf Engler	<http://it.wikipedia.org/wiki/Adolf_Engler>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Kin-Dza-Dza!	Kin-dza-dza!	<http://it.wikipedia.org/wiki/Kin-dza-dza!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+CO.N.SO.B.	Commissione Nazionale per le Società e la Borsa	<http://it.wikipedia.org/wiki/Commissione_Nazionale_per_le_Società_e_la_Borsa>	
+Lehm.	Johann Georg Christian Lehmann	<http://it.wikipedia.org/wiki/Johann_Georg_Christian_Lehmann>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Zanted.	Giovanni Zantedeschi	<http://it.wikipedia.org/wiki/Giovanni_Zantedeschi>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Parl.	Filippo Parlatore	<http://it.wikipedia.org/wiki/Filippo_Parlatore>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Tod.	Agostino Todaro	<http://it.wikipedia.org/wiki/Agostino_Todaro>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Politician>,<http://schema.org/Person> 
+Becc.	Odoardo Beccari	<http://it.wikipedia.org/wiki/Odoardo_Beccari>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Thunb.	Carl Peter Thunberg	<http://it.wikipedia.org/wiki/Carl_Peter_Thunberg>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+OnStage!	On Stage!	<http://it.wikipedia.org/wiki/On_Stage!>	
+Hook.f.	Joseph Dalton Hooker	<http://it.wikipedia.org/wiki/Joseph_Dalton_Hooker>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+I.V.A.	Imposta sul valore aggiunto	<http://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto>	
+I.v.a.	Imposta sul valore aggiunto	<http://it.wikipedia.org/wiki/Imposta_sul_valore_aggiunto>	
+Lindl.	John Lindley	<http://it.wikipedia.org/wiki/John_Lindley>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+S.M.A.R.T.	Self-Monitoring, Analysis and Reporting Technology	<http://it.wikipedia.org/wiki/Self-Monitoring,_Analysis_and_Reporting_Technology>	
+F.M.S.	Fabbrica Macchine e Stampi	<http://it.wikipedia.org/wiki/Fabbrica_Macchine_e_Stampi>	
+E.N.A.C.	Ente nazionale per l'aviazione civile	<http://it.wikipedia.org/wiki/Ente_nazionale_per_l'aviazione_civile>	
+E.n.a.c.	Ente nazionale per l'aviazione civile	<http://it.wikipedia.org/wiki/Ente_nazionale_per_l'aviazione_civile>	
+Desf.	René Louiche Desfontaines	<http://it.wikipedia.org/wiki/René_Louiche_Desfontaines>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Miq.	Friedrich Anton Wilhelm Miquel	<http://it.wikipedia.org/wiki/Friedrich_Anton_Wilhelm_Miquel>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Bastard!	Bastard!!	<http://it.wikipedia.org/wiki/Bastard!!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://dbpedia.org/ontology/Manga>,<http://dbpedia.org/ontology/Comics>,<http://schema.org/CreativeWork> 
+A.t.x.	ATX	<http://it.wikipedia.org/wiki/ATX>	
+C.N.G.E.I.	Corpo Nazionale Giovani Esploratori ed Esploratrici Italiani	<http://it.wikipedia.org/wiki/Corpo_Nazionale_Giovani_Esploratori_ed_Esploratrici_Italiani>	
+Pirates!	Sid Meier's Pirates!	<http://it.wikipedia.org/wiki/Sid_Meier's_Pirates!>	<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame>,<http://schema.org/CreativeWork> 
+F.a.p.	FAP	<http://it.wikipedia.org/wiki/FAP>	
+Raunk.	Christen Raunkiær	<http://it.wikipedia.org/wiki/Christen_Raunkiær>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+E.L.I.O.	E.L.I.O. - The Artists Formerly Known As Elio e le Storie Tese	<http://it.wikipedia.org/wiki/E.L.I.O._-_The_Artists_Formerly_Known_As_Elio_e_le_Storie_Tese>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+All'arrembaggio!	One Piece	<http://it.wikipedia.org/wiki/One_Piece>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://dbpedia.org/ontology/Manga>,<http://dbpedia.org/ontology/Comics>,<http://schema.org/CreativeWork> 
+C.A.D.	CAD (disambigua)	<http://it.wikipedia.org/wiki/CAD_(disambigua)>	
+M.A.S.C.I.	Movimento Adulti Scout Cattolici Italiani	<http://it.wikipedia.org/wiki/Movimento_Adulti_Scout_Cattolici_Italiani>	
+Vittad.	Carlo Vittadini	<http://it.wikipedia.org/wiki/Carlo_Vittadini>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Ltd.	LTD	<http://it.wikipedia.org/wiki/LTD>	
+S.n.c.	SNC	<http://it.wikipedia.org/wiki/SNC>	
+S.p.a.	Società per azioni	<http://it.wikipedia.org/wiki/Società_per_azioni>	
+S.p.A.	Società per azioni	<http://it.wikipedia.org/wiki/Società_per_azioni>	
+Them!	Assalto alla Terra	<http://it.wikipedia.org/wiki/Assalto_alla_Terra>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Adaptation.	Il ladro di orchidee	<http://it.wikipedia.org/wiki/Il_ladro_di_orchidee>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Airplane!	L'aereo più pazzo del mondo	<http://it.wikipedia.org/wiki/L'aereo_più_pazzo_del_mondo>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Reprisal!	Rappresaglia (film 1956)	<http://it.wikipedia.org/wiki/Rappresaglia_(film_1956)>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Star!	Un giorno... di prima mattina	<http://it.wikipedia.org/wiki/Un_giorno..._di_prima_mattina>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+E.R.	E.R. - Medici in prima linea	<http://it.wikipedia.org/wiki/E.R._-_Medici_in_prima_linea>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+Groen!	Verdi (Belgio)	<http://it.wikipedia.org/wiki/Verdi_(Belgio)>	
+S.h.a.r.p.	Skinhead against racial prejudice	<http://it.wikipedia.org/wiki/Skinhead_against_racial_prejudice>	
+R.a.s.h.	Red and Anarchist Skin Heads	<http://it.wikipedia.org/wiki/Red_and_Anarchist_Skin_Heads>	
+ZZAP!	Zzap!	<http://it.wikipedia.org/wiki/Zzap!>	
+ZZap!	Zzap!	<http://it.wikipedia.org/wiki/Zzap!>	
+Zzap64!	Zzap!	<http://it.wikipedia.org/wiki/Zzap!>	
+C.N.R.	Consiglio Nazionale delle Ricerche	<http://it.wikipedia.org/wiki/Consiglio_Nazionale_delle_Ricerche>	
+N.a.f.t.a.	North American Free Trade Agreement	<http://it.wikipedia.org/wiki/North_American_Free_Trade_Agreement>	
+M.a.s.k.	M.A.S.K.	<http://it.wikipedia.org/wiki/M.A.S.K.>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Cartoon>,<http://schema.org/CreativeWork> 
+C.a.	CA	<http://it.wikipedia.org/wiki/CA>	
+F.B.I.	Federal Bureau of Investigation	<http://it.wikipedia.org/wiki/Federal_Bureau_of_Investigation>	
+D.i.	DI	<http://it.wikipedia.org/wiki/DI>	
+R.e.c.	REC	<http://it.wikipedia.org/wiki/REC>	
+P.O.U.M.	Partido Obrero de Unificación Marxista	<http://it.wikipedia.org/wiki/Partido_Obrero_de_Unificación_Marxista>	
+S.d.b.	SDB	<http://it.wikipedia.org/wiki/SDB>	
+Kree!	Goa'uld	<http://it.wikipedia.org/wiki/Goa'uld>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/FictionalCharacter>,<http://schema.org/Person> 
+U.N.I.R.E.	Unione Nazionale Incremento Razze Equine	<http://it.wikipedia.org/wiki/Unione_Nazionale_Incremento_Razze_Equine>	
+S.I.A.E.	Società Italiana degli Autori ed Editori	<http://it.wikipedia.org/wiki/Società_Italiana_degli_Autori_ed_Editori>	
+T.A.R.	Tribunale Amministrativo Regionale	<http://it.wikipedia.org/wiki/Tribunale_Amministrativo_Regionale>	
+C.O.N.I.	Comitato Olimpico Nazionale Italiano	<http://it.wikipedia.org/wiki/Comitato_Olimpico_Nazionale_Italiano>	
+G.O.S.O.	Goliardicus Ordo Solis Orientis	<http://it.wikipedia.org/wiki/Goliardicus_Ordo_Solis_Orientis>	
+L.A.G.O.	Lunaticus Astralisque Goliardicus Ordo	<http://it.wikipedia.org/wiki/Lunaticus_Astralisque_Goliardicus_Ordo>	
+R.i.n.a.	Registro Italiano Navale	<http://it.wikipedia.org/wiki/Registro_Italiano_Navale>	
+L.T.E.	Liquid Tension Experiment	<http://it.wikipedia.org/wiki/Liquid_Tension_Experiment>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+P.M.R.C.	Parents Music Resource Center	<http://it.wikipedia.org/wiki/Parents_Music_Resource_Center>	
+Bechst.	Johann Matthäus Bechstein	<http://it.wikipedia.org/wiki/Johann_Matthäus_Bechstein>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+F.I.Te.T.	Federazione Italiana Tennistavolo	<http://it.wikipedia.org/wiki/Federazione_Italiana_Tennistavolo>	
+Clerks.	Clerks - Commessi	<http://it.wikipedia.org/wiki/Clerks_-_Commessi>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+I.R.I.	IRI (disambigua)	<http://it.wikipedia.org/wiki/IRI_(disambigua)>	
+IMPACT!	Impact Wrestling	<http://it.wikipedia.org/wiki/Impact_Wrestling>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+CC.OO.	Commissioni Operaie	<http://it.wikipedia.org/wiki/Commissioni_Operaie>	
+I.R.A.	Irish Republican Army	<http://it.wikipedia.org/wiki/Irish_Republican_Army>	
+E.N.S.E.	Ente nazionale sementi elette	<http://it.wikipedia.org/wiki/Ente_nazionale_sementi_elette>	
+I.N.P.S.	Istituto Nazionale Previdenza Sociale	<http://it.wikipedia.org/wiki/Istituto_Nazionale_Previdenza_Sociale>	
+L.P.	Long playing	<http://it.wikipedia.org/wiki/Long_playing>	
+S.J.	Compagnia di Gesù	<http://it.wikipedia.org/wiki/Compagnia_di_Gesù>	
+U.C.O.I.I.	Unione delle Comunità e Organizzazioni Islamiche in Italia	<http://it.wikipedia.org/wiki/Unione_delle_Comunità_e_Organizzazioni_Islamiche_in_Italia>	
+Up!	UP	<http://it.wikipedia.org/wiki/UP>	
+P.I.L.	Prodotto interno lordo	<http://it.wikipedia.org/wiki/Prodotto_interno_lordo>	
+S.Ha.R.K.	Soft Hard Real-Time Kernel	<http://it.wikipedia.org/wiki/Soft_Hard_Real-Time_Kernel>	
+B.O.W.	Arma Bio-Organica	<http://it.wikipedia.org/wiki/Arma_Bio-Organica>	
+Div.	Divisione (matematica)	<http://it.wikipedia.org/wiki/Divisione_(matematica)>	
+Mod.	Operazione modulo	<http://it.wikipedia.org/wiki/Operazione_modulo>	
+¡Quilombo!	Quilombo (album)	<http://it.wikipedia.org/wiki/Quilombo_(album)>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+F.I.G.C.	Federazione Italiana Giuoco Calcio	<http://it.wikipedia.org/wiki/Federazione_Italiana_Giuoco_Calcio>	
+C.C.C.P.	CCCP Fedeli alla linea	<http://it.wikipedia.org/wiki/CCCP_Fedeli_alla_linea>	<http://schema.org/MusicGroup>,<http://schema.org/Person>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person> 
+U.N.P.L.I.	Pro loco	<http://it.wikipedia.org/wiki/Pro_loco>	
+N.o.a.	NOA	<http://it.wikipedia.org/wiki/NOA>	
+C.G.I.L.	Confederazione Generale Italiana del Lavoro	<http://it.wikipedia.org/wiki/Confederazione_Generale_Italiana_del_Lavoro>	
+P.A.Y.	PAY (gruppo musicale)	<http://it.wikipedia.org/wiki/PAY_(gruppo_musicale)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+C.S.Sp.	Congregazione dello Spirito Santo	<http://it.wikipedia.org/wiki/Congregazione_dello_Spirito_Santo>	
+S.j.	SJ	<http://it.wikipedia.org/wiki/SJ>	
+I.C.A.M.	Istituto a custodia attenuata per detenute madri con prole fino a tre anni	<http://it.wikipedia.org/wiki/Istituto_a_custodia_attenuata_per_detenute_madri_con_prole_fino_a_tre_anni>	
+I.C.A.M.	Industria Cioccolato e Affini Morbegno	<http://it.wikipedia.org/wiki/Industria_Cioccolato_e_Affini_Morbegno>	<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation> 
+Raf.	Constantine Samuel Rafinesque-Schmaltz	<http://it.wikipedia.org/wiki/Constantine_Samuel_Rafinesque-Schmaltz>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+E.V.	Eingetragener Verein	<http://it.wikipedia.org/wiki/Eingetragener_Verein>	
+C.r.a.z.y.	C.R.A.Z.Y.	<http://it.wikipedia.org/wiki/C.R.A.Z.Y.>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+A.c.a.b.	A.C.A.B.	<http://it.wikipedia.org/wiki/A.C.A.B.>	
+F.I.N.	Federazione Italiana Nuoto	<http://it.wikipedia.org/wiki/Federazione_Italiana_Nuoto>	
+F.e.m.	Forza elettromotrice	<http://it.wikipedia.org/wiki/Forza_elettromotrice>	
+U.S.U.R.A.	U.s.u.r.a.	<http://it.wikipedia.org/wiki/U.s.u.r.a.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+C.L.N.A.I.	Comitato di Liberazione Nazionale	<http://it.wikipedia.org/wiki/Comitato_di_Liberazione_Nazionale>	
+N.B.A.	National Basketball Association	<http://it.wikipedia.org/wiki/National_Basketball_Association>	<http://dbpedia.org/ontology/Event>,<http://dbpedia.org/ontology/SportsEvent>,<http://schema.org/Event>,<http://schema.org/SportsEvent> 
+T.E.	Terza Era	<http://it.wikipedia.org/wiki/Terza_Era>	
+N.D.B.	Non-directional beacon	<http://it.wikipedia.org/wiki/Non-directional_beacon>	
+N.E.R.D.	N.E.R.D	<http://it.wikipedia.org/wiki/N.E.R.D>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+C.c.r.	CCR	<http://it.wikipedia.org/wiki/CCR>	
+RailRoads!	Sid Meier's RailRoads!	<http://it.wikipedia.org/wiki/Sid_Meier's_RailRoads!>	<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame>,<http://schema.org/CreativeWork> 
+Ca.	CA	<http://it.wikipedia.org/wiki/CA>	
+I.R.S.	I.R.S. Records	<http://it.wikipedia.org/wiki/I.R.S._Records>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Schaeff.	Jacob Christian Schäffer	<http://it.wikipedia.org/wiki/Jacob_Christian_Schäffer>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+SPQRisiKo!	S.P.Q.RisiKo!	<http://it.wikipedia.org/wiki/S.P.Q.RisiKo!>	
+P.N.F.	Partito Nazionale Fascista	<http://it.wikipedia.org/wiki/Partito_Nazionale_Fascista>	
+Ma.Bra.	Maurizio Braccagni	<http://it.wikipedia.org/wiki/Maurizio_Braccagni>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Sw.	Olof Swartz	<http://it.wikipedia.org/wiki/Olof_Swartz>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+A.F.I.S.	Amministrazione fiduciaria italiana della Somalia	<http://it.wikipedia.org/wiki/Amministrazione_fiduciaria_italiana_della_Somalia>	
+C.L.N.	Comitato di Liberazione Nazionale	<http://it.wikipedia.org/wiki/Comitato_di_Liberazione_Nazionale>	
+Feat.	Collaborazione musicale	<http://it.wikipedia.org/wiki/Collaborazione_musicale>	
+E.N.I.	Eni	<http://it.wikipedia.org/wiki/Eni>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+E.N.P.A.L.S.	Ente Nazionale di Previdenza e Assistenza per i Lavoratori dello Spettacolo	<http://it.wikipedia.org/wiki/Ente_Nazionale_di_Previdenza_e_Assistenza_per_i_Lavoratori_dello_Spettacolo>	
+C.L.	Comunione e Liberazione	<http://it.wikipedia.org/wiki/Comunione_e_Liberazione>	
+Tomba!	Tombi!	<http://it.wikipedia.org/wiki/Tombi!>	<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame>,<http://schema.org/CreativeWork> 
+Abra-catastrofe!	Due fantagenitori: Abra Catastrofe!	<http://it.wikipedia.org/wiki/Due_fantagenitori:_Abra_Catastrofe!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Abracatastrofe!	Due fantagenitori: Abra Catastrofe!	<http://it.wikipedia.org/wiki/Due_fantagenitori:_Abra_Catastrofe!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+M.U.G.E.N.	Mugen	<http://it.wikipedia.org/wiki/Mugen>	<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame>,<http://schema.org/CreativeWork> 
+U.S.D.A.	Dipartimento dell'Agricoltura degli Stati Uniti d'America	<http://it.wikipedia.org/wiki/Dipartimento_dell'Agricoltura_degli_Stati_Uniti_d'America>	
+Gulp!	SuperGulp!	<http://it.wikipedia.org/wiki/SuperGulp!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+M.S.I.	Movimento Sociale Italiano - Destra Nazionale	<http://it.wikipedia.org/wiki/Movimento_Sociale_Italiano_-_Destra_Nazionale>	
+E.g.	EG	<http://it.wikipedia.org/wiki/EG>	
+S.l.m.	Livello del mare	<http://it.wikipedia.org/wiki/Livello_del_mare>	
+P.E.	Prima Era	<http://it.wikipedia.org/wiki/Prima_Era>	
+O.F.M.	Ordine dei frati minori	<http://it.wikipedia.org/wiki/Ordine_dei_frati_minori>	
+C.R.S.A.	Canonici regolari di Sant'Agostino confederati	<http://it.wikipedia.org/wiki/Canonici_regolari_di_Sant'Agostino_confederati>	
+Run-D.M.C.	Run DMC	<http://it.wikipedia.org/wiki/Run_DMC>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+C.O.C.	Certificato di omologazione comunitaria	<http://it.wikipedia.org/wiki/Certificato_di_omologazione_comunitaria>	
+R.E.C.I.	Ragazzi Esploratori Cattolici Italiani	<http://it.wikipedia.org/wiki/Ragazzi_Esploratori_Cattolici_Italiani>	
+T.a.t.u.	T.A.T.u.	<http://it.wikipedia.org/wiki/T.A.T.u.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+U.N.U.R.I.	Unione Nazionale Universitaria Rappresentativa Italiana	<http://it.wikipedia.org/wiki/Unione_Nazionale_Universitaria_Rappresentativa_Italiana>	
+F.I.S.O.	Federazione Italiana Sport Orientamento	<http://it.wikipedia.org/wiki/Federazione_Italiana_Sport_Orientamento>	
+FE.N.I.A.R.CO.	Feniarco	<http://it.wikipedia.org/wiki/Feniarco>	
+C.T.C.	Controllo centralizzato del traffico	<http://it.wikipedia.org/wiki/Controllo_centralizzato_del_traffico>	
+I.S.E.F.	Istituto Superiore di Educazione Fisica	<http://it.wikipedia.org/wiki/Istituto_Superiore_di_Educazione_Fisica>	
+I.e.	Id est	<http://it.wikipedia.org/wiki/Id_est>	
+I.S.G.F.	International Scout and Guide Fellowship	<http://it.wikipedia.org/wiki/International_Scout_and_Guide_Fellowship>	
+I.s.g.f.	International Scout and Guide Fellowship	<http://it.wikipedia.org/wiki/International_Scout_and_Guide_Fellowship>	
+C.a.v.	CAV	<http://it.wikipedia.org/wiki/CAV>	
+J.J.J.	J. Jonah Jameson	<http://it.wikipedia.org/wiki/J._Jonah_Jameson>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/FictionalCharacter>,<http://schema.org/Person> 
+W.i.t.c.h.	W.I.T.C.H.	<http://it.wikipedia.org/wiki/W.I.T.C.H.>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://dbpedia.org/ontology/Comics>,<http://schema.org/CreativeWork> 
+Ciulandàri!	Ciulandari	<http://it.wikipedia.org/wiki/Ciulandari>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+Hedw.	Johann Hedwig	<http://it.wikipedia.org/wiki/Johann_Hedwig>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+O.P.A.	Offerta pubblica di acquisto	<http://it.wikipedia.org/wiki/Offerta_pubblica_di_acquisto>	
+Co.Br.A.	CO.BR.A.	<http://it.wikipedia.org/wiki/CO.BR.A.>	
+Blast!	BLAST (telescopio)	<http://it.wikipedia.org/wiki/BLAST_(telescopio)>	
+Blast!	Nuclear Blast	<http://it.wikipedia.org/wiki/Nuclear_Blast>	<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation> 
+Blast!	Basic local alignment search tool	<http://it.wikipedia.org/wiki/Basic_local_alignment_search_tool>	
+Blast!	Blast (film 1997)	<http://it.wikipedia.org/wiki/Blast_(film_1997)>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+H.I.M.	HIM (gruppo musicale)	<http://it.wikipedia.org/wiki/HIM_(gruppo_musicale)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+A.R.A.N.	Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni	<http://it.wikipedia.org/wiki/Agenzia_per_la_rappresentanza_negoziale_delle_pubbliche_amministrazioni>	
+H.O.S.E.	H.O.R.S.E.	<http://it.wikipedia.org/wiki/H.O.R.S.E.>	
+W.O.S.M.	Organizzazione mondiale del movimento scout	<http://it.wikipedia.org/wiki/Organizzazione_mondiale_del_movimento_scout>	
+W.A.G.G.G.S.	Associazione mondiale guide ed esploratrici	<http://it.wikipedia.org/wiki/Associazione_mondiale_guide_ed_esploratrici>	
+D.A.D.	D-A-D	<http://it.wikipedia.org/wiki/D-A-D>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+IS.ME.T.T.	Istituto Mediterraneo per i Trapianti e Terapie ad Alta Specializzazione	<http://it.wikipedia.org/wiki/Istituto_Mediterraneo_per_i_Trapianti_e_Terapie_ad_Alta_Specializzazione>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+A.s.o.	ASO	<http://it.wikipedia.org/wiki/ASO>	
+M.I.T.	Massachusetts Institute of Technology	<http://it.wikipedia.org/wiki/Massachusetts_Institute_of_Technology>	
+E.I.P.A.S.S.	Eipass	<http://it.wikipedia.org/wiki/Eipass>	
+P.R.G.	Piano Regolatore Generale	<http://it.wikipedia.org/wiki/Piano_Regolatore_Generale>	
+F.I.G.P.	Federazione Italiana Gioco Poker	<http://it.wikipedia.org/wiki/Federazione_Italiana_Gioco_Poker>	
+U.S.B.	Universal Serial Bus	<http://it.wikipedia.org/wiki/Universal_Serial_Bus>	
+S.F.	Spaghetti Funk	<http://it.wikipedia.org/wiki/Spaghetti_Funk>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+P.C.U.S.	Partito Comunista dell'Unione Sovietica	<http://it.wikipedia.org/wiki/Partito_Comunista_dell'Unione_Sovietica>	
+WildC.A.T.S.	Wildcats (fumetto)	<http://it.wikipedia.org/wiki/Wildcats_(fumetto)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/FictionalCharacter>,<http://schema.org/Person> 
+Diod.	Diodoro Siculo	<http://it.wikipedia.org/wiki/Diodoro_Siculo>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+G.U.F.	Gruppo Universitario Fascista	<http://it.wikipedia.org/wiki/Gruppo_Universitario_Fascista>	
+Futurisiko!	FutuRisiKo!	<http://it.wikipedia.org/wiki/FutuRisiKo!>	
+R.I.B.E.S.	Germoplasma	<http://it.wikipedia.org/wiki/Germoplasma>	
+W.C.	WC (rapper)	<http://it.wikipedia.org/wiki/WC_(rapper)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Fl.	Floruit	<http://it.wikipedia.org/wiki/Floruit>	
+C.M.A.S.A.	Costruzioni Meccaniche Aeronautiche	<http://it.wikipedia.org/wiki/Costruzioni_Meccaniche_Aeronautiche>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+P.I.A.	Paperon Intelligence Agency	<http://it.wikipedia.org/wiki/Paperon_Intelligence_Agency>	
+I.S.I.	Inter-Services Intelligence	<http://it.wikipedia.org/wiki/Inter-Services_Intelligence>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+O.S.B.Cam.	Congregazione camaldolese	<http://it.wikipedia.org/wiki/Congregazione_camaldolese>	
+S.E.I.	Società Editrice Internazionale	<http://it.wikipedia.org/wiki/Società_Editrice_Internazionale>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+F.A.O.	Organizzazione delle Nazioni Unite per l'alimentazione e l'agricoltura	<http://it.wikipedia.org/wiki/Organizzazione_delle_Nazioni_Unite_per_l'alimentazione_e_l'agricoltura>	
+Buzzer-Buzz!	Buzz!	<http://it.wikipedia.org/wiki/Buzz!>	
+Superhero!	Superhero - Il più dotato fra i supereroi	<http://it.wikipedia.org/wiki/Superhero_-_Il_più_dotato_fra_i_supereroi>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+R.d.	Regio decreto legge	<http://it.wikipedia.org/wiki/Regio_decreto_legge>	
+A.C.R.	Azione Cattolica dei Ragazzi	<http://it.wikipedia.org/wiki/Azione_Cattolica_dei_Ragazzi>	
+F.U.C.I.	Federazione Universitaria Cattolica Italiana	<http://it.wikipedia.org/wiki/Federazione_Universitaria_Cattolica_Italiana>	
+F.Y.C.	Fine Young Cannibals	<http://it.wikipedia.org/wiki/Fine_Young_Cannibals>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+O.N.L.U.S.	Organizzazione non lucrativa di utilità sociale	<http://it.wikipedia.org/wiki/Organizzazione_non_lucrativa_di_utilità_sociale>	
+Z.H.R.	Tasso orario zenitale	<http://it.wikipedia.org/wiki/Tasso_orario_zenitale>	
+I.T.U.	Unione internazionale delle telecomunicazioni	<http://it.wikipedia.org/wiki/Unione_internazionale_delle_telecomunicazioni>	
+P.F.M.	Premiata Forneria Marconi	<http://it.wikipedia.org/wiki/Premiata_Forneria_Marconi>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Sukisho!!	Suki na mono wa suki dakara shōganai!!	<http://it.wikipedia.org/wiki/Suki_na_mono_wa_suki_dakara_shōganai!!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://purl.org/ontology/bibo/Book>,<http://dbpedia.org/ontology/Book>,<http://dbpedia.org/ontology/LightNovel>,<http://dbpedia.org/ontology/Novel>,<http://schema.org/CreativeWork>,<http://schema.org/Book> 
+L.A.T.I.	Linee Aeree Transcontinentali Italiane	<http://it.wikipedia.org/wiki/Linee_Aeree_Transcontinentali_Italiane>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Co.ca.	Comunità Capi	<http://it.wikipedia.org/wiki/Comunità_Capi>	
+Co.Ca.	Comunità Capi	<http://it.wikipedia.org/wiki/Comunità_Capi>	
+F.I.A.S.	Immersione in ghiaccio	<http://it.wikipedia.org/wiki/Immersione_in_ghiaccio>	
+M.v.	More veneto	<http://it.wikipedia.org/wiki/More_veneto>	
+T.F.R.	Trattamento di fine rapporto	<http://it.wikipedia.org/wiki/Trattamento_di_fine_rapporto>	
+D.A.SPO.	Daspo	<http://it.wikipedia.org/wiki/Daspo>	
+A.L.F.A.	Alfa Romeo	<http://it.wikipedia.org/wiki/Alfa_Romeo>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+D.J.	Disc jockey	<http://it.wikipedia.org/wiki/Disc_jockey>	
+Boom!	Boom sonico	<http://it.wikipedia.org/wiki/Boom_sonico>	
+Boom!	Boom (P.O.D.)	<http://it.wikipedia.org/wiki/Boom_(P.O.D.)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Boom!	Boom (Belgio)	<http://it.wikipedia.org/wiki/Boom_(Belgio)>	<http://schema.org/Place>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace> 
+Boom!	Boom (Anastacia)	<http://it.wikipedia.org/wiki/Boom_(Anastacia)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Boom!	Boom! (Haddon)	<http://it.wikipedia.org/wiki/Boom!_(Haddon)>	<http://schema.org/CreativeWork>,<http://schema.org/Book>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://purl.org/ontology/bibo/Book>,<http://dbpedia.org/ontology/Book> 
+Boom!	Boom (film 1999)	<http://it.wikipedia.org/wiki/Boom_(film_1999)>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+Boom!	Boom! (System of a Down)	<http://it.wikipedia.org/wiki/Boom!_(System_of_a_Down)>	
+Boom!	Boom edilizio	<http://it.wikipedia.org/wiki/Boom_edilizio>	
+Boom!	Boom (Snoop Dogg)	<http://it.wikipedia.org/wiki/Boom_(Snoop_Dogg)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Boom!	BOOM! (Gemelli DiVersi)	<http://it.wikipedia.org/wiki/BOOM!_(Gemelli_DiVersi)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Boom!	Boom (The Sonics)	<http://it.wikipedia.org/wiki/Boom_(The_Sonics)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Boom!	Boom economico	<http://it.wikipedia.org/wiki/Boom_economico>	
+T.D.	Canone buddhista cinese	<http://it.wikipedia.org/wiki/Canone_buddhista_cinese>	
+Min.Cul.Pop.	Ministero della Cultura Popolare	<http://it.wikipedia.org/wiki/Ministero_della_Cultura_Popolare>	
+¡Átame!	Légami!	<http://it.wikipedia.org/wiki/Légami!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+C.N.D.	Campionato Nazionale Dilettanti	<http://it.wikipedia.org/wiki/Campionato_Nazionale_Dilettanti>	
+G.R.C.D.A.	Gruppo Riporto e Controllo Difesa Aerea	<http://it.wikipedia.org/wiki/Gruppo_Riporto_e_Controllo_Difesa_Aerea>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+I.N.A.I.L.	Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro	<http://it.wikipedia.org/wiki/Istituto_Nazionale_per_l'Assicurazione_contro_gli_Infortuni_sul_Lavoro>	
+M.O.V.M.	Medaglia d'oro al valor militare	<http://it.wikipedia.org/wiki/Medaglia_d'oro_al_valor_militare>	
+M.A.V.M.	Ricompense al valor militare	<http://it.wikipedia.org/wiki/Ricompense_al_valor_militare>	
+M.B.V.M.	Ricompense al valor militare	<http://it.wikipedia.org/wiki/Ricompense_al_valor_militare>	
+S.I.T.A.	Sita Sogin	<http://it.wikipedia.org/wiki/Sita_Sogin>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+C.N.S.F.	Centro Nazionale Sportivo Fiamma	<http://it.wikipedia.org/wiki/Centro_Nazionale_Sportivo_Fiamma>	
+I.O.R.	Istituto per le Opere di Religione	<http://it.wikipedia.org/wiki/Istituto_per_le_Opere_di_Religione>	
+Oomph!	OOMPH!	<http://it.wikipedia.org/wiki/OOMPH!>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Taang!	Taang! Records	<http://it.wikipedia.org/wiki/Taang!_Records>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+U.E.F.A.	Union of European Football Associations	<http://it.wikipedia.org/wiki/Union_of_European_Football_Associations>	
+Baill.	Henri Ernest Baillon	<http://it.wikipedia.org/wiki/Henri_Ernest_Baillon>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+B.P.R.D.	Bureau of Paranormal Research and Defense	<http://it.wikipedia.org/wiki/Bureau_of_Paranormal_Research_and_Defense>	
+I.R.C.C.S.	Istituto di ricovero e cura a carattere scientifico	<http://it.wikipedia.org/wiki/Istituto_di_ricovero_e_cura_a_carattere_scientifico>	
+E.v.	Era volgare	<http://it.wikipedia.org/wiki/Era_volgare>	
+P.e.v.	Era volgare	<http://it.wikipedia.org/wiki/Era_volgare>	
+D.O.M.S.	Indolenzimento muscolare a insorgenza ritardata	<http://it.wikipedia.org/wiki/Indolenzimento_muscolare_a_insorgenza_ritardata>	
+LL.M.	Master of Laws	<http://it.wikipedia.org/wiki/Master_of_Laws>	
+MA.GI.CA.	Società Sportiva Calcio Napoli	<http://it.wikipedia.org/wiki/Società_Sportiva_Calcio_Napoli>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/SoccerClub>,<http://dbpedia.org/ontology/SportsTeam>,<http://schema.org/Organization>,<http://schema.org/SportsTeam> 
+A.D.	Anno Domini	<http://it.wikipedia.org/wiki/Anno_Domini>	
+R.E.A.	Repertorio Economico Amministrativo	<http://it.wikipedia.org/wiki/Repertorio_Economico_Amministrativo>	
+S.H.O.E.	H.O.R.S.E.	<http://it.wikipedia.org/wiki/H.O.R.S.E.>	
+Ibid.	Ibidem	<http://it.wikipedia.org/wiki/Ibidem>	
+D.lgs.	Decreto legislativo	<http://it.wikipedia.org/wiki/Decreto_legislativo>	
+U.L.I.C.	Unione Libera Italiana del Calcio	<http://it.wikipedia.org/wiki/Unione_Libera_Italiana_del_Calcio>	
+B.N.L.	Banca Nazionale del Lavoro	<http://it.wikipedia.org/wiki/Banca_Nazionale_del_Lavoro>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Go!	GO	<http://it.wikipedia.org/wiki/GO>	
+S.O.A.	State of Alert	<http://it.wikipedia.org/wiki/State_of_Alert>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Yeah!	Yeah! (Def Leppard)	<http://it.wikipedia.org/wiki/Yeah!_(Def_Leppard)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Yeah!	Yeah 3X	<http://it.wikipedia.org/wiki/Yeah_3X>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Yeah!	Yeah! (Brownsville Station)	<http://it.wikipedia.org/wiki/Yeah!_(Brownsville_Station)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Yeah!	Yeah! (Usher)	<http://it.wikipedia.org/wiki/Yeah!_(Usher)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+A.I.C.V.A.S.	Associazione Italiana Combattenti Volontari Antifascisti di Spagna	<http://it.wikipedia.org/wiki/Associazione_Italiana_Combattenti_Volontari_Antifascisti_di_Spagna>	
+U.m.a.	Unità di massa atomica	<http://it.wikipedia.org/wiki/Unità_di_massa_atomica>	
+Dumort.	Barthélemy Charles Joseph Dumortier	<http://it.wikipedia.org/wiki/Barthélemy_Charles_Joseph_Dumortier>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+S.C.F.	SCF Consorzio Fonografici	<http://it.wikipedia.org/wiki/SCF_Consorzio_Fonografici>	
+Labill.	Jacques-Julien Houtou de La Billardière	<http://it.wikipedia.org/wiki/Jacques-Julien_Houtou_de_La_Billardière>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+H.O.G.	Harley Owners Group	<http://it.wikipedia.org/wiki/Harley_Owners_Group>	
+H.D.	Hilda Doolittle	<http://it.wikipedia.org/wiki/Hilda_Doolittle>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+V.E.L.M.	V.E.L.M. (Vivi E Lascia Morire)	<http://it.wikipedia.org/wiki/V.E.L.M._(Vivi_E_Lascia_Morire)>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+C.A.U.S.	Centro Arti Umoristiche e Satiriche	<http://it.wikipedia.org/wiki/Centro_Arti_Umoristiche_e_Satiriche>	
+A.T.P.I.	Antiterrorismo pronto impiego	<http://it.wikipedia.org/wiki/Antiterrorismo_pronto_impiego>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+G.I.C.O.	Gruppo d'investigazione sulla criminalità organizzata	<http://it.wikipedia.org/wiki/Gruppo_d'investigazione_sulla_criminalità_organizzata>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+C.I.S.L.	Confederazione Italiana Sindacati Lavoratori	<http://it.wikipedia.org/wiki/Confederazione_Italiana_Sindacati_Lavoratori>	
+L.A.X.	LAX (album)	<http://it.wikipedia.org/wiki/LAX_(album)>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+PH.D.	Dottorato di ricerca	<http://it.wikipedia.org/wiki/Dottorato_di_ricerca>	
+F.G.C.	Fasci italiani di combattimento	<http://it.wikipedia.org/wiki/Fasci_italiani_di_combattimento>	
+1,2,3...invisibile!	1,2,3... invisibile!	<http://it.wikipedia.org/wiki/1,2,3..._invisibile!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://purl.org/ontology/bibo/Book>,<http://dbpedia.org/ontology/Book>,<http://schema.org/CreativeWork>,<http://schema.org/Book> 
+N.A.S.	Comando Carabinieri per la Tutela della Salute	<http://it.wikipedia.org/wiki/Comando_Carabinieri_per_la_Tutela_della_Salute>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+SO.RI.MA.	Alberto Gianni	<http://it.wikipedia.org/wiki/Alberto_Gianni>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+J’Accuse…!	J'accuse	<http://it.wikipedia.org/wiki/J'accuse>	
+C.R.D.A.	Cantieri Riuniti dell'Adriatico	<http://it.wikipedia.org/wiki/Cantieri_Riuniti_dell'Adriatico>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Gaertn.	Joseph Gaertner	<http://it.wikipedia.org/wiki/Joseph_Gaertner>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+C.d.B.	Cricca Dei Balordi	<http://it.wikipedia.org/wiki/Cricca_Dei_Balordi>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+A.co.tra.l.	COTRAL	<http://it.wikipedia.org/wiki/COTRAL>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+A.R.A.R.	Azienda Rilievo Alienazione Residuati	<http://it.wikipedia.org/wiki/Azienda_Rilievo_Alienazione_Residuati>	
+Dlgs.	Decreto legislativo	<http://it.wikipedia.org/wiki/Decreto_legislativo>	
+M.E.N.	Neoplasia endocrina multipla	<http://it.wikipedia.org/wiki/Neoplasia_endocrina_multipla>	
+Duh!	Duh (album)	<http://it.wikipedia.org/wiki/Duh_(album)>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+BlissCo.	Bliss Corporation	<http://it.wikipedia.org/wiki/Bliss_Corporation>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+C.F.V.A.	Corpo forestale e di vigilanza ambientale	<http://it.wikipedia.org/wiki/Corpo_forestale_e_di_vigilanza_ambientale>	
+Neustadt/Weinstr.	Neustadt an der Weinstraße	<http://it.wikipedia.org/wiki/Neustadt_an_der_Weinstraße>	<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Place> 
+F.i.s.co.	F.I.S.Co.	<http://it.wikipedia.org/wiki/F.I.S.Co.>	
+Shout!	Shout (The Isley Brothers)	<http://it.wikipedia.org/wiki/Shout_(The_Isley_Brothers)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Shout!	Shout (gruppo musicale)	<http://it.wikipedia.org/wiki/Shout_(gruppo_musicale)>	<http://schema.org/MusicGroup>,<http://schema.org/Person>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person> 
+Shout!	Shout (Tears for Fears)	<http://it.wikipedia.org/wiki/Shout_(Tears_for_Fears)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Shout!	Shout (Shout for England)	<http://it.wikipedia.org/wiki/Shout_(Shout_for_England)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Shout!	Shout (film)	<http://it.wikipedia.org/wiki/Shout_(film)>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+F.I.C.K.	Federazione Italiana Canoa Kayak	<http://it.wikipedia.org/wiki/Federazione_Italiana_Canoa_Kayak>	
+A.C.n.	Avanti Cristo	<http://it.wikipedia.org/wiki/Avanti_Cristo>	
+What-A-Cartoon!	What a Cartoon!	<http://it.wikipedia.org/wiki/What_a_Cartoon!>	
+V.A.C.	Milizia Volontaria Anti Comunista	<http://it.wikipedia.org/wiki/Milizia_Volontaria_Anti_Comunista>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Fuego!	Fuego (programma televisivo)	<http://it.wikipedia.org/wiki/Fuego_(programma_televisivo)>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+S.n.o.b.	S.N.O.B.	<http://it.wikipedia.org/wiki/S.N.O.B.>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+D.V.A.S.	Personaggi di Kill Bill	<http://it.wikipedia.org/wiki/Personaggi_di_Kill_Bill>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/FictionalCharacter>,<http://schema.org/Person> 
+S.p.a.b.	Society for the Protection of Ancient Buildings	<http://it.wikipedia.org/wiki/Society_for_the_Protection_of_Ancient_Buildings>	
+P.Beauv.	Ambroise Marie François Joseph Palisot de Beauvois	<http://it.wikipedia.org/wiki/Ambroise_Marie_François_Joseph_Palisot_de_Beauvois>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Beauv.	Ambroise Marie François Joseph Palisot de Beauvois	<http://it.wikipedia.org/wiki/Ambroise_Marie_François_Joseph_Palisot_de_Beauvois>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+C.I.R.A.	Continuity Irish Republican Army	<http://it.wikipedia.org/wiki/Continuity_Irish_Republican_Army>	
+C.I.R.A.	Centro Italiano Ricerche Aerospaziali	<http://it.wikipedia.org/wiki/Centro_Italiano_Ricerche_Aerospaziali>	<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation> 
+C.I.R.A.	Gruppi archeologici d'Italia	<http://it.wikipedia.org/wiki/Gruppi_archeologici_d'Italia>	
+J.E.T.	Jet (gruppo musicale italiano)	<http://it.wikipedia.org/wiki/Jet_(gruppo_musicale_italiano)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+F.I.F.A.	Fédération Internationale de Football Association	<http://it.wikipedia.org/wiki/Fédération_Internationale_de_Football_Association>	
+S.W.W.A.A.T.S.	Success Will Write Apocalypse Across the Sky	<http://it.wikipedia.org/wiki/Success_Will_Write_Apocalypse_Across_the_Sky>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+F.A.V.	Ferrovia Alta Valtellina	<http://it.wikipedia.org/wiki/Ferrovia_Alta_Valtellina>	
+M.B.C.	Concentrazione minima battericida	<http://it.wikipedia.org/wiki/Concentrazione_minima_battericida>	
+O.N.U.	Organizzazione delle Nazioni Unite	<http://it.wikipedia.org/wiki/Organizzazione_delle_Nazioni_Unite>	
+Strike!	Strike! (The Baseballs)	<http://it.wikipedia.org/wiki/Strike!_(The_Baseballs)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Strike!	Strike (gruppo musicale)	<http://it.wikipedia.org/wiki/Strike_(gruppo_musicale)>	<http://schema.org/MusicGroup>,<http://schema.org/Person>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person> 
+Strike!	Strike (album Strike)	<http://it.wikipedia.org/wiki/Strike_(album_Strike)>	
+Strike!	Strike! (compilation)	<http://it.wikipedia.org/wiki/Strike!_(compilation)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Strike!	Strike (album)	<http://it.wikipedia.org/wiki/Strike_(album)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+M.s.l.m.	Livello del mare	<http://it.wikipedia.org/wiki/Livello_del_mare>	
+Vegas!	Albi di Dampyr (2002)	<http://it.wikipedia.org/wiki/Albi_di_Dampyr_(2002)>	
+Vathek!	Albi di Dampyr (2003)	<http://it.wikipedia.org/wiki/Albi_di_Dampyr_(2003)>	
+G'olè!	G'olé!	<http://it.wikipedia.org/wiki/G'olé!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+T.P.C.	Ministero per i Beni e le Attività Culturali	<http://it.wikipedia.org/wiki/Ministero_per_i_Beni_e_le_Attività_Culturali>	
+C.v.d.	Come volevasi dimostrare	<http://it.wikipedia.org/wiki/Come_volevasi_dimostrare>	
+C.I.C.	Confederazione italiana agricoltori	<http://it.wikipedia.org/wiki/Confederazione_italiana_agricoltori>	
+QH.	Coenzima Q	<http://it.wikipedia.org/wiki/Coenzima_Q>	
+Whistle!	Dream Team (anime)	<http://it.wikipedia.org/wiki/Dream_Team_(anime)>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://dbpedia.org/ontology/Manga>,<http://dbpedia.org/ontology/Comics>,<http://schema.org/CreativeWork> 
+¡Alarma!	Alarma Records	<http://it.wikipedia.org/wiki/Alarma_Records>	
+¡Alarma!	¡Alarma! (album)	<http://it.wikipedia.org/wiki/¡Alarma!_(album)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+¡Alarma!	¡Alarma! (rivista)	<http://it.wikipedia.org/wiki/¡Alarma!_(rivista)>	
+A.R.P.	Aereo Radio Pilotato	<http://it.wikipedia.org/wiki/Aereo_Radio_Pilotato>	
+Fisch.	Friedrich Ernst Ludwig von Fischer	<http://it.wikipedia.org/wiki/Friedrich_Ernst_Ludwig_von_Fischer>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Gueldenst.	Johann Anton Güldenstädt	<http://it.wikipedia.org/wiki/Johann_Anton_Güldenstädt>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Dash!	Automodelli - Mini 4WD	<http://it.wikipedia.org/wiki/Automodelli_-_Mini_4WD>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://dbpedia.org/ontology/Manga>,<http://dbpedia.org/ontology/Comics>,<http://schema.org/CreativeWork> 
+P.A.L.O.P.	Paesi africani di lingua ufficiale portoghese	<http://it.wikipedia.org/wiki/Paesi_africani_di_lingua_ufficiale_portoghese>	
+C.R.I.	Croce Rossa Italiana	<http://it.wikipedia.org/wiki/Croce_Rossa_Italiana>	
+J.C.A.	Jean Claude Ades	<http://it.wikipedia.org/wiki/Jean_Claude_Ades>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+S.l.d.m.	Livello del mare	<http://it.wikipedia.org/wiki/Livello_del_mare>	
+S.H.E.	S.H.E	<http://it.wikipedia.org/wiki/S.H.E>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Benth.	George Bentham	<http://it.wikipedia.org/wiki/George_Bentham>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+B.A.D.	Big Audio Dynamite	<http://it.wikipedia.org/wiki/Big_Audio_Dynamite>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+N.A.T.O.	Organizzazione del Trattato dell'Atlantico del Nord	<http://it.wikipedia.org/wiki/Organizzazione_del_Trattato_dell'Atlantico_del_Nord>	
+Cav.	Cavalierato	<http://it.wikipedia.org/wiki/Cavalierato>	
+C.E.L.T.	Casa Editrice La Tribuna	<http://it.wikipedia.org/wiki/Casa_Editrice_La_Tribuna>	
+S.S.P.	Società San Paolo	<http://it.wikipedia.org/wiki/Società_San_Paolo>	
+R.S.V.P.	Répondez, s'il vous plaît	<http://it.wikipedia.org/wiki/Répondez,_s'il_vous_plaît>	
+F.I.S.T.	F.I.S.T	<http://it.wikipedia.org/wiki/F.I.S.T>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Help!	Help! (album The Beatles)	<http://it.wikipedia.org/wiki/Help!_(album_The_Beatles)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Help!	The Help (film)	<http://it.wikipedia.org/wiki/The_Help_(film)>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+Help!	Help! (singolo The Beatles)	<http://it.wikipedia.org/wiki/Help!_(singolo_The_Beatles)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Help!	Help! (casa discografica)	<http://it.wikipedia.org/wiki/Help!_(casa_discografica)>	
+Help!	Help! (programma televisivo)	<http://it.wikipedia.org/wiki/Help!_(programma_televisivo)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow> 
+Help!	Help (Lloyd Banks)	<http://it.wikipedia.org/wiki/Help_(Lloyd_Banks)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+P.S.I.U.P.	Partito Socialista Italiano di Unità Proletaria	<http://it.wikipedia.org/wiki/Partito_Socialista_Italiano_di_Unità_Proletaria>	
+T.V.U.M.D.B.	T.V.U.M.D.B./Mio cuggino	<http://it.wikipedia.org/wiki/T.V.U.M.D.B./Mio_cuggino>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+I.C.	Istituto della carità	<http://it.wikipedia.org/wiki/Istituto_della_carità>	
+Rchb.f.	Heinrich Gustav Reichenbach	<http://it.wikipedia.org/wiki/Heinrich_Gustav_Reichenbach>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Cu.m.	Metro cubo	<http://it.wikipedia.org/wiki/Metro_cubo>	
+C.N.R.S.	Centre National de la Recherche Scientifique	<http://it.wikipedia.org/wiki/Centre_National_de_la_Recherche_Scientifique>	
+Bang!	!Bang!	<http://it.wikipedia.org/wiki/!Bang!>	
+Bang!	Bang (The Jesus Lizard)	<http://it.wikipedia.org/wiki/Bang_(The_Jesus_Lizard)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Bang!	Bang! (gioco di carte)	<http://it.wikipedia.org/wiki/Bang!_(gioco_di_carte)>	
+Bang!	Bang (film)	<http://it.wikipedia.org/wiki/Bang_(film)>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+Bang!	Gun (bastone)	<http://it.wikipedia.org/wiki/Gun_(bastone)>	
+Bang!	BANG! (Cinema Bizarre)	<http://it.wikipedia.org/wiki/BANG!_(Cinema_Bizarre)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Bang!	Punta alle 8	<http://it.wikipedia.org/wiki/Punta_alle_8>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow> 
+Bang!	Bang! (Nightmare of You)	<http://it.wikipedia.org/wiki/Bang!_(Nightmare_of_You)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Caparezza?!	?! (album)	<http://it.wikipedia.org/wiki/?!_(album)>	
+S.F.W.	S.F.W. - So Fucking What	<http://it.wikipedia.org/wiki/S.F.W._-_So_Fucking_What>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+P.Ay.	Premio Ayaaaak	<http://it.wikipedia.org/wiki/Premio_Ayaaaak>	
+T.U.L.P.S.	Testo unico delle leggi di pubblica sicurezza	<http://it.wikipedia.org/wiki/Testo_unico_delle_leggi_di_pubblica_sicurezza>	
+T.u.l.p.s.	Testo unico delle leggi di pubblica sicurezza	<http://it.wikipedia.org/wiki/Testo_unico_delle_leggi_di_pubblica_sicurezza>	
+U.I.G.O.S.	DIGOS	<http://it.wikipedia.org/wiki/DIGOS>	
+Lampre-N.G.C.	Lampre-Merida	<http://it.wikipedia.org/wiki/Lampre-Merida>	
+F.E.R.T.	Fert	<http://it.wikipedia.org/wiki/Fert>	
+Ach.	Erik Acharius	<http://it.wikipedia.org/wiki/Erik_Acharius>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+M.V.S.N.	Milizia volontaria per la sicurezza nazionale	<http://it.wikipedia.org/wiki/Milizia_volontaria_per_la_sicurezza_nazionale>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+L.f.	Carl von Linné jr.	<http://it.wikipedia.org/wiki/Carl_von_Linné_jr.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+N.E.C.	Nijmegen Eendracht Combinatie	<http://it.wikipedia.org/wiki/Nijmegen_Eendracht_Combinatie>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/SoccerClub>,<http://dbpedia.org/ontology/SportsTeam>,<http://schema.org/Organization>,<http://schema.org/SportsTeam> 
+C.I.F.I.	Collegio Ingegneri Ferroviari Italiani	<http://it.wikipedia.org/wiki/Collegio_Ingegneri_Ferroviari_Italiani>	
+S.P.E.C.I.A.L.	Fallout (serie)	<http://it.wikipedia.org/wiki/Fallout_(serie)>	
+O.T.	Organizzazione Todt	<http://it.wikipedia.org/wiki/Organizzazione_Todt>	
+D.Ö.A.V.	Deutscher und Österreichischer Alpenverein	<http://it.wikipedia.org/wiki/Deutscher_und_Österreichischer_Alpenverein>	
+G.a.F.	Guardia alla Frontiera	<http://it.wikipedia.org/wiki/Guardia_alla_Frontiera>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Ha!-Ha!-Ha!	Ha! Ha! Ha!	<http://it.wikipedia.org/wiki/Ha!_Ha!_Ha!>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+E.S.T.	Esbjörn Svensson Trio	<http://it.wikipedia.org/wiki/Esbjörn_Svensson_Trio>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+A.T.I.	Associazione temporanea di imprese	<http://it.wikipedia.org/wiki/Associazione_temporanea_di_imprese>	
+Co.Tra.L.	COTRAL	<http://it.wikipedia.org/wiki/COTRAL>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+A.G.E.S.C.I.	Associazione Guide e Scouts Cattolici Italiani	<http://it.wikipedia.org/wiki/Associazione_Guide_e_Scouts_Cattolici_Italiani>	
+P.R.A.	Pubblico Registro Automobilistico	<http://it.wikipedia.org/wiki/Pubblico_Registro_Automobilistico>	
+T.U.	Testo unico	<http://it.wikipedia.org/wiki/Testo_unico>	
+S.r.o.	SRO	<http://it.wikipedia.org/wiki/SRO>	
+H.V.V.	Haagse Voetbal Vereniging	<http://it.wikipedia.org/wiki/Haagse_Voetbal_Vereniging>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/SoccerClub>,<http://dbpedia.org/ontology/SportsTeam>,<http://schema.org/Organization>,<http://schema.org/SportsTeam> 
+Cannonball!	Cannonball (film)	<http://it.wikipedia.org/wiki/Cannonball_(film)>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Ebersbach/Sa.	Ebersbach-Neugersdorf	<http://it.wikipedia.org/wiki/Ebersbach-Neugersdorf>	<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Place> 
+T.U.I.R.	Testo unico delle imposte sui redditi	<http://it.wikipedia.org/wiki/Testo_unico_delle_imposte_sui_redditi>	
+Legami!	Légami!	<http://it.wikipedia.org/wiki/Légami!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Atame!	Légami!	<http://it.wikipedia.org/wiki/Légami!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Reichenbach/O.L.	Reichenbach (Oberlausitz)	<http://it.wikipedia.org/wiki/Reichenbach_(Oberlausitz)>	<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Place> 
+N.P.H.	Nuestros Pequeños Hermanos	<http://it.wikipedia.org/wiki/Nuestros_Pequeños_Hermanos>	
+Müll.Arg.	Johannes Müller Argoviensis	<http://it.wikipedia.org/wiki/Johannes_Müller_Argoviensis>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Torr.	John Torrey	<http://it.wikipedia.org/wiki/John_Torrey>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+L.I.V.E.N.T.	Live (New Trolls)	<http://it.wikipedia.org/wiki/Live_(New_Trolls)>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+B.o.B.	B.o.B	<http://it.wikipedia.org/wiki/B.o.B>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Now!	NOW	<http://it.wikipedia.org/wiki/NOW>	
+Durarara!	Durarara!!	<http://it.wikipedia.org/wiki/Durarara!!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://dbpedia.org/ontology/Manga>,<http://dbpedia.org/ontology/Comics>,<http://schema.org/CreativeWork> 
+Durarara!!!	Durarara!!	<http://it.wikipedia.org/wiki/Durarara!!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://dbpedia.org/ontology/Manga>,<http://dbpedia.org/ontology/Comics>,<http://schema.org/CreativeWork> 
+Lights...Camera...Revolution!	Lights Camera Revolution	<http://it.wikipedia.org/wiki/Lights_Camera_Revolution>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+W.C.M.	World Class Manufacturing	<http://it.wikipedia.org/wiki/World_Class_Manufacturing>	
+C.S.A.I.	Commissione Sportiva Automobilistica Italiana	<http://it.wikipedia.org/wiki/Commissione_Sportiva_Automobilistica_Italiana>	
+C.U.B.A.	Club Universitario de Buenos Aires	<http://it.wikipedia.org/wiki/Club_Universitario_de_Buenos_Aires>	
+Sachsenb./Irbersd.	Frankenberg/Sa.	<http://it.wikipedia.org/wiki/Frankenberg/Sa.>	<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Place> 
+U.A.R.	Federazione di rugby a 15 dell'Argentina	<http://it.wikipedia.org/wiki/Federazione_di_rugby_a_15_dell'Argentina>	
+U.R.B.A.	Unión de Rugby de Buenos Aires	<http://it.wikipedia.org/wiki/Unión_de_Rugby_de_Buenos_Aires>	
+H.E.A.T.	H.E.A.T	<http://it.wikipedia.org/wiki/H.E.A.T>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Starz!	Starz (rete televisiva)	<http://it.wikipedia.org/wiki/Starz_(rete_televisiva)>	
+A.i.d.S.	Alles ist die Sekte	<http://it.wikipedia.org/wiki/Alles_ist_die_Sekte>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Kids'WB!	Kids' WB	<http://it.wikipedia.org/wiki/Kids'_WB>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+Branchie!	Branchie (romanzo)	<http://it.wikipedia.org/wiki/Branchie_(romanzo)>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://purl.org/ontology/bibo/Book>,<http://dbpedia.org/ontology/Book>,<http://schema.org/CreativeWork>,<http://schema.org/Book> 
+A.T.C.	A Touch of Class	<http://it.wikipedia.org/wiki/A_Touch_of_Class>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+P.v.	PV	<http://it.wikipedia.org/wiki/PV>	
+A.E.R.	AER (azienda)	<http://it.wikipedia.org/wiki/AER_(azienda)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+C2H8N2.	Etilendiammina	<http://it.wikipedia.org/wiki/Etilendiammina>	<http://dbpedia.org/ontology/ChemicalCompound>,<http://dbpedia.org/ontology/ChemicalSubstance> 
+C.A.S.I.	Club Atlético de San Isidro	<http://it.wikipedia.org/wiki/Club_Atlético_de_San_Isidro>	
+Supergulp!	SuperGulp!	<http://it.wikipedia.org/wiki/SuperGulp!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+P.U.T.S.	People Under the Stairs	<http://it.wikipedia.org/wiki/People_Under_the_Stairs>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+C.M.W.	Compton's Most Wanted	<http://it.wikipedia.org/wiki/Compton's_Most_Wanted>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+S.M.O.M..	Sovrano militare ordine di Malta	<http://it.wikipedia.org/wiki/Sovrano_militare_ordine_di_Malta>	
+U.N.K.L.E.	DJ Shadow	<http://it.wikipedia.org/wiki/DJ_Shadow>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Koibana!	Koibana! Koiseyo Hanabi	<http://it.wikipedia.org/wiki/Koibana!_Koiseyo_Hanabi>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://dbpedia.org/ontology/Manga>,<http://dbpedia.org/ontology/Comics>,<http://schema.org/CreativeWork> 
+C.O.R.E.	C.O.R.E. Digital Pictures	<http://it.wikipedia.org/wiki/C.O.R.E._Digital_Pictures>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+S.V.B.E.E.V.	Valeo si vales	<http://it.wikipedia.org/wiki/Valeo_si_vales>	
+Jacq.	Nikolaus Joseph von Jacquin	<http://it.wikipedia.org/wiki/Nikolaus_Joseph_von_Jacquin>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Hook.	William Jackson Hooker	<http://it.wikipedia.org/wiki/William_Jackson_Hooker>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+M.A.B.	Mirko Zonca	<http://it.wikipedia.org/wiki/Mirko_Zonca>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Impulse!	Impulse! Records	<http://it.wikipedia.org/wiki/Impulse!_Records>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+K.O.	Knock-out	<http://it.wikipedia.org/wiki/Knock-out>	
+Moonlight----.	Moonlight ----.	<http://it.wikipedia.org/wiki/Moonlight_----.>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+D.N.A.	DNA (disambigua)	<http://it.wikipedia.org/wiki/DNA_(disambigua)>	
+U.I.L.	Unione Italiana del Lavoro (1918-1925)	<http://it.wikipedia.org/wiki/Unione_Italiana_del_Lavoro_(1918-1925)>	
+Alambrista!	Il clandestino	<http://it.wikipedia.org/wiki/Il_clandestino>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+A.N.P.I.	Associazione Nazionale Partigiani d'Italia	<http://it.wikipedia.org/wiki/Associazione_Nazionale_Partigiani_d'Italia>	
+Curses!	Curses (videogioco)	<http://it.wikipedia.org/wiki/Curses_(videogioco)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame> 
+A.C.E.	Another Century's Episode	<http://it.wikipedia.org/wiki/Another_Century's_Episode>	<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame>,<http://schema.org/CreativeWork> 
+BANG!	!Bang!	<http://it.wikipedia.org/wiki/!Bang!>	
+BANG!	Bang (The Jesus Lizard)	<http://it.wikipedia.org/wiki/Bang_(The_Jesus_Lizard)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+BANG!	Bang! (gioco di carte)	<http://it.wikipedia.org/wiki/Bang!_(gioco_di_carte)>	
+BANG!	Bang (film)	<http://it.wikipedia.org/wiki/Bang_(film)>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+BANG!	Gun (bastone)	<http://it.wikipedia.org/wiki/Gun_(bastone)>	
+BANG!	BANG! (Cinema Bizarre)	<http://it.wikipedia.org/wiki/BANG!_(Cinema_Bizarre)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+BANG!	Punta alle 8	<http://it.wikipedia.org/wiki/Punta_alle_8>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow> 
+BANG!	Bang! (Nightmare of You)	<http://it.wikipedia.org/wiki/Bang!_(Nightmare_of_You)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Q.e.d.	Come volevasi dimostrare	<http://it.wikipedia.org/wiki/Come_volevasi_dimostrare>	
+Is.M.E.O.	Istituto italiano per il Medio ed Estremo Oriente	<http://it.wikipedia.org/wiki/Istituto_italiano_per_il_Medio_ed_Estremo_Oriente>	
+H.A.M.	H•A•M	<http://it.wikipedia.org/wiki/H•A•M>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+Aa!	Hello! Project	<http://it.wikipedia.org/wiki/Hello!_Project>	
+M.I.S.E.	Ministero dello Sviluppo Economico	<http://it.wikipedia.org/wiki/Ministero_dello_Sviluppo_Economico>	
+R.O.A.N.	Reparto Operativo Aeronavale (Guardia di Finanza)	<http://it.wikipedia.org/wiki/Reparto_Operativo_Aeronavale_(Guardia_di_Finanza)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+A.I.C.C.	Associazione Italiana di Cultura Classica	<http://it.wikipedia.org/wiki/Associazione_Italiana_di_Cultura_Classica>	
+Voyagers!	Voyagers! - Viaggiatori del tempo	<http://it.wikipedia.org/wiki/Voyagers!_-_Viaggiatori_del_tempo>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+Riderà!	Riderà (Cuore matto)	<http://it.wikipedia.org/wiki/Riderà_(Cuore_matto)>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+S.C.A.R.L.	Società consortile	<http://it.wikipedia.org/wiki/Società_consortile>	
+Hoodwinked!	Cappuccetto Rosso e gli insoliti sospetti	<http://it.wikipedia.org/wiki/Cappuccetto_Rosso_e_gli_insoliti_sospetti>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Ro.Ber.To.	Potenze dell'Asse	<http://it.wikipedia.org/wiki/Potenze_dell'Asse>	
+A.B.O.	Arma Bio-Organica	<http://it.wikipedia.org/wiki/Arma_Bio-Organica>	
+A.N.P.d'I.	Associazione Nazionale Paracadutisti d'Italia	<http://it.wikipedia.org/wiki/Associazione_Nazionale_Paracadutisti_d'Italia>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+I.DE.A.	I.De.A Institute	<http://it.wikipedia.org/wiki/I.De.A_Institute>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+I.D.E.A.	I.De.A Institute	<http://it.wikipedia.org/wiki/I.De.A_Institute>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Nep.	Cornelio Nepote	<http://it.wikipedia.org/wiki/Cornelio_Nepote>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+T.R.L.	Total Request Live	<http://it.wikipedia.org/wiki/Total_Request_Live>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+L.I.S.	Lingua dei segni italiana	<http://it.wikipedia.org/wiki/Lingua_dei_segni_italiana>	<http://dbpedia.org/ontology/Language>,<http://schema.org/Language> 
+Emergency!	Squadra emergenza (serie televisiva 1972)	<http://it.wikipedia.org/wiki/Squadra_emergenza_(serie_televisiva_1972)>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+S.I.M.	Servizio informazioni militare	<http://it.wikipedia.org/wiki/Servizio_informazioni_militare>	
+U.S.E.	Stati Uniti d'Europa	<http://it.wikipedia.org/wiki/Stati_Uniti_d'Europa>	
+C.S.A.	Stati Confederati d'America	<http://it.wikipedia.org/wiki/Stati_Confederati_d'America>	
+G.I.L.	Gioventù Italiana del Littorio	<http://it.wikipedia.org/wiki/Gioventù_Italiana_del_Littorio>	
+O.N.D.	Opera Nazionale Dopolavoro	<http://it.wikipedia.org/wiki/Opera_Nazionale_Dopolavoro>	
+G.R.F.	Gerarca	<http://it.wikipedia.org/wiki/Gerarca>	
+Maninalto!	Maninalto! Records	<http://it.wikipedia.org/wiki/Maninalto!_Records>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+CO.F.S.	Comando interforze per le Operazioni delle Forze Speciali	<http://it.wikipedia.org/wiki/Comando_interforze_per_le_Operazioni_delle_Forze_Speciali>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+S.M.O.M.	Sovrano militare ordine di Malta	<http://it.wikipedia.org/wiki/Sovrano_militare_ordine_di_Malta>	
+Alive!	Alive! (Snot)	<http://it.wikipedia.org/wiki/Alive!_(Snot)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive - Sopravvissuti	<http://it.wikipedia.org/wiki/Alive_-_Sopravvissuti>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive (Meshuggah)	<http://it.wikipedia.org/wiki/Alive_(Meshuggah)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive! (Kiss)	<http://it.wikipedia.org/wiki/Alive!_(Kiss)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive (P.O.D.)	<http://it.wikipedia.org/wiki/Alive_(P.O.D.)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive (Pearl Jam)	<http://it.wikipedia.org/wiki/Alive_(Pearl_Jam)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive (manga)	<http://it.wikipedia.org/wiki/Alive_(manga)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://dbpedia.org/ontology/Manga>,<http://dbpedia.org/ontology/Comics> 
+Phffft!	Phffft... e l'amore si sgonfia	<http://it.wikipedia.org/wiki/Phffft..._e_l'amore_si_sgonfia>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Nav.Ar.Ma.	Moby Lines	<http://it.wikipedia.org/wiki/Moby_Lines>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+C.R.S.G.A.	Canonici regolari di San Giorgio in Alga	<http://it.wikipedia.org/wiki/Canonici_regolari_di_San_Giorgio_in_Alga>	
+A.O.T.P.	Army of the Pharaohs	<http://it.wikipedia.org/wiki/Army_of_the_Pharaohs>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Gas!	Gas, fu necessario distruggere il mondo per poterlo salvare	<http://it.wikipedia.org/wiki/Gas,_fu_necessario_distruggere_il_mondo_per_poterlo_salvare>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+A.Ca.I.	Azienda Carboni Italiani	<http://it.wikipedia.org/wiki/Azienda_Carboni_Italiani>	
+A.P.G.	Apparecchio di Punteria Generale	<http://it.wikipedia.org/wiki/Apparecchio_di_Punteria_Generale>	
+V.V.V.V.V.	Vi veri universum vivus vici	<http://it.wikipedia.org/wiki/Vi_veri_universum_vivus_vici>	
+F.A.R.	Fasci di Azione Rivoluzionaria	<http://it.wikipedia.org/wiki/Fasci_di_Azione_Rivoluzionaria>	
+C.N.I.	Centro Nacional de Inteligencia	<http://it.wikipedia.org/wiki/Centro_Nacional_de_Inteligencia>	
+C.R.A.S.H.	Community Resources Against Street Hoodlums	<http://it.wikipedia.org/wiki/Community_Resources_Against_Street_Hoodlums>	
+EF!	Earth First!	<http://it.wikipedia.org/wiki/Earth_First!>	
+A.F.S.	American Field Service	<http://it.wikipedia.org/wiki/American_Field_Service>	
+A.D.ES.	Amici e Discendenti degli Esuli Giuliani, Istriani, Fiumani e Dalmati	<http://it.wikipedia.org/wiki/Amici_e_Discendenti_degli_Esuli_Giuliani,_Istriani,_Fiumani_e_Dalmati>	
+Dé!	De'	<http://it.wikipedia.org/wiki/De'>	
+Deh!	De'	<http://it.wikipedia.org/wiki/De'>	
+Dè!	De'	<http://it.wikipedia.org/wiki/De'>	
+Scialla!	Scialla! (Stai sereno)	<http://it.wikipedia.org/wiki/Scialla!_(Stai_sereno)>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+A.k.a.	AKA	<http://it.wikipedia.org/wiki/AKA>	
+R.U.R.	R.U.R. (Rossumovi univerzální roboti)	<http://it.wikipedia.org/wiki/R.U.R._(Rossumovi_univerzální_roboti)>	
+D.P.C.m.	Decreto ministeriale	<http://it.wikipedia.org/wiki/Decreto_ministeriale>	
+S.à.r.l.	Société à responsabilité limitée	<http://it.wikipedia.org/wiki/Société_à_responsabilité_limitée>	
+W.E.	W.E. - Edward e Wallis	<http://it.wikipedia.org/wiki/W.E._-_Edward_e_Wallis>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+U.S.S.R.	Unione Sovietica	<http://it.wikipedia.org/wiki/Unione_Sovietica>	
+Getaway!	Getaway! (film 1972)	<http://it.wikipedia.org/wiki/Getaway!_(film_1972)>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+S.M.I.	Maestà imperiale	<http://it.wikipedia.org/wiki/Maestà_imperiale>	
+Goal!	Gol	<http://it.wikipedia.org/wiki/Gol>	
+Goal!	Goal! (film)	<http://it.wikipedia.org/wiki/Goal!_(film)>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+Goal!	Goal! (videogioco)	<http://it.wikipedia.org/wiki/Goal!_(videogioco)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame> 
+Goal!	Goal - Speak English, Play Football	<http://it.wikipedia.org/wiki/Goal_-_Speak_English,_Play_Football>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow> 
+B.I.F.E.S.T.	Bari International Film Festival	<http://it.wikipedia.org/wiki/Bari_International_Film_Festival>	
+Yes!	YES	<http://it.wikipedia.org/wiki/YES>	
+L.B.Sm.	Lyman Bradford Smith	<http://it.wikipedia.org/wiki/Lyman_Bradford_Smith>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Panic!	Panic (MxPx)	<http://it.wikipedia.org/wiki/Panic_(MxPx)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Panic!	Panic (The Smiths)	<http://it.wikipedia.org/wiki/Panic_(The_Smiths)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Panic!	Panico	<http://it.wikipedia.org/wiki/Panico>	
+Panic!	Panic (Death SS)	<http://it.wikipedia.org/wiki/Panic_(Death_SS)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Panic!	Panico (serie televisiva)	<http://it.wikipedia.org/wiki/Panico_(serie_televisiva)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow> 
+L.I.M.	Lavagna interattiva multimediale	<http://it.wikipedia.org/wiki/Lavagna_interattiva_multimediale>	
+K-On!!	K-On!	<http://it.wikipedia.org/wiki/K-On!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://dbpedia.org/ontology/Manga>,<http://dbpedia.org/ontology/Comics>,<http://schema.org/CreativeWork> 
+T.H.E.	T.H.E. (The Hardest Ever)	<http://it.wikipedia.org/wiki/T.H.E._(The_Hardest_Ever)>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+Schult.f.	Julius Hermann Schultes	<http://it.wikipedia.org/wiki/Julius_Hermann_Schultes>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Gotcha!	Toccato!	<http://it.wikipedia.org/wiki/Toccato!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Mons.	Monsignore	<http://it.wikipedia.org/wiki/Monsignore>	
+T.P.ER.	Trasporto Passeggeri Emilia-Romagna	<http://it.wikipedia.org/wiki/Trasporto_Passeggeri_Emilia-Romagna>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Awkward.	Diario di una nerd superstar	<http://it.wikipedia.org/wiki/Diario_di_una_nerd_superstar>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+LA.O.S.	Raggruppamento Popolare Ortodosso	<http://it.wikipedia.org/wiki/Raggruppamento_Popolare_Ortodosso>	
+Brink!	Brink! Sfida su rotelle	<http://it.wikipedia.org/wiki/Brink!_Sfida_su_rotelle>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+D.d.p.	Differenza di potenziale elettrico	<http://it.wikipedia.org/wiki/Differenza_di_potenziale_elettrico>	
+A.G.	Show & AG	<http://it.wikipedia.org/wiki/Show_&_AG>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+D.I.T.C.	Show & AG	<http://it.wikipedia.org/wiki/Show_&_AG>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+O.S.Io.Hier.	Sovrano militare ordine di Malta	<http://it.wikipedia.org/wiki/Sovrano_militare_ordine_di_Malta>	
+J.A.R.V.I.S.	Edwin Jarvis	<http://it.wikipedia.org/wiki/Edwin_Jarvis>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/FictionalCharacter>,<http://schema.org/Person> 
+Pafff...bum!	Pafff... bum!/Io non ho pianto mai così	<http://it.wikipedia.org/wiki/Pafff..._bum!/Io_non_ho_pianto_mai_così>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+Paff...bum!	Pafff... bum!/Io non ho pianto mai così	<http://it.wikipedia.org/wiki/Pafff..._bum!/Io_non_ho_pianto_mai_così>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+C.N.S.R.	Centro Nazionale Selezione e Reclutamento	<http://it.wikipedia.org/wiki/Centro_Nazionale_Selezione_e_Reclutamento>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Ra.C.I.S.	Raggruppamento carabinieri investigazioni scientifiche	<http://it.wikipedia.org/wiki/Raggruppamento_carabinieri_investigazioni_scientifiche>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+C.E.C.A.	Comunità europea del carbone e dell'acciaio	<http://it.wikipedia.org/wiki/Comunità_europea_del_carbone_e_dell'acciaio>	
+E.L.F.	Elvish Linguistic Fellowship	<http://it.wikipedia.org/wiki/Elvish_Linguistic_Fellowship>	
+L.S.F.	L.S.F. (Lost Souls Forever)	<http://it.wikipedia.org/wiki/L.S.F._(Lost_Souls_Forever)>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+Khan!	Khan (serie televisiva)	<http://it.wikipedia.org/wiki/Khan_(serie_televisiva)>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+W.O.T.A.	Walk off the Earth	<http://it.wikipedia.org/wiki/Walk_off_the_Earth>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+E.N.G.	E.N.G. - Presa diretta	<http://it.wikipedia.org/wiki/E.N.G._-_Presa_diretta>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+Pamp.	Renato Pampanini	<http://it.wikipedia.org/wiki/Renato_Pampanini>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+CO.RE.CO.	Comitato regionale di controllo	<http://it.wikipedia.org/wiki/Comitato_regionale_di_controllo>	
+Woof!	Un cane di nome Wolf	<http://it.wikipedia.org/wiki/Un_cane_di_nome_Wolf>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+S.A.I.G.S.	Società Anonima Italiana Gomma Sintetica	<http://it.wikipedia.org/wiki/Società_Anonima_Italiana_Gomma_Sintetica>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Ombrellifere.	Apiaceae	<http://it.wikipedia.org/wiki/Apiaceae>	<http://dbpedia.org/ontology/Species> 
+E.L.A.S.	Ellinikós Laïkós Apeleftherotikós Stratós	<http://it.wikipedia.org/wiki/Ellinikós_Laïkós_Apeleftherotikós_Stratós>	
+S.u.a.p.	Sportello Unico per le Attività Produttive	<http://it.wikipedia.org/wiki/Sportello_Unico_per_le_Attività_Produttive>	
+T.O.F.	Terzo ordine regolare di San Francesco	<http://it.wikipedia.org/wiki/Terzo_ordine_regolare_di_San_Francesco>	
+M.S.G.	Michael Schenker Group	<http://it.wikipedia.org/wiki/Michael_Schenker_Group>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+C.I.S.A.R.	Centro Italiano Sperimentazione Attività Radiantistiche	<http://it.wikipedia.org/wiki/Centro_Italiano_Sperimentazione_Attività_Radiantistiche>	
+Viva!	Viva (Bananarama)	<http://it.wikipedia.org/wiki/Viva_(Bananarama)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Viva!	Viva (Xmal Deutschland)	<http://it.wikipedia.org/wiki/Viva_(Xmal_Deutschland)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Viva!	VIVA	<http://it.wikipedia.org/wiki/VIVA>	
+Viva!	Coppa del mondo VIVA	<http://it.wikipedia.org/wiki/Coppa_del_mondo_VIVA>	<http://schema.org/Event>,<http://schema.org/SportsEvent>,<http://dbpedia.org/ontology/Event>,<http://dbpedia.org/ontology/SportsEvent> 
+Viva!	Viva! (Roxy Music)	<http://it.wikipedia.org/wiki/Viva!_(Roxy_Music)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Viva!	Luigi Viva	<http://it.wikipedia.org/wiki/Luigi_Viva>	<http://schema.org/Person>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person> 
+Viva!	Tu amore mio/Viva	<http://it.wikipedia.org/wiki/Tu_amore_mio/Viva>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Viva!	Viva! (singolo)	<http://it.wikipedia.org/wiki/Viva!_(singolo)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Viva!	Viva (Pooh)	<http://it.wikipedia.org/wiki/Viva_(Pooh)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+B.T.W.	Born This Way	<http://it.wikipedia.org/wiki/Born_This_Way>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+MissingNo.	Missingno.	<http://it.wikipedia.org/wiki/Missingno.>	
+P.A.C.L.E.	Istituto tecnico economico	<http://it.wikipedia.org/wiki/Istituto_tecnico_economico>	
+P.O.F.	Piano dell'offerta formativa	<http://it.wikipedia.org/wiki/Piano_dell'offerta_formativa>	
+Cfr.	Cf.	<http://it.wikipedia.org/wiki/Cf.>	
+Phytochem.	Phytochemistry	<http://it.wikipedia.org/wiki/Phytochemistry>	
+Ecc.	Et cetera	<http://it.wikipedia.org/wiki/Et_cetera>	
+Etc.	Et cetera	<http://it.wikipedia.org/wiki/Et_cetera>	
+J.O.N.S.	Giunta di Offensiva Nazional-Sindacalista	<http://it.wikipedia.org/wiki/Giunta_di_Offensiva_Nazional-Sindacalista>	
+C.C.M.	Cheetah Chrome Motherfuckers	<http://it.wikipedia.org/wiki/Cheetah_Chrome_Motherfuckers>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+HH!	Haloo Helsinki!	<http://it.wikipedia.org/wiki/Haloo_Helsinki!>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Mate.Feed.Kill.Repeat.	Mate. Feed. Kill. Repeat.	<http://it.wikipedia.org/wiki/Mate._Feed._Kill._Repeat.>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+Draw!	Coppia di Jack	<http://it.wikipedia.org/wiki/Coppia_di_Jack>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+M.E.I.	Meeting delle Etichette Indipendenti	<http://it.wikipedia.org/wiki/Meeting_delle_Etichette_Indipendenti>	
+P.R.I.N.	Serzy-et-Prin	<http://it.wikipedia.org/wiki/Serzy-et-Prin>	<http://schema.org/Place>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace> 
+P.R.I.N.	Alice Prin	<http://it.wikipedia.org/wiki/Alice_Prin>	<http://schema.org/Person>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person> 
+P.R.I.N.	Prin-Deyrançon	<http://it.wikipedia.org/wiki/Prin-Deyrançon>	<http://schema.org/Place>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace> 
+A.V.E.	AVE (casa editrice)	<http://it.wikipedia.org/wiki/AVE_(casa_editrice)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+¡Cuatro!	¡Quatro!	<http://it.wikipedia.org/wiki/¡Quatro!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Ebr.	Lingua ebraica	<http://it.wikipedia.org/wiki/Lingua_ebraica>	<http://dbpedia.org/ontology/Language>,<http://schema.org/Language> 
+A.I.E.P.	Associazione internazionale di esperti filatelici	<http://it.wikipedia.org/wiki/Associazione_internazionale_di_esperti_filatelici>	
+O.C.D.	Carmelitani scalzi	<http://it.wikipedia.org/wiki/Carmelitani_scalzi>	
+Bt.	Bint	<http://it.wikipedia.org/wiki/Bint>	
+Gals!	GALS!	<http://it.wikipedia.org/wiki/GALS!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://dbpedia.org/ontology/Manga>,<http://dbpedia.org/ontology/Comics>,<http://schema.org/CreativeWork> 

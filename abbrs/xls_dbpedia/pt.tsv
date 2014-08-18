@@ -1,0 +1,1345 @@
+D.C.	Anno Domini	<http://pt.wikipedia.org/wiki/Anno_Domini>	
+E.U.A.	Estados Unidos	<http://pt.wikipedia.org/wiki/Estados_Unidos>	<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Country>,<http://schema.org/Place> 
+W.I.C.	Companhia Holandesa das Índias Ocidentais	<http://pt.wikipedia.org/wiki/Companhia_Holandesa_das_Índias_Ocidentais>	
+G.N.R.	Guns N' Roses	<http://pt.wikipedia.org/wiki/Guns_N'_Roses>	<http://schema.org/MusicGroup>,<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation> 
+G.N.R.	GNR (banda)	<http://pt.wikipedia.org/wiki/GNR_(banda)>	<http://schema.org/MusicGroup>,<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation> 
+G.N.R.	Guarda Nacional Republicana	<http://pt.wikipedia.org/wiki/Guarda_Nacional_Republicana>	<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation> 
+Ph.D.	Doutorado em filosofia	<http://pt.wikipedia.org/wiki/Doutorado_em_filosofia>	
+G.P.S.	Sistema de posicionamento global	<http://pt.wikipedia.org/wiki/Sistema_de_posicionamento_global>	
+O.F.M.	Ordem dos Frades Menores	<http://pt.wikipedia.org/wiki/Ordem_dos_Frades_Menores>	
+O.P.	Ordem dos Pregadores	<http://pt.wikipedia.org/wiki/Ordem_dos_Pregadores>	
+E.T.	Extraterrestre	<http://pt.wikipedia.org/wiki/Extraterrestre>	
+C.u.	Thunbergia alata	<http://pt.wikipedia.org/wiki/Thunbergia_alata>	<http://dbpedia.org/ontology/Eukaryote>,<http://dbpedia.org/ontology/Plant>,<http://dbpedia.org/ontology/Species>,<http://dbpedia.org/ontology/FloweringPlant> 
+C.u.	Cuba	<http://pt.wikipedia.org/wiki/Cuba>	<http://schema.org/Country>,<http://schema.org/Place>,<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace> 
+C.u.	Os Cus de Judas	<http://pt.wikipedia.org/wiki/Os_Cus_de_Judas>	
+A.A.P.A.C.D.M.	Associação Algarvia de Pais e Amigos de Crianças Diminuídas Mentais	<http://pt.wikipedia.org/wiki/Associação_Algarvia_de_Pais_e_Amigos_de_Crianças_Diminuídas_Mentais>	
+O.Cist.	Ordem de Cister	<http://pt.wikipedia.org/wiki/Ordem_de_Cister>	
+OCist.	Ordem de Cister	<http://pt.wikipedia.org/wiki/Ordem_de_Cister>	
+R.A.A.	Açores	<http://pt.wikipedia.org/wiki/Açores>	<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Country>,<http://schema.org/Place> 
+C.M.	Congregação da Missão	<http://pt.wikipedia.org/wiki/Congregação_da_Missão>	
+Átame!	Ata-me!	<http://pt.wikipedia.org/wiki/Ata-me!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+T.O.R.	Terceira Ordem Regular de São Francisco	<http://pt.wikipedia.org/wiki/Terceira_Ordem_Regular_de_São_Francisco>	
+S.J.	Companhia de Jesus	<http://pt.wikipedia.org/wiki/Companhia_de_Jesus>	
+R.P.C.	República Popular da China	<http://pt.wikipedia.org/wiki/República_Popular_da_China>	<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Country>,<http://schema.org/Place> 
+U.R.S.S.	União Soviética	<http://pt.wikipedia.org/wiki/União_Soviética>	<http://dbpedia.org/ontology/AdministrativeRegion>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://dbpedia.org/ontology/Region>,<http://schema.org/AdministrativeArea>,<http://schema.org/Place> 
+N.I.E.M.	Hogwarts School of Witchcraft and Wizardry	<http://pt.wikipedia.org/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry>	
+N.O.M.	Hogwarts School of Witchcraft and Wizardry	<http://pt.wikipedia.org/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry>	
+S.O.D.	Stormtroopers of Death	<http://pt.wikipedia.org/wiki/Stormtroopers_of_Death>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+A.u.c.	Ab urbe condita	<http://pt.wikipedia.org/wiki/Ab_urbe_condita>	
+J.J.	Zillion	<http://pt.wikipedia.org/wiki/Zillion>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+O.C.D.	Ordem dos Carmelitas Descalços	<http://pt.wikipedia.org/wiki/Ordem_dos_Carmelitas_Descalços>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+O.C.	Ordem do Carmo	<http://pt.wikipedia.org/wiki/Ordem_do_Carmo>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+C.V.	Comando Vermelho	<http://pt.wikipedia.org/wiki/Comando_Vermelho>	
+Oi!	Oi! Warning	<http://pt.wikipedia.org/wiki/Oi!_Warning>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+Oi!	Oi! (gênero musical)	<http://pt.wikipedia.org/wiki/Oi!_(gênero_musical)>	<http://dbpedia.org/ontology/Genre>,<http://dbpedia.org/ontology/MusicGenre>,<http://dbpedia.org/ontology/TopicalConcept> 
+Oi!	Oi (telecomunicações)	<http://pt.wikipedia.org/wiki/Oi_(telecomunicações)>	<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation> 
+Oi!	Oi! The Album	<http://pt.wikipedia.org/wiki/Oi!_The_Album>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Oi!	Oi (interjeição)	<http://pt.wikipedia.org/wiki/Oi_(interjeição)>	
+Oi!	Oi! Um Grito de União Vol.3	<http://pt.wikipedia.org/wiki/Oi!_Um_Grito_de_União_Vol.3>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Olá!	Oi! Warning	<http://pt.wikipedia.org/wiki/Oi!_Warning>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+Olá!	Oi! (gênero musical)	<http://pt.wikipedia.org/wiki/Oi!_(gênero_musical)>	<http://dbpedia.org/ontology/Genre>,<http://dbpedia.org/ontology/MusicGenre>,<http://dbpedia.org/ontology/TopicalConcept> 
+Olá!	Oi (telecomunicações)	<http://pt.wikipedia.org/wiki/Oi_(telecomunicações)>	<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation> 
+Olá!	Oi! The Album	<http://pt.wikipedia.org/wiki/Oi!_The_Album>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Olá!	Oi (interjeição)	<http://pt.wikipedia.org/wiki/Oi_(interjeição)>	
+Olá!	Oi! Um Grito de União Vol.3	<http://pt.wikipedia.org/wiki/Oi!_Um_Grito_de_União_Vol.3>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Alô!	Oi! Warning	<http://pt.wikipedia.org/wiki/Oi!_Warning>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+Alô!	Oi! (gênero musical)	<http://pt.wikipedia.org/wiki/Oi!_(gênero_musical)>	<http://dbpedia.org/ontology/Genre>,<http://dbpedia.org/ontology/MusicGenre>,<http://dbpedia.org/ontology/TopicalConcept> 
+Alô!	Oi (telecomunicações)	<http://pt.wikipedia.org/wiki/Oi_(telecomunicações)>	<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation> 
+Alô!	Oi! The Album	<http://pt.wikipedia.org/wiki/Oi!_The_Album>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Alô!	Oi (interjeição)	<http://pt.wikipedia.org/wiki/Oi_(interjeição)>	
+Alô!	Oi! Um Grito de União Vol.3	<http://pt.wikipedia.org/wiki/Oi!_Um_Grito_de_União_Vol.3>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+A.C.	Anno Domini	<http://pt.wikipedia.org/wiki/Anno_Domini>	
+U.N.A.M.	Universidade Nacional Autónoma de México	<http://pt.wikipedia.org/wiki/Universidade_Nacional_Autónoma_de_México>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/EducationalInstitution>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/University>,<http://schema.org/CollegeOrUniversity>,<http://schema.org/EducationalOrganization>,<http://schema.org/Organization> 
+Motörhead.	Motörhead (álbum)	<http://pt.wikipedia.org/wiki/Motörhead_(álbum)>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+D.R.I.	Dirty Rotten Imbeciles	<http://pt.wikipedia.org/wiki/Dirty_Rotten_Imbeciles>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+N.W.O.B.H.M.	New Wave of British Heavy Metal	<http://pt.wikipedia.org/wiki/New_Wave_of_British_Heavy_Metal>	
+O.S.B.	Ordem de São Bento	<http://pt.wikipedia.org/wiki/Ordem_de_São_Bento>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Inc.	Incorporation	<http://pt.wikipedia.org/wiki/Incorporation>	
+C.R.S.A.	Ordem dos Cónegos Regrantes de Santo Agostinho	<http://pt.wikipedia.org/wiki/Ordem_dos_Cónegos_Regrantes_de_Santo_Agostinho>	
+C.R.S.J.E.	Congregação dos Cónegos Regulares de São João Evangelista	<http://pt.wikipedia.org/wiki/Congregação_dos_Cónegos_Regulares_de_São_João_Evangelista>	
+A.D.	Anno Domini	<http://pt.wikipedia.org/wiki/Anno_Domini>	
+E.C.	Anno Domini	<http://pt.wikipedia.org/wiki/Anno_Domini>	
+A.E.C.	Anno Domini	<http://pt.wikipedia.org/wiki/Anno_Domini>	
+TV!	História da RedeTV!	<http://pt.wikipedia.org/wiki/História_da_RedeTV!>	
+N.O.B.	Estrada de Ferro Noroeste do Brasil	<http://pt.wikipedia.org/wiki/Estrada_de_Ferro_Noroeste_do_Brasil>	
+Q.I.	Quociente de inteligência	<http://pt.wikipedia.org/wiki/Quociente_de_inteligência>	
+Lda.	Sociedade limitada	<http://pt.wikipedia.org/wiki/Sociedade_limitada>	
+Ltda.	Sociedade limitada	<http://pt.wikipedia.org/wiki/Sociedade_limitada>	
+S.A.	Sociedade anónima	<http://pt.wikipedia.org/wiki/Sociedade_anónima>	
+Backeb.	Curt Backeberg	<http://pt.wikipedia.org/wiki/Curt_Backeberg>	
+C.E.I.	Comunidade dos Estados Independentes	<http://pt.wikipedia.org/wiki/Comunidade_dos_Estados_Independentes>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+A.C.T.	A.C.T	<http://pt.wikipedia.org/wiki/A.C.T>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+P.M.P.O.	Potência de áudio	<http://pt.wikipedia.org/wiki/Potência_de_áudio>	
+F.R.C.	Frater Rosae Crucis	<http://pt.wikipedia.org/wiki/Frater_Rosae_Crucis>	
+C.O.C.	Corrosion of Conformity	<http://pt.wikipedia.org/wiki/Corrosion_of_Conformity>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+I.R.A.	Exército Republicano Irlandês	<http://pt.wikipedia.org/wiki/Exército_Republicano_Irlandês>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+S.U.S.	Sport União Sintrense	<http://pt.wikipedia.org/wiki/Sport_União_Sintrense>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/SoccerClub>,<http://dbpedia.org/ontology/SportsTeam>,<http://schema.org/Organization>,<http://schema.org/SportsTeam> 
+Q.E.D.	Quod erat demonstrandum	<http://pt.wikipedia.org/wiki/Quod_erat_demonstrandum>	
+Mart.	Carl Friedrich Philipp von Martius	<http://pt.wikipedia.org/wiki/Carl_Friedrich_Philipp_von_Martius>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Lindl.	John Lindley	<http://pt.wikipedia.org/wiki/John_Lindley>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Hook.f.	Joseph Dalton Hooker	<http://pt.wikipedia.org/wiki/Joseph_Dalton_Hooker>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Benth.	George Bentham	<http://pt.wikipedia.org/wiki/George_Bentham>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+D.f.c.	D.F.C.	<http://pt.wikipedia.org/wiki/D.F.C.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Kablam!	KaBlam!	<http://pt.wikipedia.org/wiki/KaBlam!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+Bonpl.	Aimé Bonpland	<http://pt.wikipedia.org/wiki/Aimé_Bonpland>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+DC.	Augustin Pyrame de Candolle	<http://pt.wikipedia.org/wiki/Augustin_Pyrame_de_Candolle>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Loefl.	Pehr Löfling	<http://pt.wikipedia.org/wiki/Pehr_Löfling>	
+SmackDown!	WWE SmackDown	<http://pt.wikipedia.org/wiki/WWE_SmackDown>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+A.DC.	Alphonse Pyrame de Candolle	<http://pt.wikipedia.org/wiki/Alphonse_Pyrame_de_Candolle>	
+U.A.	Unidade astronômica	<http://pt.wikipedia.org/wiki/Unidade_astronômica>	
+T.S.O.O.L.	The Soundtrack of Our Lives	<http://pt.wikipedia.org/wiki/The_Soundtrack_of_Our_Lives>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Ala-arriba!	Ala-Arriba	<http://pt.wikipedia.org/wiki/Ala-Arriba>	
+Ala-Arriba!	Ala-Arriba! (filme)	<http://pt.wikipedia.org/wiki/Ala-Arriba!_(filme)>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+Ala-Arriba!	Associação Desportiva Ala-Arriba	<http://pt.wikipedia.org/wiki/Associação_Desportiva_Ala-Arriba>	
+S.m.a.r.t.	S.M.A.R.T.	<http://pt.wikipedia.org/wiki/S.M.A.R.T.>	
+O.S.C.	Cônegos Regulares da Ordem da Santa Cruz	<http://pt.wikipedia.org/wiki/Cônegos_Regulares_da_Ordem_da_Santa_Cruz>	
+A.I.	A.I. - Inteligência Artificial	<http://pt.wikipedia.org/wiki/A.I._-_Inteligência_Artificial>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+R.Br.	Robert Brown	<http://pt.wikipedia.org/wiki/Robert_Brown>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Ridl.	Henry Nicholas Ridley	<http://pt.wikipedia.org/wiki/Henry_Nicholas_Ridley>	
+Mill.	Philip Miller	<http://pt.wikipedia.org/wiki/Philip_Miller>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Cond.	Charles Marie de La Condamine	<http://pt.wikipedia.org/wiki/Charles_Marie_de_La_Condamine>	
+W.C.	Vaso sanitário	<http://pt.wikipedia.org/wiki/Vaso_sanitário>	
+Smackdown!	WWE SmackDown	<http://pt.wikipedia.org/wiki/WWE_SmackDown>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+Harv.	William Henry Harvey	<http://pt.wikipedia.org/wiki/William_Henry_Harvey>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Wall.	Nathaniel Wallich	<http://pt.wikipedia.org/wiki/Nathaniel_Wallich>	
+Juss.	Antoine Laurent de Jussieu	<http://pt.wikipedia.org/wiki/Antoine_Laurent_de_Jussieu>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+P.Beauv.	Ambroise Marie François Joseph Palisot de Beauvois	<http://pt.wikipedia.org/wiki/Ambroise_Marie_François_Joseph_Palisot_de_Beauvois>	
+Baill.	Henri Ernest Baillon	<http://pt.wikipedia.org/wiki/Henri_Ernest_Baillon>	
+Aarons.	Aaron Aaronsohn	<http://pt.wikipedia.org/wiki/Aaron_Aaronsohn>	
+A.B.Jacks.	Albert Bruce Jackson	<http://pt.wikipedia.org/wiki/Albert_Bruce_Jackson>	
+Abrom.	Johannes Abromeit	<http://pt.wikipedia.org/wiki/Johannes_Abromeit>	
+Ach.	Erik Acharius	<http://pt.wikipedia.org/wiki/Erik_Acharius>	
+A.Chev.	Auguste Jean Baptiste Chevalier	<http://pt.wikipedia.org/wiki/Auguste_Jean_Baptiste_Chevalier>	
+Adans.	Michel Adanson	<http://pt.wikipedia.org/wiki/Michel_Adanson>	
+A.Dietr.	Albert Gottfried Dietrich	<http://pt.wikipedia.org/wiki/Albert_Gottfried_Dietrich>	
+Afzel.	Adam Afzelius	<http://pt.wikipedia.org/wiki/Adam_Afzelius>	
+Torr.	John Torrey	<http://pt.wikipedia.org/wiki/John_Torrey>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+A.Gust.	Åke Gustafsson	<http://pt.wikipedia.org/wiki/Åke_Gustafsson>	
+Ait.	William Aiton	<http://pt.wikipedia.org/wiki/William_Aiton>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+A.Juss.	Adrien-Henri de Jussieu	<http://pt.wikipedia.org/wiki/Adrien-Henri_de_Jussieu>	
+Alb.	Johannes Baptista von Albertini	<http://pt.wikipedia.org/wiki/Johannes_Baptista_von_Albertini>	
+All.	Carlo Allioni	<http://pt.wikipedia.org/wiki/Carlo_Allioni>	
+Al.Brongn.	Alexandre Brongniart	<http://pt.wikipedia.org/wiki/Alexandre_Brongniart>	
+Alston.	Arthur Hugh Garfit Alston	<http://pt.wikipedia.org/wiki/Arthur_Hugh_Garfit_Alston>	
+Ant.Juss.	Antoine de Jussieu	<http://pt.wikipedia.org/wiki/Antoine_de_Jussieu>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Ard.	Pietro Arduino	<http://pt.wikipedia.org/wiki/Pietro_Arduino>	
+A.Rich.	Achille Richard	<http://pt.wikipedia.org/wiki/Achille_Richard>	
+Arn.	George Arnott Walker Arnott	<http://pt.wikipedia.org/wiki/George_Arnott_Walker_Arnott>	
+A.Schimp.	Andreas Franz Wilhelm Schimper	<http://pt.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper>	
+A.St.-Hil.	Auguste de Saint-Hilaire	<http://pt.wikipedia.org/wiki/Auguste_de_Saint-Hilaire>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Aubl.	Jean Baptiste Christian Fusée-Aublet	<http://pt.wikipedia.org/wiki/Jean_Baptiste_Christian_Fusée-Aublet>	
+Auriv.	Carl Wilhelm Samuel Aurivillius	<http://pt.wikipedia.org/wiki/Carl_Wilhelm_Samuel_Aurivillius>	
+A.W.Benn.	Alfred William Bennett	<http://pt.wikipedia.org/wiki/Alfred_William_Bennett>	
+A.Wigg.	Heinrich August Ludwig Wiggers	<http://pt.wikipedia.org/wiki/Heinrich_August_Ludwig_Wiggers>	
+O.S.I.	OSI (banda)	<http://pt.wikipedia.org/wiki/OSI_(banda)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Bab.	Charles Cardale Babington	<http://pt.wikipedia.org/wiki/Charles_Cardale_Babington>	
+Bach.Pyl.	Jean-Marie Bachelot de La Pylaie	<http://pt.wikipedia.org/wiki/Jean-Marie_Bachelot_de_La_Pylaie>	
+Balb.	Giovanni Battista Balbis	<http://pt.wikipedia.org/wiki/Giovanni_Battista_Balbis>	
+Balf.	John Hutton Balfour	<http://pt.wikipedia.org/wiki/John_Hutton_Balfour>	
+Bals.-Criv.	Giuseppe Gabriel Balsamo-Crivelli	<http://pt.wikipedia.org/wiki/Giuseppe_Gabriel_Balsamo-Crivelli>	
+Bancr.	Edward Nathaniel Bancroft	<http://pt.wikipedia.org/wiki/Edward_Nathaniel_Bancroft>	
+Bartal.	Biagio Bartalini	<http://pt.wikipedia.org/wiki/Biagio_Bartalini>	
+Bartl.	Friedrich Gottlieb Bartling	<http://pt.wikipedia.org/wiki/Friedrich_Gottlieb_Bartling>	
+Batt.	Jules Aimé Battandier	<http://pt.wikipedia.org/wiki/Jules_Aimé_Battandier>	
+B.D.Jacks.	Benjamin Daydon Jackson	<http://pt.wikipedia.org/wiki/Benjamin_Daydon_Jackson>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Becc.	Odoardo Beccari	<http://pt.wikipedia.org/wiki/Odoardo_Beccari>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Berchst.	Johann Matthäus Bechstein	<http://pt.wikipedia.org/wiki/Johann_Matthäus_Bechstein>	
+Bedd.	Richard Henry Beddome	<http://pt.wikipedia.org/wiki/Richard_Henry_Beddome>	
+Beissn.	Ludwig Beissner	<http://pt.wikipedia.org/wiki/Ludwig_Beissner>	
+Berk.	Miles Joseph Berkeley	<http://pt.wikipedia.org/wiki/Miles_Joseph_Berkeley>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Bertill.	Louis-Adolphe Bertillon	<http://pt.wikipedia.org/wiki/Louis-Adolphe_Bertillon>	
+Bertol.	Antonio Bertoloni	<http://pt.wikipedia.org/wiki/Antonio_Bertoloni>	
+Billb.	Gustav Johann Billberg	<http://pt.wikipedia.org/wiki/Gustav_Johann_Billberg>	
+B.Juss.	Bernard de Jussieu	<http://pt.wikipedia.org/wiki/Bernard_de_Jussieu>	
+Blainv.	Henri Marie Ducrotay de Blainville	<http://pt.wikipedia.org/wiki/Henri_Marie_Ducrotay_de_Blainville>	
+Blatt.	Ethelbert Blatter	<http://pt.wikipedia.org/wiki/Ethelbert_Blatter>	
+B.May.	Bernhard Meyer	<http://pt.wikipedia.org/wiki/Bernhard_Meyer>	
+B.M.Forst.	Benjamin Meggot Forster	<http://pt.wikipedia.org/wiki/Benjamin_Meggot_Forster>	
+Boehm.	Georg Rudolf Boehmer	<http://pt.wikipedia.org/wiki/Georg_Rudolf_Boehmer>	
+Boerh.	Herman Boerhaave	<http://pt.wikipedia.org/wiki/Herman_Boerhaave>	
+Boisd.	Jean-Baptiste Alphonse Dechauffour de Boisduval	<http://pt.wikipedia.org/wiki/Jean-Baptiste_Alphonse_Dechauffour_de_Boisduval>	
+Boiss.	Pierre Edmond Boissier	<http://pt.wikipedia.org/wiki/Pierre_Edmond_Boissier>	
+Bonaf.	Matthieu Bonafous	<http://pt.wikipedia.org/wiki/Matthieu_Bonafous>	
+Bonap.	Roland Napoléon Bonaparte	<http://pt.wikipedia.org/wiki/Roland_Napoléon_Bonaparte>	
+Borkh.	Moritz Balthasar Borkhausen	<http://pt.wikipedia.org/wiki/Moritz_Balthasar_Borkhausen>	
+Boriss.	Antonina Georgievna Borissova	<http://pt.wikipedia.org/wiki/Antonina_Georgievna_Borissova>	
+Bornm.	Joseph Friedrich Nicolaus Bornmüller	<http://pt.wikipedia.org/wiki/Joseph_Friedrich_Nicolaus_Bornmüller>	
+Braun-Blanq.	Josias Braun-Blanquet	<http://pt.wikipedia.org/wiki/Josias_Braun-Blanquet>	
+Bref.	Julius Oscar Brefeld	<http://pt.wikipedia.org/wiki/Julius_Oscar_Brefeld>	
+Briq.	John Isaac Briquet	<http://pt.wikipedia.org/wiki/John_Isaac_Briquet>	
+Brongn.	Adolphe Brongniart	<http://pt.wikipedia.org/wiki/Adolphe_Brongniart>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Brot.	Félix de Avelar Brotero	<http://pt.wikipedia.org/wiki/Félix_de_Avelar_Brotero>	
+Brouss.	Pierre Marie Auguste Broussonet	<http://pt.wikipedia.org/wiki/Pierre_Marie_Auguste_Broussonet>	
+Brug.	Jean Guillaume Bruguière	<http://pt.wikipedia.org/wiki/Jean_Guillaume_Bruguière>	
+R.K.L.	Rich Kids on LSD	<http://pt.wikipedia.org/wiki/Rich_Kids_on_LSD>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Buch.-Ham.	Francis Buchanan-Hamilton	<http://pt.wikipedia.org/wiki/Francis_Buchanan-Hamilton>	
+Bull.	Pierre Bulliard	<http://pt.wikipedia.org/wiki/Pierre_Bulliard>	
+Burm.	Johannes Burman	<http://pt.wikipedia.org/wiki/Johannes_Burman>	
+Burm.f.	Nicolaas Laurens Burman	<http://pt.wikipedia.org/wiki/Nicolaas_Laurens_Burman>	
+A.C.Sm.	Albert Charles Smith	<http://pt.wikipedia.org/wiki/Albert_Charles_Smith>	
+Aitch.	James Edward Tierney Aitchison	<http://pt.wikipedia.org/wiki/James_Edward_Tierney_Aitchison>	
+Asch.	Paul Friedrich August Ascherson	<http://pt.wikipedia.org/wiki/Paul_Friedrich_August_Ascherson>	
+Bal.	Benedict Balansa	<http://pt.wikipedia.org/wiki/Benedict_Balansa>	
+Balf.f.	Isaac Bayley Balfour	<http://pt.wikipedia.org/wiki/Isaac_Bayley_Balfour>	
+Bernh.	Johann Jakob Bernhardi	<http://pt.wikipedia.org/wiki/Johann_Jakob_Bernhardi>	
+C.A.Br.	Clair Alan Brown	<http://pt.wikipedia.org/wiki/Clair_Alan_Brown>	
+C.A.Mey.	Carl Anton Andreevic von Meyer	<http://pt.wikipedia.org/wiki/Carl_Anton_Andreevic_von_Meyer>	
+Casp.	Robert Caspary	<http://pt.wikipedia.org/wiki/Robert_Caspary>	
+Cass.	Alexandre Henri Gabriel de Cassini	<http://pt.wikipedia.org/wiki/Alexandre_Henri_Gabriel_de_Cassini>	
+Cav.	Antonio José Cavanilles	<http://pt.wikipedia.org/wiki/Antonio_José_Cavanilles>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+C.Bab.	Churchill Babington	<http://pt.wikipedia.org/wiki/Churchill_Babington>	
+Cerv.	Vicente Cervantes	<http://pt.wikipedia.org/wiki/Vicente_Cervantes>	
+Ces.	Vincenzo de Cesati	<http://pt.wikipedia.org/wiki/Vincenzo_de_Cesati>	
+C.F.Gartn.	Carl Friedrich von Gärtner	<http://pt.wikipedia.org/wiki/Carl_Friedrich_von_Gärtner>	
+Cham.	Adelbert von Chamisso	<http://pt.wikipedia.org/wiki/Adelbert_von_Chamisso>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Chevall.	François Fulgis Chevallier	<http://pt.wikipedia.org/wiki/François_Fulgis_Chevallier>	
+O.T.O.	Ordo Templi Orientis	<http://pt.wikipedia.org/wiki/Ordo_Templi_Orientis>	
+C.K.Spreng.	Christian Konrad Sprengel	<http://pt.wikipedia.org/wiki/Christian_Konrad_Sprengel>	
+Clairv.	Joseph Philippe de Clairville	<http://pt.wikipedia.org/wiki/Joseph_Philippe_de_Clairville>	
+Clem.	Frederic Edward Clements	<http://pt.wikipedia.org/wiki/Frederic_Edward_Clements>	
+Clus.	Carolus Clusius	<http://pt.wikipedia.org/wiki/Carolus_Clusius>	
+Colebr.	Henry Thomas Colebrooke	<http://pt.wikipedia.org/wiki/Henry_Thomas_Colebrooke>	
+Burn!	Queimada!	<http://pt.wikipedia.org/wiki/Queimada!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Comm.	Philibert Commerson	<http://pt.wikipedia.org/wiki/Philibert_Commerson>	
+Copel.	Edwin Bingham Copeland	<http://pt.wikipedia.org/wiki/Edwin_Bingham_Copeland>	
+Cordem.	Eugène Jacob de Cordemoy	<http://pt.wikipedia.org/wiki/Eugène_Jacob_de_Cordemoy>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Corill.	Robert Corillion	<http://pt.wikipedia.org/wiki/Robert_Corillion>	
+Coss.	Ernest Staint-Charles Cosson	<http://pt.wikipedia.org/wiki/Ernest_Staint-Charles_Cosson>	
+Courtec.	Régis Courtecuisse	<http://pt.wikipedia.org/wiki/Régis_Courtecuisse>	
+Boo!	Discovery Kids	<http://pt.wikipedia.org/wiki/Discovery_Kids>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Broadcaster>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/TelevisionStation>,<http://schema.org/Organization>,<http://schema.org/TelevisionStation> 
+C.Rchb.	Carl Reichenbach	<http://pt.wikipedia.org/wiki/Carl_Reichenbach>	
+Cuatrec.	José Cuatrecasas	<http://pt.wikipedia.org/wiki/José_Cuatrecasas>	
+Welw.	Friedrich Welwitsch	<http://pt.wikipedia.org/wiki/Friedrich_Welwitsch>	
+Vand.	Domenico Vandelli	<http://pt.wikipedia.org/wiki/Domenico_Vandelli>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+P.o.d.	P.O.D.	<http://pt.wikipedia.org/wiki/P.O.D.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+A.a.p.a.c.d.m.	Associação Algarvia de Pais e Amigos de Crianças Diminuídas Mentais	<http://pt.wikipedia.org/wiki/Associação_Algarvia_de_Pais_e_Amigos_de_Crianças_Diminuídas_Mentais>	
+A.b.jacks.	Albert Bruce Jackson	<http://pt.wikipedia.org/wiki/Albert_Bruce_Jackson>	
+A.c.	Anno Domini	<http://pt.wikipedia.org/wiki/Anno_Domini>	
+A.c.sm.	Albert Charles Smith	<http://pt.wikipedia.org/wiki/Albert_Charles_Smith>	
+A.c.t.	A.C.T	<http://pt.wikipedia.org/wiki/A.C.T>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+A.chev.	Auguste Jean Baptiste Chevalier	<http://pt.wikipedia.org/wiki/Auguste_Jean_Baptiste_Chevalier>	
+A.d.	Anno Domini	<http://pt.wikipedia.org/wiki/Anno_Domini>	
+A.e.c.	Anno Domini	<http://pt.wikipedia.org/wiki/Anno_Domini>	
+A.dc.	Alphonse Pyrame de Candolle	<http://pt.wikipedia.org/wiki/Alphonse_Pyrame_de_Candolle>	
+A.dietr.	Albert Gottfried Dietrich	<http://pt.wikipedia.org/wiki/Albert_Gottfried_Dietrich>	
+A.i.	A.I. - Inteligência Artificial	<http://pt.wikipedia.org/wiki/A.I._-_Inteligência_Artificial>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+A.gust.	Åke Gustafsson	<http://pt.wikipedia.org/wiki/Åke_Gustafsson>	
+A.l.i.c.e.	A.L.I.C.E.	<http://pt.wikipedia.org/wiki/A.L.I.C.E.>	
+A.juss.	Adrien-Henri de Jussieu	<http://pt.wikipedia.org/wiki/Adrien-Henri_de_Jussieu>	
+A.rich.	Achille Richard	<http://pt.wikipedia.org/wiki/Achille_Richard>	
+A.schimp.	Andreas Franz Wilhelm Schimper	<http://pt.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper>	
+A.st.-hil.	Auguste de Saint-Hilaire	<http://pt.wikipedia.org/wiki/Auguste_de_Saint-Hilaire>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+A.w.benn.	Alfred William Bennett	<http://pt.wikipedia.org/wiki/Alfred_William_Bennett>	
+A.wigg.	Heinrich August Ludwig Wiggers	<http://pt.wikipedia.org/wiki/Heinrich_August_Ludwig_Wiggers>	
+M.i.r.v.	MIRV	<http://pt.wikipedia.org/wiki/MIRV>	
+M.m.d.c.	M.M.D.C.	<http://pt.wikipedia.org/wiki/M.M.D.C.>	
+N.i.e.m.	Hogwarts School of Witchcraft and Wizardry	<http://pt.wikipedia.org/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry>	
+N.m.e.	NightMare Enterprises (Kirby)	<http://pt.wikipedia.org/wiki/NightMare_Enterprises_(Kirby)>	
+N.o.b.	Estrada de Ferro Noroeste do Brasil	<http://pt.wikipedia.org/wiki/Estrada_de_Ferro_Noroeste_do_Brasil>	
+N.o.m.	Hogwarts School of Witchcraft and Wizardry	<http://pt.wikipedia.org/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry>	
+N.w.o.b.h.m.	New Wave of British Heavy Metal	<http://pt.wikipedia.org/wiki/New_Wave_of_British_Heavy_Metal>	
+Al.brongn.	Alexandre Brongniart	<http://pt.wikipedia.org/wiki/Alexandre_Brongniart>	
+H.b.k.	H.B.K.	<http://pt.wikipedia.org/wiki/H.B.K.>	
+H.e.r.o.	H.E.R.O.	<http://pt.wikipedia.org/wiki/H.E.R.O.>	<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame>,<http://schema.org/CreativeWork> 
+Multtv!	MultTV!	<http://pt.wikipedia.org/wiki/MultTV!>	
+Ant.juss.	Antoine de Jussieu	<http://pt.wikipedia.org/wiki/Antoine_de_Jussieu>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+I.m.a.	I.M.A.	<http://pt.wikipedia.org/wiki/I.M.A.>	
+I.r.a.	Exército Republicano Irlandês	<http://pt.wikipedia.org/wiki/Exército_Republicano_Irlandês>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+W.c.	Vaso sanitário	<http://pt.wikipedia.org/wiki/Vaso_sanitário>	
+W.i.c.	Companhia Holandesa das Índias Ocidentais	<http://pt.wikipedia.org/wiki/Companhia_Holandesa_das_Índias_Ocidentais>	
+W.i.t.c.h.	W.I.T.C.H.	<http://pt.wikipedia.org/wiki/W.I.T.C.H.>	
+Q.e.d.	Quod erat demonstrandum	<http://pt.wikipedia.org/wiki/Quod_erat_demonstrandum>	
+Q.i.	Quociente de inteligência	<http://pt.wikipedia.org/wiki/Quociente_de_inteligência>	
+T.a.t.u.	T.A.T.u.	<http://pt.wikipedia.org/wiki/T.A.T.u.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+T.o.r.	Terceira Ordem Regular de São Francisco	<http://pt.wikipedia.org/wiki/Terceira_Ordem_Regular_de_São_Francisco>	
+T.s.o.o.l.	The Soundtrack of Our Lives	<http://pt.wikipedia.org/wiki/The_Soundtrack_of_Our_Lives>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+J.j.	Zillion	<http://pt.wikipedia.org/wiki/Zillion>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+O.c.	Ordem do Carmo	<http://pt.wikipedia.org/wiki/Ordem_do_Carmo>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+O.c.d.	Ordem dos Carmelitas Descalços	<http://pt.wikipedia.org/wiki/Ordem_dos_Carmelitas_Descalços>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+O.cist.	Ordem de Cister	<http://pt.wikipedia.org/wiki/Ordem_de_Cister>	
+O.p.	Ordem dos Pregadores	<http://pt.wikipedia.org/wiki/Ordem_dos_Pregadores>	
+O.s.c.	Ordem das Clarissas	<http://pt.wikipedia.org/wiki/Ordem_das_Clarissas>	
+O.s.b.	Ordem de São Bento	<http://pt.wikipedia.org/wiki/Ordem_de_São_Bento>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+O.s.i.	OSI (banda)	<http://pt.wikipedia.org/wiki/OSI_(banda)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+O.t.o.	Ordo Templi Orientis	<http://pt.wikipedia.org/wiki/Ordo_Templi_Orientis>	
+B.d.jacks.	Benjamin Daydon Jackson	<http://pt.wikipedia.org/wiki/Benjamin_Daydon_Jackson>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+B.juss.	Bernard de Jussieu	<http://pt.wikipedia.org/wiki/Bernard_de_Jussieu>	
+B.may.	Bernhard Meyer	<http://pt.wikipedia.org/wiki/Bernhard_Meyer>	
+B.m.forst.	Benjamin Meggot Forster	<http://pt.wikipedia.org/wiki/Benjamin_Meggot_Forster>	
+Bach.pyl.	Jean-Marie Bachelot de La Pylaie	<http://pt.wikipedia.org/wiki/Jean-Marie_Bachelot_de_La_Pylaie>	
+Bals.-criv.	Giuseppe Gabriel Balsamo-Crivelli	<http://pt.wikipedia.org/wiki/Giuseppe_Gabriel_Balsamo-Crivelli>	
+Ocist.	Ordem de Cister	<http://pt.wikipedia.org/wiki/Ordem_de_Cister>	
+L.e.g.i.ã.o.	L.E.G.I.Ã.O.	<http://pt.wikipedia.org/wiki/L.E.G.I.Ã.O.>	
+L.h.o.o.q.	L.H.O.O.Q.	<http://pt.wikipedia.org/wiki/L.H.O.O.Q.>	
+L.o.v.e.	L.O.V.E.	<http://pt.wikipedia.org/wiki/L.O.V.E.>	<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Single>,<http://schema.org/CreativeWork> 
+Braun-blanq.	Josias Braun-Blanquet	<http://pt.wikipedia.org/wiki/Josias_Braun-Blanquet>	
+P.beauv.	Ambroise Marie François Joseph Palisot de Beauvois	<http://pt.wikipedia.org/wiki/Ambroise_Marie_François_Joseph_Palisot_de_Beauvois>	
+P.m.p.o.	Potência de áudio	<http://pt.wikipedia.org/wiki/Potência_de_áudio>	
+P.s.i.	Wikipédia	<http://pt.wikipedia.org/wiki/Wikipédia>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Website>,<http://schema.org/CreativeWork>,<http://schema.org/WebPage> 
+Buch.-ham.	Francis Buchanan-Hamilton	<http://pt.wikipedia.org/wiki/Francis_Buchanan-Hamilton>	
+C.a.br.	Clair Alan Brown	<http://pt.wikipedia.org/wiki/Clair_Alan_Brown>	
+C.a.mey.	Carl Anton Andreevic von Meyer	<http://pt.wikipedia.org/wiki/Carl_Anton_Andreevic_von_Meyer>	
+C.bab.	Churchill Babington	<http://pt.wikipedia.org/wiki/Churchill_Babington>	
+C.e.i.	Comunidade dos Estados Independentes	<http://pt.wikipedia.org/wiki/Comunidade_dos_Estados_Independentes>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+C.k.spreng.	Christian Konrad Sprengel	<http://pt.wikipedia.org/wiki/Christian_Konrad_Sprengel>	
+C.f.gartn.	Carl Friedrich von Gärtner	<http://pt.wikipedia.org/wiki/Carl_Friedrich_von_Gärtner>	
+C.o.c.	Corrosion of Conformity	<http://pt.wikipedia.org/wiki/Corrosion_of_Conformity>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+C.m.	Congregação da Missão	<http://pt.wikipedia.org/wiki/Congregação_da_Missão>	
+C.r.s.a.	Ordem dos Cónegos Regrantes de Santo Agostinho	<http://pt.wikipedia.org/wiki/Ordem_dos_Cónegos_Regrantes_de_Santo_Agostinho>	
+C.r.s.j.e.	Congregação dos Cónegos Regulares de São João Evangelista	<http://pt.wikipedia.org/wiki/Congregação_dos_Cónegos_Regulares_de_São_João_Evangelista>	
+C.rchb.	Carl Reichenbach	<http://pt.wikipedia.org/wiki/Carl_Reichenbach>	
+C.s.c.	C.S.C.	<http://pt.wikipedia.org/wiki/C.S.C.>	
+C.v.	Comando Vermelho	<http://pt.wikipedia.org/wiki/Comando_Vermelho>	
+R.a.a.	Açores	<http://pt.wikipedia.org/wiki/Açores>	<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Country>,<http://schema.org/Place> 
+R.a.m.	RAM	<http://pt.wikipedia.org/wiki/RAM>	
+R.br.	Robert Brown	<http://pt.wikipedia.org/wiki/Robert_Brown>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+R.e.m.	Reconhecimento de entidade mencionada	<http://pt.wikipedia.org/wiki/Reconhecimento_de_entidade_mencionada>	
+R.e.m.	REM (sono)	<http://pt.wikipedia.org/wiki/REM_(sono)>	
+R.i.o.	Rock in Opposition	<http://pt.wikipedia.org/wiki/Rock_in_Opposition>	<http://dbpedia.org/ontology/Genre>,<http://dbpedia.org/ontology/MusicGenre>,<http://dbpedia.org/ontology/TopicalConcept> 
+R.k.l.	Rich Kids on LSD	<http://pt.wikipedia.org/wiki/Rich_Kids_on_LSD>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+R.p.c.	República Popular da China	<http://pt.wikipedia.org/wiki/República_Popular_da_China>	<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Country>,<http://schema.org/Place> 
+R.v.	RV	<http://pt.wikipedia.org/wiki/RV>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Redetv!	RedeTV!	<http://pt.wikipedia.org/wiki/RedeTV!>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Broadcaster>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/TelevisionStation>,<http://schema.org/Organization>,<http://schema.org/TelevisionStation> 
+D.c.	Anno Domini	<http://pt.wikipedia.org/wiki/Anno_Domini>	
+D.r.i.	Dirty Rotten Imbeciles	<http://pt.wikipedia.org/wiki/Dirty_Rotten_Imbeciles>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+D.o.a.	D.O.A.	<http://pt.wikipedia.org/wiki/D.O.A.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Dc.	Augustin Pyrame de Candolle	<http://pt.wikipedia.org/wiki/Augustin_Pyrame_de_Candolle>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+S.a.	Sociedade anónima	<http://pt.wikipedia.org/wiki/Sociedade_anónima>	
+S.j.	Companhia de Jesus	<http://pt.wikipedia.org/wiki/Companhia_de_Jesus>	
+S.o.b.	S.O.B.	<http://pt.wikipedia.org/wiki/S.O.B.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+S.o.d.	Stormtroopers of Death	<http://pt.wikipedia.org/wiki/Stormtroopers_of_Death>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+S.t.a.r.s.	S.T.A.R.S.	<http://pt.wikipedia.org/wiki/S.T.A.R.S.>	
+S.w.a.t.	SWAT	<http://pt.wikipedia.org/wiki/SWAT>	
+S.u.s.	Sport União Sintrense	<http://pt.wikipedia.org/wiki/Sport_União_Sintrense>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/SoccerClub>,<http://dbpedia.org/ontology/SportsTeam>,<http://schema.org/Organization>,<http://schema.org/SportsTeam> 
+Ph.d.	Doutoramento	<http://pt.wikipedia.org/wiki/Doutoramento>	
+E.c.	Anno Domini	<http://pt.wikipedia.org/wiki/Anno_Domini>	
+E.t.	Extraterrestre	<http://pt.wikipedia.org/wiki/Extraterrestre>	
+E.r.	ER (série)	<http://pt.wikipedia.org/wiki/ER_(série)>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+X.p.t.o.	X.P.T.O.	<http://pt.wikipedia.org/wiki/X.P.T.O.>	
+U.a.	Unidade astronômica	<http://pt.wikipedia.org/wiki/Unidade_astronômica>	
+U.n.a.m.	Universidade Nacional Autónoma de México	<http://pt.wikipedia.org/wiki/Universidade_Nacional_Autónoma_de_México>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/EducationalInstitution>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/University>,<http://schema.org/CollegeOrUniversity>,<http://schema.org/EducationalOrganization>,<http://schema.org/Organization> 
+U.r.s.s.	União Soviética	<http://pt.wikipedia.org/wiki/União_Soviética>	<http://dbpedia.org/ontology/AdministrativeRegion>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://dbpedia.org/ontology/Region>,<http://schema.org/AdministrativeArea>,<http://schema.org/Place> 
+Uah-bap-lu-bap-lah-béin-bum!	Uah-Bap-Lu-Bap-Lah-Béin-Bum!	<http://pt.wikipedia.org/wiki/Uah-Bap-Lu-Bap-Lah-Béin-Bum!>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+Yeah!yeah!die!die!	Yeah!Yeah!Die!Die!	<http://pt.wikipedia.org/wiki/Yeah!Yeah!Die!Die!>	
+Yu-gi-oh!	Yu-Gi-Oh!	<http://pt.wikipedia.org/wiki/Yu-Gi-Oh!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+O.S.A.	Ordem de Santo Agostinho	<http://pt.wikipedia.org/wiki/Ordem_de_Santo_Agostinho>	
+Hook.	William Jackson Hooker	<http://pt.wikipedia.org/wiki/William_Jackson_Hooker>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Hausskn.	Heinrich Carl Haussknecht	<http://pt.wikipedia.org/wiki/Heinrich_Carl_Haussknecht>	
+A.J.	A.J. (The Fairly OddParents)	<http://pt.wikipedia.org/wiki/A.J._(The_Fairly_OddParents)>	
+M.M.D.C.A.	M.M.D.C.	<http://pt.wikipedia.org/wiki/M.M.D.C.>	
+Salte!	Jump In!	<http://pt.wikipedia.org/wiki/Jump_In!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+A.M.	Eletromagnetismo	<http://pt.wikipedia.org/wiki/Eletromagnetismo>	
+A.M.	Língua amárica	<http://pt.wikipedia.org/wiki/Língua_amárica>	<http://schema.org/Language>,<http://dbpedia.org/ontology/Language> 
+A.M.	Rádio AM	<http://pt.wikipedia.org/wiki/Rádio_AM>	
+A.M.	Modulação em amplitude	<http://pt.wikipedia.org/wiki/Modulação_em_amplitude>	
+A.M.	Amerício	<http://pt.wikipedia.org/wiki/Amerício>	
+A.M.	Arménia	<http://pt.wikipedia.org/wiki/Arménia>	<http://schema.org/Country>,<http://schema.org/Place>,<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace> 
+A.M.	Amazonas	<http://pt.wikipedia.org/wiki/Amazonas>	<http://schema.org/AdministrativeArea>,<http://schema.org/Place>,<http://dbpedia.org/ontology/AdministrativeRegion>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://dbpedia.org/ontology/Region> 
+A.M.	Ante meridiem	<http://pt.wikipedia.org/wiki/Ante_meridiem>	
+A.M.	Atómetro	<http://pt.wikipedia.org/wiki/Atómetro>	
+P.M.	Post meridiem	<http://pt.wikipedia.org/wiki/Post_meridiem>	
+A.Dicks.	Alexander Dickson	<http://pt.wikipedia.org/wiki/Alexander_Dickson>	
+D.S.Jord.	David Starr Jordan	<http://pt.wikipedia.org/wiki/David_Starr_Jordan>	
+Dujard.	Félix Dujardin	<http://pt.wikipedia.org/wiki/Félix_Dujardin>	
+Dum.Cours.	Georges Louis Marie Dumont de Courset	<http://pt.wikipedia.org/wiki/Georges_Louis_Marie_Dumont_de_Courset>	
+Dumort.	Barthélemy Charles Joseph Dumortier	<http://pt.wikipedia.org/wiki/Barthélemy_Charles_Joseph_Dumortier>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+D'Urv.	Jules Dumont d'Urville	<http://pt.wikipedia.org/wiki/Jules_Dumont_d'Urville>	
+Eckl.	Christian Friedrich Ecklon	<http://pt.wikipedia.org/wiki/Christian_Friedrich_Ecklon>	
+E.Fisch.	Eduard Fischer	<http://pt.wikipedia.org/wiki/Eduard_Fischer>	
+E.Forst.	Edward Forster	<http://pt.wikipedia.org/wiki/Edward_Forster>	
+E.G.H.Oliv.	Edward George Hudson Oliver	<http://pt.wikipedia.org/wiki/Edward_George_Hudson_Oliver>	
+Ehrenb.	Christian Gottfried Ehrenberg	<http://pt.wikipedia.org/wiki/Christian_Gottfried_Ehrenberg>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+E.Holmb.	Eduardo Ladislao Holmberg	<http://pt.wikipedia.org/wiki/Eduardo_Ladislao_Holmberg>	
+Eichw.	Karl Eduard von Eichwald	<http://pt.wikipedia.org/wiki/Karl_Eduard_von_Eichwald>	
+E.Mey.	Ernst Heinrich Friedrich Meyer	<http://pt.wikipedia.org/wiki/Ernst_Heinrich_Friedrich_Meyer>	
+B.A.R.	Bar	<http://pt.wikipedia.org/wiki/Bar>	
+Endl.	Stephan Ladislaus Endlicher	<http://pt.wikipedia.org/wiki/Stephan_Ladislaus_Endlicher>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Engelm.	George Engelmann	<http://pt.wikipedia.org/wiki/George_Engelmann>	
+Engl.	Adolf Engler	<http://pt.wikipedia.org/wiki/Adolf_Engler>	
+E.Salisb.	Edward James Salisbury	<http://pt.wikipedia.org/wiki/Edward_James_Salisbury>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Eschsch.	Johann Friedrich von Eschscholtz	<http://pt.wikipedia.org/wiki/Johann_Friedrich_von_Eschscholtz>	
+Ettingsh.	Constantin von Ettingshausen	<http://pt.wikipedia.org/wiki/Constantin_von_Ettingshausen>	
+Eversm.	Eduard Friedrich von Eversmann	<http://pt.wikipedia.org/wiki/Eduard_Friedrich_von_Eversmann>	
+Falc.	Hugh Falconer	<http://pt.wikipedia.org/wiki/Hugh_Falconer>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+F.Allam.	Frédéric-Louis Allamand	<http://pt.wikipedia.org/wiki/Frédéric-Louis_Allamand>	
+Farl.	William Gilson Farlow	<http://pt.wikipedia.org/wiki/William_Gilson_Farlow>	
+F.D.Lamb.	Fred Dayton Lambert	<http://pt.wikipedia.org/wiki/Fred_Dayton_Lambert>	
+F.Hern.	Francisco Hernández	<http://pt.wikipedia.org/wiki/Francisco_Hernández>	
+F.H.Wigg.	Friedrich Heinrich Wiggers	<http://pt.wikipedia.org/wiki/Friedrich_Heinrich_Wiggers>	
+Fisch.	Friedrich Ernst Ludwig von Fischer	<http://pt.wikipedia.org/wiki/Friedrich_Ernst_Ludwig_von_Fischer>	
+F.J.Müll.	Fritz Müller	<http://pt.wikipedia.org/wiki/Fritz_Müller>	
+F.Lestib.	François-Joseph Lestiboudois	<http://pt.wikipedia.org/wiki/François-Joseph_Lestiboudois>	
+F.Michx.	François André Michaux	<http://pt.wikipedia.org/wiki/François_André_Michaux>	
+F.Muell.	Ferdinand von Mueller	<http://pt.wikipedia.org/wiki/Ferdinand_von_Mueller>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Fouill.	Amédée Fouillade	<http://pt.wikipedia.org/wiki/Amédée_Fouillade>	
+Fr.	Elias Magnus Fries	<http://pt.wikipedia.org/wiki/Elias_Magnus_Fries>	
+Franch.	Adrien René Franchet	<http://pt.wikipedia.org/wiki/Adrien_René_Franchet>	
+Frauenf.	Georg von Frauenfeld	<http://pt.wikipedia.org/wiki/Georg_von_Frauenfeld>	
+Frém.	John Charles Frémont	<http://pt.wikipedia.org/wiki/John_Charles_Frémont>	
+Fréz.	Amédée François Frézier	<http://pt.wikipedia.org/wiki/Amédée_François_Frézier>	
+Friv.	Imre Frivaldszky	<http://pt.wikipedia.org/wiki/Imre_Frivaldszky>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Gaertn.	Joseph Gärtner	<http://pt.wikipedia.org/wiki/Joseph_Gärtner>	
+Gagnep.	François Gagnepain	<http://pt.wikipedia.org/wiki/François_Gagnepain>	
+Gaudich.	Charles Gaudichaud-Beaupré	<http://pt.wikipedia.org/wiki/Charles_Gaudichaud-Beaupré>	
+G.Benn.	George Bennett	<http://pt.wikipedia.org/wiki/George_Bennett>	
+G.C.Wall.	George Charles Wallich	<http://pt.wikipedia.org/wiki/George_Charles_Wallich>	
+G.Don.	George Don	<http://pt.wikipedia.org/wiki/George_Don>	
+Geh.	Adalbert Geheeb	<http://pt.wikipedia.org/wiki/Adalbert_Geheeb>	
+G.E.Sm.	Gerard Edwards Smith	<http://pt.wikipedia.org/wiki/Gerard_Edwards_Smith>	
+Schweinf.	Georg August Schweinfurth	<http://pt.wikipedia.org/wiki/Georg_August_Schweinfurth>	
+Geyl.	Hermann Theodor Geyler	<http://pt.wikipedia.org/wiki/Hermann_Theodor_Geyler>	
+G.F.Atk.	George Francis Atkinson	<http://pt.wikipedia.org/wiki/George_Francis_Atkinson>	
+G.Forst.	Georg Forster	<http://pt.wikipedia.org/wiki/Georg_Forster>	
+Gilib.	Benjamin Davis Gilbert	<http://pt.wikipedia.org/wiki/Benjamin_Davis_Gilbert>	
+Gir.-Chantr.	Justin Girod-Chantrans	<http://pt.wikipedia.org/wiki/Justin_Girod-Chantrans>	
+Gled.	Johann Gottlieb Gleditsch	<http://pt.wikipedia.org/wiki/Johann_Gottlieb_Gleditsch>	
+Jan.	Janeiro	<http://pt.wikipedia.org/wiki/Janeiro>	
+Schw.	Georg August Schweinfurth	<http://pt.wikipedia.org/wiki/Georg_August_Schweinfurth>	
+G.Lodd.	George Loddiges	<http://pt.wikipedia.org/wiki/George_Loddiges>	
+G.Mey.	Georg Friedrich Wilhelm Meyer	<http://pt.wikipedia.org/wiki/Georg_Friedrich_Wilhelm_Meyer>	
+Godm.	Frederick du Cane Godman	<http://pt.wikipedia.org/wiki/Frederick_du_Cane_Godman>	
+Göpp.	Heinrich Göppert	<http://pt.wikipedia.org/wiki/Heinrich_Göppert>	
+Grandid.	Alfred Grandidier	<http://pt.wikipedia.org/wiki/Alfred_Grandidier>	
+Gratel.	Jean Pierre Grateloup	<http://pt.wikipedia.org/wiki/Jean_Pierre_Grateloup>	
+Griseb.	August Heinrich Rudolf Grisebach	<http://pt.wikipedia.org/wiki/August_Heinrich_Rudolf_Grisebach>	
+Gronov.	Johan Frederik Gronovius	<http://pt.wikipedia.org/wiki/Johan_Frederik_Gronovius>	
+G.Trevir.	Gottfried Reinhold Treviranus	<http://pt.wikipedia.org/wiki/Gottfried_Reinhold_Treviranus>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Guett.	Jean-Étienne Guettard	<http://pt.wikipedia.org/wiki/Jean-Étienne_Guettard>	
+Gueldenst.	Johann Anton Güldenstädt	<http://pt.wikipedia.org/wiki/Johann_Anton_Güldenstädt>	
+Guill.	Jean Baptiste Antoine Guillemin	<http://pt.wikipedia.org/wiki/Jean_Baptiste_Antoine_Guillemin>	
+.spout.	.sPout.	<http://pt.wikipedia.org/wiki/.sPout.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+1a.c.	1 a.C.	<http://pt.wikipedia.org/wiki/1_a.C.>	
+A.dicks.	Alexander Dickson	<http://pt.wikipedia.org/wiki/Alexander_Dickson>	
+T.A.t.U.	T.A.T.u.	<http://pt.wikipedia.org/wiki/T.A.T.u.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+3dnow!	3DNow!	<http://pt.wikipedia.org/wiki/3DNow!>	
+H.Wendl.	Hermann Wendland	<http://pt.wikipedia.org/wiki/Hermann_Wendland>	
+A.j.	A.J. (The Fairly OddParents)	<http://pt.wikipedia.org/wiki/A.J._(The_Fairly_OddParents)>	
+A.m.	Eletromagnetismo	<http://pt.wikipedia.org/wiki/Eletromagnetismo>	
+A.m.	Língua amárica	<http://pt.wikipedia.org/wiki/Língua_amárica>	<http://schema.org/Language>,<http://dbpedia.org/ontology/Language> 
+A.m.	Rádio AM	<http://pt.wikipedia.org/wiki/Rádio_AM>	
+A.m.	Modulação em amplitude	<http://pt.wikipedia.org/wiki/Modulação_em_amplitude>	
+A.m.	Amerício	<http://pt.wikipedia.org/wiki/Amerício>	
+A.m.	Arménia	<http://pt.wikipedia.org/wiki/Arménia>	<http://schema.org/Country>,<http://schema.org/Place>,<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace> 
+A.m.	Amazonas	<http://pt.wikipedia.org/wiki/Amazonas>	<http://schema.org/AdministrativeArea>,<http://schema.org/Place>,<http://dbpedia.org/ontology/AdministrativeRegion>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://dbpedia.org/ontology/Region> 
+A.m.	Ante meridiem	<http://pt.wikipedia.org/wiki/Ante_meridiem>	
+A.m.	Atómetro	<http://pt.wikipedia.org/wiki/Atómetro>	
+Hacq.	Belsazar Hacquet	<http://pt.wikipedia.org/wiki/Belsazar_Hacquet>	
+Triplo-aquecedor.	Triplo aquecedor	<http://pt.wikipedia.org/wiki/Triplo_aquecedor>	
+S.D.B.	Salesianos	<http://pt.wikipedia.org/wiki/Salesianos>	
+C.SS.R.	Congregação do Santíssimo Redentor	<http://pt.wikipedia.org/wiki/Congregação_do_Santíssimo_Redentor>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Parlamentarista.	Parlamentarismo	<http://pt.wikipedia.org/wiki/Parlamentarismo>	
+Hon.	O Honorável	<http://pt.wikipedia.org/wiki/O_Honorável>	
+A.M.A.Z.O.	Amazo	<http://pt.wikipedia.org/wiki/Amazo>	
+T.M.A.	Mancha Azul (Avaí)	<http://pt.wikipedia.org/wiki/Mancha_Azul_(Avaí)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/SambaSchool>,<http://schema.org/Organization> 
+Vent.	Étienne Pierre Ventenat	<http://pt.wikipedia.org/wiki/Étienne_Pierre_Ventenat>	
+G.B.H.	Charged GBH	<http://pt.wikipedia.org/wiki/Charged_GBH>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+S.C.I.	Congregação dos Sacerdotes do Sagrado Coração de Jesus	<http://pt.wikipedia.org/wiki/Congregação_dos_Sacerdotes_do_Sagrado_Coração_de_Jesus>	
+Esquivel!	Juan García Esquivel	<http://pt.wikipedia.org/wiki/Juan_García_Esquivel>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+C.Ss.R.	Congregação do Santíssimo Redentor	<http://pt.wikipedia.org/wiki/Congregação_do_Santíssimo_Redentor>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+W.p.w.	Síndrome de Wolff-Parkinson-White	<http://pt.wikipedia.org/wiki/Síndrome_de_Wolff-Parkinson-White>	<http://dbpedia.org/ontology/Disease> 
+Isab.	Arsène Isabelle	<http://pt.wikipedia.org/wiki/Arsène_Isabelle>	
+Jacq.	Nikolaus Joseph von Jacquin	<http://pt.wikipedia.org/wiki/Nikolaus_Joseph_von_Jacquin>	
+Jacquem.	Venceslas Victor Jacquemont	<http://pt.wikipedia.org/wiki/Venceslas_Victor_Jacquemont>	
+Jaub.	Hippolyte François Jaubert	<http://pt.wikipedia.org/wiki/Hippolyte_François_Jaubert>	
+J.C.Buxb.	Johann Christian Buxbaum	<http://pt.wikipedia.org/wiki/Johann_Christian_Buxbaum>	
+J.Dyb.	Jean Dybowski	<http://pt.wikipedia.org/wiki/Jean_Dybowski>	
+J.F.Gmel.	Johann Friedrich Gmelin	<http://pt.wikipedia.org/wiki/Johann_Friedrich_Gmelin>	
+J.Fabr.	Johan Christian Fabricius	<http://pt.wikipedia.org/wiki/Johan_Christian_Fabricius>	
+J.F.Mill.	John Frederick Miller	<http://pt.wikipedia.org/wiki/John_Frederick_Miller>	
+J.G.Br.	James Greenlief Brown	<http://pt.wikipedia.org/wiki/James_Greenlief_Brown>	
+J.G.Gmel.	Johann Georg Gmelin	<http://pt.wikipedia.org/wiki/Johann_Georg_Gmelin>	
+J.Juss.	Joseph de Jussieu	<http://pt.wikipedia.org/wiki/Joseph_de_Jussieu>	
+J.Kern.	Johann Simon von Kerner	<http://pt.wikipedia.org/wiki/Johann_Simon_von_Kerner>	
+J.Lestib.	Jean-Baptiste Lestiboudois	<http://pt.wikipedia.org/wiki/Jean-Baptiste_Lestiboudois>	
+J.M.Coult.	John Merle Coulter	<http://pt.wikipedia.org/wiki/John_Merle_Coulter>	
+J.M.C.Rich.	Jean Michel Claude Richard	<http://pt.wikipedia.org/wiki/Jean_Michel_Claude_Richard>	
+T.N.T.	TNT (banda de heavy metal)	<http://pt.wikipedia.org/wiki/TNT_(banda_de_heavy_metal)>	
+T.N.T.	TNT (tecido)	<http://pt.wikipedia.org/wiki/TNT_(tecido)>	
+T.N.T.	Trinitrotolueno	<http://pt.wikipedia.org/wiki/Trinitrotolueno>	<http://dbpedia.org/ontology/ChemicalCompound>,<http://dbpedia.org/ontology/ChemicalSubstance> 
+T.N.T.	TNT N.V.	<http://pt.wikipedia.org/wiki/TNT_N.V.>	<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation> 
+T.N.T.	Turner Network Television	<http://pt.wikipedia.org/wiki/Turner_Network_Television>	<http://schema.org/Organization>,<http://schema.org/TelevisionStation>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Broadcaster>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/TelevisionStation> 
+T.N.T.	TNT (álbum de Tortoise)	<http://pt.wikipedia.org/wiki/TNT_(álbum_de_Tortoise)>	
+T.N.T.	TNT (série)	<http://pt.wikipedia.org/wiki/TNT_(série)>	
+T.N.T.	TNT (banda do Brasil)	<http://pt.wikipedia.org/wiki/TNT_(banda_do_Brasil)>	<http://schema.org/MusicGroup>,<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation> 
+T.N.T.	TNT Energy Drink	<http://pt.wikipedia.org/wiki/TNT_Energy_Drink>	
+Jolycl.	Nicolas Marie Thérèse Jolyclerc	<http://pt.wikipedia.org/wiki/Nicolas_Marie_Thérèse_Jolyclerc>	
+Jord.	Alexis Jordan	<http://pt.wikipedia.org/wiki/Alexis_Jordan>	
+J.Rev.	Julien Reverchon	<http://pt.wikipedia.org/wiki/Julien_Reverchon>	
+J.R.Forst.	Johann Reinhold Forster	<http://pt.wikipedia.org/wiki/Johann_Reinhold_Forster>	
+J.St.-Hil.	Jean Henri Jaume Saint-Hilaire	<http://pt.wikipedia.org/wiki/Jean_Henri_Jaume_Saint-Hilaire>	
+Jungh.	Franz Wilhelm Junghuhn	<http://pt.wikipedia.org/wiki/Franz_Wilhelm_Junghuhn>	
+J.V.Lamour.	Jean Vincent Félix Lamouroux	<http://pt.wikipedia.org/wiki/Jean_Vincent_Félix_Lamouroux>	
+Kaempf.	Engelbert Kaempfer	<http://pt.wikipedia.org/wiki/Engelbert_Kaempfer>	
+Kawam.	Seiichi Kawamura	<http://pt.wikipedia.org/wiki/Seiichi_Kawamura>	
+Keyserl.	Alexander von Keyserling	<http://pt.wikipedia.org/wiki/Alexander_von_Keyserling>	
+K.F.Schimp.	Karl Friedrich Schimper	<http://pt.wikipedia.org/wiki/Karl_Friedrich_Schimper>	
+Kirschl.	Frédéric Kirschleger	<http://pt.wikipedia.org/wiki/Frédéric_Kirschleger>	
+Kit.	Pál Kitaibel	<http://pt.wikipedia.org/wiki/Pál_Kitaibel>	
+Koell.	Albert von Kölliker	<http://pt.wikipedia.org/wiki/Albert_von_Kölliker>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Krombh.	Julius Vincenz von Krombholz	<http://pt.wikipedia.org/wiki/Julius_Vincenz_von_Krombholz>	
+Krysht.	Afrikan Nikolaevich Krishtofovich	<http://pt.wikipedia.org/wiki/Afrikan_Nikolaevich_Krishtofovich>	
+Labill.	Jacques-Julien Houtou de La Billardière	<http://pt.wikipedia.org/wiki/Jacques-Julien_Houtou_de_La_Billardière>	
+Laest.	Lars Levi Læstadius	<http://pt.wikipedia.org/wiki/Lars_Levi_Læstadius>	
+Lag.	Mariano Lagasca y Segura	<http://pt.wikipedia.org/wiki/Mariano_Lagasca_y_Segura>	
+Lam.	Jean-Baptiste de Lamarck	<http://pt.wikipedia.org/wiki/Jean-Baptiste_de_Lamarck>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Lamb.	Aylmer Bourke Lambert	<http://pt.wikipedia.org/wiki/Aylmer_Bourke_Lambert>	
+Langst.	Friedrich Ludwig Langstedt	<http://pt.wikipedia.org/wiki/Friedrich_Ludwig_Langstedt>	
+Lapeyr.	Philippe-Isidore Picot de Lapeyrouse	<http://pt.wikipedia.org/wiki/Philippe-Isidore_Picot_de_Lapeyrouse>	
+Latap.	François-de-Paule Latapie	<http://pt.wikipedia.org/wiki/François-de-Paule_Latapie>	
+Ledeb.	Karl Friedrich von Ledebour	<http://pt.wikipedia.org/wiki/Karl_Friedrich_von_Ledebour>	
+Lehm.	Johann Georg Christian Lehmann	<http://pt.wikipedia.org/wiki/Johann_Georg_Christian_Lehmann>	
+Lem.	Charles Lemaire	<http://pt.wikipedia.org/wiki/Charles_Lemaire>	
+Lepech.	Ivan Lepekhin	<http://pt.wikipedia.org/wiki/Ivan_Lepekhin>	
+Lesch.	Jean Baptiste Leschenault de la Tour	<http://pt.wikipedia.org/wiki/Jean_Baptiste_Leschenault_de_la_Tour>	
+Leuck.	Rudolf Leuckart	<http://pt.wikipedia.org/wiki/Rudolf_Leuckart>	
+L.f.	Carl von Linné (filho)	<http://pt.wikipedia.org/wiki/Carl_von_Linné_(filho)>	
+L'Hér.	Charles Louis L'Héritier de Brutelle	<http://pt.wikipedia.org/wiki/Charles_Louis_L'Héritier_de_Brutelle>	
+L'Herm.	Ferdinand Joseph L'Herminier	<http://pt.wikipedia.org/wiki/Ferdinand_Joseph_L'Herminier>	
+Licht.	Martin Lichtenstein	<http://pt.wikipedia.org/wiki/Martin_Lichtenstein>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Liebl.	Franz Kaspar Lieblein	<http://pt.wikipedia.org/wiki/Franz_Kaspar_Lieblein>	
+Liebm.	Frederik Michael Liebmann	<http://pt.wikipedia.org/wiki/Frederik_Michael_Liebmann>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Lightf.	John Lightfoot	<http://pt.wikipedia.org/wiki/John_Lightfoot>	
+Lodd.	Conrad Loddiges	<http://pt.wikipedia.org/wiki/Conrad_Loddiges>	
+Loisel.	Jean Loiseleur-Deslongchamps	<http://pt.wikipedia.org/wiki/Jean_Loiseleur-Deslongchamps>	
+L.Thienem.	Ludwig Thienemann	<http://pt.wikipedia.org/wiki/Ludwig_Thienemann>	
+L.Vaill.	Léon Vaillant	<http://pt.wikipedia.org/wiki/Léon_Vaillant>	
+O.F.Müll.	Otto Friedrich Müller	<http://pt.wikipedia.org/wiki/Otto_Friedrich_Müller>	
+Oliv.	Daniel Oliver	<http://pt.wikipedia.org/wiki/Daniel_Oliver>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Orb.	Alcide Dessalines d'Orbigny	<http://pt.wikipedia.org/wiki/Alcide_Dessalines_d'Orbigny>	
+Macfad.	James Macfadyen	<http://pt.wikipedia.org/wiki/James_Macfadyen>	
+Macfarl.	John Muirhead Macfarlane	<http://pt.wikipedia.org/wiki/John_Muirhead_Macfarlane>	
+Malinv.	Louis Jules Ernest Malinvaud	<http://pt.wikipedia.org/wiki/Louis_Jules_Ernest_Malinvaud>	
+Mast.	Maxwell Tylden Masters	<http://pt.wikipedia.org/wiki/Maxwell_Tylden_Masters>	
+Maxim.	Carl Maximowicz	<http://pt.wikipedia.org/wiki/Carl_Maximowicz>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+M.Bieb.	Friedrich August Marschall von Bieberstein	<http://pt.wikipedia.org/wiki/Friedrich_August_Marschall_von_Bieberstein>	
+Medik.	Friedrich Kasimir Medikus	<http://pt.wikipedia.org/wiki/Friedrich_Kasimir_Medikus>	
+Meisn.	Carl Meissner	<http://pt.wikipedia.org/wiki/Carl_Meissner>	
+Menz.	Archibald Menzies	<http://pt.wikipedia.org/wiki/Archibald_Menzies>	
+Mereschk.	Konstantin Sergejewitsch Mereschkowski	<http://pt.wikipedia.org/wiki/Konstantin_Sergejewitsch_Mereschkowski>	
+Merr.	Elmer Drew Merrill	<http://pt.wikipedia.org/wiki/Elmer_Drew_Merrill>	
+Mert.	Franz Carl Mertens	<http://pt.wikipedia.org/wiki/Franz_Carl_Mertens>	
+Middend.	Alexander von Middendorff	<http://pt.wikipedia.org/wiki/Alexander_von_Middendorff>	
+Millsp.	Charles Frederick Millspaugh	<http://pt.wikipedia.org/wiki/Charles_Frederick_Millspaugh>	
+Miq.	Friedrich Anton Wilhelm Miquel	<http://pt.wikipedia.org/wiki/Friedrich_Anton_Wilhelm_Miquel>	
+Mirb.	Charles-François Brisseau de Mirbel	<http://pt.wikipedia.org/wiki/Charles-François_Brisseau_de_Mirbel>	
+Mitch.	John Mitchell	<http://pt.wikipedia.org/wiki/John_Mitchell>	
+Moc.	José Mariano Mociño	<http://pt.wikipedia.org/wiki/José_Mariano_Mociño>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Moq.	Horace Bénédict Alfred Moquin-Tandon	<http://pt.wikipedia.org/wiki/Horace_Bénédict_Alfred_Moquin-Tandon>	
+Mont.	Camille Montagne	<http://pt.wikipedia.org/wiki/Camille_Montagne>	
+Müll.Arg.	Johannes Müller Argoviensis	<http://pt.wikipedia.org/wiki/Johannes_Müller_Argoviensis>	
+Müll.Stuttg.	Karl Müller (naturalista)	<http://pt.wikipedia.org/wiki/Karl_Müller_(naturalista)>	
+Müll.-Thurg.	Hermann Müller Thurgau	<http://pt.wikipedia.org/wiki/Hermann_Müller_Thurgau>	
+Muhl.	Henry Ernest Muhlenberg	<http://pt.wikipedia.org/wiki/Henry_Ernest_Muhlenberg>	
+Muss.Puschk.	Apollo Mussin-Pushkin	<http://pt.wikipedia.org/wiki/Apollo_Mussin-Pushkin>	
+N.E.Br.	Nicholas Edward Brown	<http://pt.wikipedia.org/wiki/Nicholas_Edward_Brown>	
+Neck.	Noël Martin Joseph de Necker	<http://pt.wikipedia.org/wiki/Noël_Martin_Joseph_de_Necker>	
+Nois.	Louis Claude Noisette	<http://pt.wikipedia.org/wiki/Louis_Claude_Noisette>	
+Nordm.	Alexander von Nordmann	<http://pt.wikipedia.org/wiki/Alexander_von_Nordmann>	
+N.T.Sauss.	Nicolas Théodore de Saussure	<http://pt.wikipedia.org/wiki/Nicolas_Théodore_de_Saussure>	
+Nutt.	Thomas Nuttall	<http://pt.wikipedia.org/wiki/Thomas_Nuttall>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Nyl.	Wilhelm Nylander	<http://pt.wikipedia.org/wiki/Wilhelm_Nylander>	
+P.A.Dang.	Pierre Augustin Dangeard	<http://pt.wikipedia.org/wiki/Pierre_Augustin_Dangeard>	
+A.k.	AK-47	<http://pt.wikipedia.org/wiki/AK-47>	<http://schema.org/Product>,<http://dbpedia.org/ontology/Device>,<http://dbpedia.org/ontology/Weapon> 
+A.k.	Armia Krajowa	<http://pt.wikipedia.org/wiki/Armia_Krajowa>	
+F.allam.	Frédéric-Louis Allamand	<http://pt.wikipedia.org/wiki/Frédéric-Louis_Allamand>	
+F.e.a.r.	F.E.A.R.	<http://pt.wikipedia.org/wiki/F.E.A.R.>	<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame>,<http://schema.org/CreativeWork> 
+F.d.lamb.	Fred Dayton Lambert	<http://pt.wikipedia.org/wiki/Fred_Dayton_Lambert>	
+F.h.wigg.	Friedrich Heinrich Wiggers	<http://pt.wikipedia.org/wiki/Friedrich_Heinrich_Wiggers>	
+F.hern.	Francisco Hernández	<http://pt.wikipedia.org/wiki/Francisco_Hernández>	
+F.lestib.	François-Joseph Lestiboudois	<http://pt.wikipedia.org/wiki/François-Joseph_Lestiboudois>	
+F.j.müll.	Fritz Müller	<http://pt.wikipedia.org/wiki/Fritz_Müller>	
+F.michx.	François André Michaux	<http://pt.wikipedia.org/wiki/François_André_Michaux>	
+F.muell.	Ferdinand von Mueller	<http://pt.wikipedia.org/wiki/Ferdinand_von_Mueller>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+F.r.c.	Frater Rosae Crucis	<http://pt.wikipedia.org/wiki/Frater_Rosae_Crucis>	
+F.u.b.a.r.	F.U.B.A.R.	<http://pt.wikipedia.org/wiki/F.U.B.A.R.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+G.b.h.	Charged GBH	<http://pt.wikipedia.org/wiki/Charged_GBH>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+G.benn.	George Bennett	<http://pt.wikipedia.org/wiki/George_Bennett>	
+G.c.wall.	George Charles Wallich	<http://pt.wikipedia.org/wiki/George_Charles_Wallich>	
+G.don.	George Don	<http://pt.wikipedia.org/wiki/George_Don>	
+G.e.sm.	Gerard Edwards Smith	<http://pt.wikipedia.org/wiki/Gerard_Edwards_Smith>	
+G.f.atk.	George Francis Atkinson	<http://pt.wikipedia.org/wiki/George_Francis_Atkinson>	
+G.forst.	Georg Forster	<http://pt.wikipedia.org/wiki/Georg_Forster>	
+G.mey.	Georg Friedrich Wilhelm Meyer	<http://pt.wikipedia.org/wiki/Georg_Friedrich_Wilhelm_Meyer>	
+G.lodd.	George Loddiges	<http://pt.wikipedia.org/wiki/George_Loddiges>	
+G.n.r.	Guns N' Roses	<http://pt.wikipedia.org/wiki/Guns_N'_Roses>	<http://schema.org/MusicGroup>,<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation> 
+G.n.r.	GNR (banda)	<http://pt.wikipedia.org/wiki/GNR_(banda)>	<http://schema.org/MusicGroup>,<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation> 
+G.n.r.	Guarda Nacional Republicana	<http://pt.wikipedia.org/wiki/Guarda_Nacional_Republicana>	<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation> 
+G.trevir.	Gottfried Reinhold Treviranus	<http://pt.wikipedia.org/wiki/Gottfried_Reinhold_Treviranus>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Gir.-chantr.	Justin Girod-Chantrans	<http://pt.wikipedia.org/wiki/Justin_Girod-Chantrans>	
+R.O.D.	Read Or Die	<http://pt.wikipedia.org/wiki/Read_Or_Die>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+S.E.I.	Sistema Estrutural Integrado	<http://pt.wikipedia.org/wiki/Sistema_Estrutural_Integrado>	
+Panz.	Georg Wolfgang Franz Panzer	<http://pt.wikipedia.org/wiki/Georg_Wolfgang_Franz_Panzer>	
+Parl.	Filippo Parlatore	<http://pt.wikipedia.org/wiki/Filippo_Parlatore>	
+Parm.	Antoine Parmentier	<http://pt.wikipedia.org/wiki/Antoine_Parmentier>	
+F.u.r.t.o.	Furto (banda)	<http://pt.wikipedia.org/wiki/Furto_(banda)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Pass.	Giovanni Passerini	<http://pt.wikipedia.org/wiki/Giovanni_Passerini>	
+Pat.	Narcisse Théophile Patouillard	<http://pt.wikipedia.org/wiki/Narcisse_Théophile_Patouillard>	
+Pavar.	Giovanni Luigi Pavarino	<http://pt.wikipedia.org/wiki/Giovanni_Luigi_Pavarino>	
+Pers.	Christiaan Hendrik Persoon	<http://pt.wikipedia.org/wiki/Christiaan_Hendrik_Persoon>	
+Pfeff.	Wilhelm Pfeffer	<http://pt.wikipedia.org/wiki/Wilhelm_Pfeffer>	
+Pfeiff.	Ludwig Karl Georg Pfeiffer	<http://pt.wikipedia.org/wiki/Ludwig_Karl_Georg_Pfeiffer>	
+P.Fourn.	Paul Victor Fournier	<http://pt.wikipedia.org/wiki/Paul_Victor_Fournier>	
+Phil.	Rodolfo Amando Philippi	<http://pt.wikipedia.org/wiki/Rodolfo_Amando_Philippi>	
+Picq.	Charles Armand Picquenard	<http://pt.wikipedia.org/wiki/Charles_Armand_Picquenard>	
+Pic.Serm.	Rodolfo Emilio Giuseppe Pichi-Sermolli	<http://pt.wikipedia.org/wiki/Rodolfo_Emilio_Giuseppe_Pichi-Sermolli>	
+P.J.L.Dang.	Pierre Jean Louis Dangeard	<http://pt.wikipedia.org/wiki/Pierre_Jean_Louis_Dangeard>	
+P.Karst.	Petter Adolf Karsten	<http://pt.wikipedia.org/wiki/Petter_Adolf_Karsten>	
+Planch.	Jules Émile Planchon	<http://pt.wikipedia.org/wiki/Jules_Émile_Planchon>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Plum.	Charles Plumier	<http://pt.wikipedia.org/wiki/Charles_Plumier>	
+Poepp.	Eduard Friedrich Poeppig	<http://pt.wikipedia.org/wiki/Eduard_Friedrich_Poeppig>	
+Poir.	Jean-Louis Marie Poiret	<http://pt.wikipedia.org/wiki/Jean-Louis_Marie_Poiret>	
+Poit.	Pierre-Antoine Poiteau	<http://pt.wikipedia.org/wiki/Pierre-Antoine_Poiteau>	
+A.Poit.	Pierre-Antoine Poiteau	<http://pt.wikipedia.org/wiki/Pierre-Antoine_Poiteau>	
+Pomerl.	René Pomerleau	<http://pt.wikipedia.org/wiki/René_Pomerleau>	
+Pourr.	Pierre André Pourret	<http://pt.wikipedia.org/wiki/Pierre_André_Pourret>	
+P.Parm.	Paul Évariste Parmentier	<http://pt.wikipedia.org/wiki/Paul_Évariste_Parmentier>	
+Pringsh.	Nathanael Pringsheim	<http://pt.wikipedia.org/wiki/Nathanael_Pringsheim>	
+Prosk.	Johannes Max Proskauer	<http://pt.wikipedia.org/wiki/Johannes_Max_Proskauer>	
+Prov.	Léon Abel Provancher	<http://pt.wikipedia.org/wiki/Léon_Abel_Provancher>	
+Pult.	Richard Pulteney	<http://pt.wikipedia.org/wiki/Richard_Pulteney>	
+Quaint.	Altus Lacy Quaintance	<http://pt.wikipedia.org/wiki/Altus_Lacy_Quaintance>	
+Quisumb.	Eduardo Quisumbing y Arguelles	<http://pt.wikipedia.org/wiki/Eduardo_Quisumbing_y_Arguelles>	
+Rabenh.	Gottlob Ludwig Rabenhorst	<http://pt.wikipedia.org/wiki/Gottlob_Ludwig_Rabenhorst>	
+Raf.	Constantine Samuel Rafinesque	<http://pt.wikipedia.org/wiki/Constantine_Samuel_Rafinesque>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Ratzeb.	Julius Theodor Christian Ratzeburg	<http://pt.wikipedia.org/wiki/Julius_Theodor_Christian_Ratzeburg>	
+Raunk.	Christen Christiansen Raunkiær	<http://pt.wikipedia.org/wiki/Christen_Christiansen_Raunkiær>	
+Rchb.	Heinrich Gottlieb Ludwig Reichenbach	<http://pt.wikipedia.org/wiki/Heinrich_Gottlieb_Ludwig_Reichenbach>	
+Reinw.	Caspar Georg Carl Reinwardt	<http://pt.wikipedia.org/wiki/Caspar_Georg_Carl_Reinwardt>	
+Req.	Esprit Requien	<http://pt.wikipedia.org/wiki/Esprit_Requien>	
+Retz.	Anders Jahan Retzius	<http://pt.wikipedia.org/wiki/Anders_Jahan_Retzius>	
+Reut.	Georges François Reuter	<http://pt.wikipedia.org/wiki/Georges_François_Reuter>	
+R.H.Schomb.	Robert Hermann Schomburgk	<http://pt.wikipedia.org/wiki/Robert_Hermann_Schomburgk>	
+Rich.	Louis Claude Richard	<http://pt.wikipedia.org/wiki/Louis_Claude_Richard>	
+R.E.Schult.	Richard Evans Schultes	<http://pt.wikipedia.org/wiki/Richard_Evans_Schultes>	
+Rich.Bell.	Pierre Richer de Belleval	<http://pt.wikipedia.org/wiki/Pierre_Richer_de_Belleval>	
+Roem.	Johann Jakob Römer	<http://pt.wikipedia.org/wiki/Johann_Jakob_Römer>	
+Rol.	Daniel Rolander	<http://pt.wikipedia.org/wiki/Daniel_Rolander>	
+Roxb.	William Roxburgh	<http://pt.wikipedia.org/wiki/William_Roxburgh>	
+Rumph.	Georg Everhard Rumphius	<http://pt.wikipedia.org/wiki/Georg_Everhard_Rumphius>	
+Rupr.	Franz Josef Ivanovich Ruprecht	<http://pt.wikipedia.org/wiki/Franz_Josef_Ivanovich_Ruprecht>	
+R.Vilm.	Roger Marie Vincent Philippe Lévêque de Vilmorin	<http://pt.wikipedia.org/wiki/Roger_Marie_Vincent_Philippe_Lévêque_de_Vilmorin>	
+Sacc.	Pier Andrea Saccardo	<http://pt.wikipedia.org/wiki/Pier_Andrea_Saccardo>	
+Saff.	William Edwin Safford	<http://pt.wikipedia.org/wiki/William_Edwin_Safford>	
+Salisb.	Richard Anthony Salisbury	<http://pt.wikipedia.org/wiki/Richard_Anthony_Salisbury>	
+Salzm.	Philipp Salzmann	<http://pt.wikipedia.org/wiki/Philipp_Salzmann>	
+Sarg.	Charles Sprague Sargent	<http://pt.wikipedia.org/wiki/Charles_Sprague_Sargent>	
+Sauss.	Horace-Bénédict de Saussure	<http://pt.wikipedia.org/wiki/Horace-Bénédict_de_Saussure>	
+Schaeff.	Jacob Christian Schäffer	<http://pt.wikipedia.org/wiki/Jacob_Christian_Schäffer>	
+Schafh.	Karl Emil von Schafhäutl	<http://pt.wikipedia.org/wiki/Karl_Emil_von_Schafhäutl>	
+Sch.Bip.	Carl Heinrich Schultz Bipontinus	<http://pt.wikipedia.org/wiki/Carl_Heinrich_Schultz_Bipontinus>	
+Scheff.	Rudolph Herman Christiaan Carel Scheffer	<http://pt.wikipedia.org/wiki/Rudolph_Herman_Christiaan_Carel_Scheffer>	
+Schimp.	Guillaume Philippe Schimper	<http://pt.wikipedia.org/wiki/Guillaume_Philippe_Schimper>	
+Schischk.	Boris Konstantinovich Schischkin	<http://pt.wikipedia.org/wiki/Boris_Konstantinovich_Schischkin>	
+Schleid.	Matthias Schleiden	<http://pt.wikipedia.org/wiki/Matthias_Schleiden>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Schloth.	Ernst Friedrich von Schlotheim	<http://pt.wikipedia.org/wiki/Ernst_Friedrich_von_Schlotheim>	
+Schltdl.	Diederich Franz Leonhard von Schlechtendal	<http://pt.wikipedia.org/wiki/Diederich_Franz_Leonhard_von_Schlechtendal>	
+Schltr.	Friedrich Richard Rudolf Schlechter	<http://pt.wikipedia.org/wiki/Friedrich_Richard_Rudolf_Schlechter>	
+Schnizl.	Adalbert Schnizlein	<http://pt.wikipedia.org/wiki/Adalbert_Schnizlein>	
+Schoenef.	Wladimir de Schœnefeld	<http://pt.wikipedia.org/wiki/Wladimir_de_Schœnefeld>	
+Schrad.	Heinrich Adolph Schrader	<http://pt.wikipedia.org/wiki/Heinrich_Adolph_Schrader>	
+Schreb.	Johann Christian Daniel von Schreber	<http://pt.wikipedia.org/wiki/Johann_Christian_Daniel_von_Schreber>	
+Schub.	Gotthilf Heinrich von Schubert	<http://pt.wikipedia.org/wiki/Gotthilf_Heinrich_von_Schubert>	
+Schult.	Josef August Schultes	<http://pt.wikipedia.org/wiki/Josef_August_Schultes>	
+Schult.f.	Julius Hermann Schultes (1804-1840)	<http://pt.wikipedia.org/wiki/Julius_Hermann_Schultes_(1804-1840)>	
+Schweigg.	August Friedrich Schweigger	<http://pt.wikipedia.org/wiki/August_Friedrich_Schweigger>	
+Schwein.	Lewis David von Schweinitz	<http://pt.wikipedia.org/wiki/Lewis_David_von_Schweinitz>	
+Schwend.	Simon Schwendener	<http://pt.wikipedia.org/wiki/Simon_Schwendener>	
+Scop.	Giovanni Antonio Scopoli	<http://pt.wikipedia.org/wiki/Giovanni_Antonio_Scopoli>	
+S.D.Sundb.	Scott D. Sundberg	<http://pt.wikipedia.org/wiki/Scott_D._Sundberg>	
+Secr.	Louis Secretan	<http://pt.wikipedia.org/wiki/Louis_Secretan>	
+Seem.	Berthold Carl Seemann	<http://pt.wikipedia.org/wiki/Berthold_Carl_Seemann>	
+Ség.	Jean-François Séguier	<http://pt.wikipedia.org/wiki/Jean-François_Séguier>	
+Seneb.	Jean Senebier	<http://pt.wikipedia.org/wiki/Jean_Senebier>	
+Ser.	Nicolas Charles Seringe	<http://pt.wikipedia.org/wiki/Nicolas_Charles_Seringe>	
+S.G.Gmel.	Samuel Gottlieb Gmelin	<http://pt.wikipedia.org/wiki/Samuel_Gottlieb_Gmelin>	
+Sibth.	John Sibthorp	<http://pt.wikipedia.org/wiki/John_Sibthorp>	
+Siesm.	Franz Heinrich Siesmayer	<http://pt.wikipedia.org/wiki/Franz_Heinrich_Siesmayer>	
+Skottsb.	Carl Skottsberg	<http://pt.wikipedia.org/wiki/Carl_Skottsberg>	
+S.Krasch.	Stephan Petrovich Krascheninnikov	<http://pt.wikipedia.org/wiki/Stephan_Petrovich_Krascheninnikov>	
+Sm.	James Edward Smith	<http://pt.wikipedia.org/wiki/James_Edward_Smith>	
+Sol.	Daniel Solander	<http://pt.wikipedia.org/wiki/Daniel_Solander>	
+Sond.	Otto Wilhelm Sonder	<http://pt.wikipedia.org/wiki/Otto_Wilhelm_Sonder>	
+Sonn.	Pierre Sonnerat	<http://pt.wikipedia.org/wiki/Pierre_Sonnerat>	
+Soul.-Bod.	Étienne Soulange-Bodin	<http://pt.wikipedia.org/wiki/Étienne_Soulange-Bodin>	
+Spaend.	Gérard van Spaendonck	<http://pt.wikipedia.org/wiki/Gérard_van_Spaendonck>	
+Spall.	Lazzaro Spallanzani	<http://pt.wikipedia.org/wiki/Lazzaro_Spallanzani>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Sparrm.	Anders Sparrman	<http://pt.wikipedia.org/wiki/Anders_Sparrman>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Spreng.	Kurt Sprengel	<http://pt.wikipedia.org/wiki/Kurt_Sprengel>	
+Stackh.	John Stackhouse	<http://pt.wikipedia.org/wiki/John_Stackhouse>	
+Sternb.	Kaspar Maria von Sternberg	<http://pt.wikipedia.org/wiki/Kaspar_Maria_von_Sternberg>	
+Strasb.	Eduard Adolf Strasburger	<http://pt.wikipedia.org/wiki/Eduard_Adolf_Strasburger>	
+Sturtev.	Edward Lewis Sturtevant	<http://pt.wikipedia.org/wiki/Edward_Lewis_Sturtevant>	
+Sudw.	George Bishop Sudworth	<http://pt.wikipedia.org/wiki/George_Bishop_Sudworth>	
+Sull.	William Starling Sullivant	<http://pt.wikipedia.org/wiki/William_Starling_Sullivant>	
+Summerh.	Victor Samuel Summerhayes	<http://pt.wikipedia.org/wiki/Victor_Samuel_Summerhayes>	
+Sw.	Olof Peter Swartz	<http://pt.wikipedia.org/wiki/Olof_Peter_Swartz>	
+Takht.	Armen Takhtajan	<http://pt.wikipedia.org/wiki/Armen_Takhtajan>	
+Targ.Tozz.	Giovanni Targioni Tozzetti	<http://pt.wikipedia.org/wiki/Giovanni_Targioni_Tozzetti>	
+Teijsm.	Johannes Elias Teijsmann	<http://pt.wikipedia.org/wiki/Johannes_Elias_Teijsmann>	
+Ten.	Michele Tenore	<http://pt.wikipedia.org/wiki/Michele_Tenore>	
+Thell.	Albert Thellung	<http://pt.wikipedia.org/wiki/Albert_Thellung>	
+Th.Fr.	Theodor Magnus Fries	<http://pt.wikipedia.org/wiki/Theodor_Magnus_Fries>	
+T.F.Forst.	Thomas Furly Forster	<http://pt.wikipedia.org/wiki/Thomas_Furly_Forster>	
+Thib.Chanv.	Jean-Baptiste Thibault de Chanvalon	<http://pt.wikipedia.org/wiki/Jean-Baptiste_Thibault_de_Chanvalon>	
+Thonn.	Peter Thonning	<http://pt.wikipedia.org/wiki/Peter_Thonning>	
+Thuill.	Jean-Louis Thuillier	<http://pt.wikipedia.org/wiki/Jean-Louis_Thuillier>	
+Thunb.	Carl Peter Thunberg	<http://pt.wikipedia.org/wiki/Carl_Peter_Thunberg>	
+Thur.	Gustave Adolphe Thuret	<http://pt.wikipedia.org/wiki/Gustave_Adolphe_Thuret>	
+Tiegh.	Philippe Édouard Léon Van Tieghem	<http://pt.wikipedia.org/wiki/Philippe_Édouard_Léon_Van_Tieghem>	
+T.Lestib.	Gaspard Thémistocle Lestiboudois	<http://pt.wikipedia.org/wiki/Gaspard_Thémistocle_Lestiboudois>	
+Tod.	Agostino Todaro	<http://pt.wikipedia.org/wiki/Agostino_Todaro>	
+Tourn.	Joseph Pitton de Tournefort	<http://pt.wikipedia.org/wiki/Joseph_Pitton_de_Tournefort>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Tourr.	Marc Antoine Louis Claret de La Tourrette	<http://pt.wikipedia.org/wiki/Marc_Antoine_Louis_Claret_de_La_Tourrette>	
+Tratt.	Leopold Trattinnick	<http://pt.wikipedia.org/wiki/Leopold_Trattinnick>	
+Trad.	John Tradescant	<http://pt.wikipedia.org/wiki/John_Tradescant>	
+Trautv.	Ernst Rudolf von Trautvetter	<http://pt.wikipedia.org/wiki/Ernst_Rudolf_von_Trautvetter>	
+Trevir.	Ludolph Christian Treviranus	<http://pt.wikipedia.org/wiki/Ludolph_Christian_Treviranus>	
+Trevis.	Vittore Benedetto Antonio Trevisan de Saint-Léon	<http://pt.wikipedia.org/wiki/Vittore_Benedetto_Antonio_Trevisan_de_Saint-Léon>	
+Tscherm.-Seys.	Erich von Tschermak-Seysenegg	<http://pt.wikipedia.org/wiki/Erich_von_Tschermak-Seysenegg>	
+Tuck.	Edward Tuckerman	<http://pt.wikipedia.org/wiki/Edward_Tuckerman>	
+Tul.	Edmond Tulasne	<http://pt.wikipedia.org/wiki/Edmond_Tulasne>	
+Wahlenb.	Göran Wahlenberg	<http://pt.wikipedia.org/wiki/Göran_Wahlenberg>	
+Waldst.	Franz de Paula Adam von Waldstein	<http://pt.wikipedia.org/wiki/Franz_de_Paula_Adam_von_Waldstein>	
+Walp.	Wilhelm Gerhard Walpers	<http://pt.wikipedia.org/wiki/Wilhelm_Gerhard_Walpers>	
+Warb.	Otto Warburg (botânico)	<http://pt.wikipedia.org/wiki/Otto_Warburg_(botânico)>	
+Warm.	Eugenius Warming	<http://pt.wikipedia.org/wiki/Eugenius_Warming>	
+W.B.Carp.	William Benjamin Carpenter	<http://pt.wikipedia.org/wiki/William_Benjamin_Carpenter>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Wedd.	Hugh Algernon Weddell	<http://pt.wikipedia.org/wiki/Hugh_Algernon_Weddell>	
+Weism.	August Weismann	<http://pt.wikipedia.org/wiki/August_Weismann>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Wesm.	Alfred Wesmael	<http://pt.wikipedia.org/wiki/Alfred_Wesmael>	
+Wettst.	Richard Wettstein	<http://pt.wikipedia.org/wiki/Richard_Wettstein>	
+Wied-Neuw.	Maximilian zu Wied-Neuwied	<http://pt.wikipedia.org/wiki/Maximilian_zu_Wied-Neuwied>	
+Will.	William Crawford Williamson	<http://pt.wikipedia.org/wiki/William_Crawford_Williamson>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Willd.	Carl Ludwig Willdenow	<http://pt.wikipedia.org/wiki/Carl_Ludwig_Willdenow>	
+Willk.	Heinrich Moritz Willkomm	<http://pt.wikipedia.org/wiki/Heinrich_Moritz_Willkomm>	
+With.	William Withering	<http://pt.wikipedia.org/wiki/William_Withering>	
+Wittm.	Ludwig Wittmack	<http://pt.wikipedia.org/wiki/Ludwig_Wittmack>	
+W.L.Culb.	William Louis Culberson	<http://pt.wikipedia.org/wiki/William_Louis_Culberson>	
+W.MacGill.	William MacGillivray	<http://pt.wikipedia.org/wiki/William_MacGillivray>	
+Wm.G.Sm.	William Gardner Smith	<http://pt.wikipedia.org/wiki/William_Gardner_Smith>	
+Woodw.	Thomas Jenkinson Woodward	<http://pt.wikipedia.org/wiki/Thomas_Jenkinson_Woodward>	
+W.W.Sm.	William Wright Smith	<http://pt.wikipedia.org/wiki/William_Wright_Smith>	
+W.Zimm.	Walter Max Zimmermann	<http://pt.wikipedia.org/wiki/Walter_Max_Zimmermann>	
+Zoll.	Heinrich Zollinger	<http://pt.wikipedia.org/wiki/Heinrich_Zollinger>	
+Zucc.	Joseph Gerhard Zuccarini	<http://pt.wikipedia.org/wiki/Joseph_Gerhard_Zuccarini>	
+Vaill.	Sébastien Vaillant	<http://pt.wikipedia.org/wiki/Sébastien_Vaillant>	
+Vell.	José Mariano da Conceição Veloso	<http://pt.wikipedia.org/wiki/José_Mariano_da_Conceição_Veloso>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Vict.	Marie-Victorin	<http://pt.wikipedia.org/wiki/Marie-Victorin>	
+Vill.	Dominique Villars	<http://pt.wikipedia.org/wiki/Dominique_Villars>	
+Vittad.	Carlo Vittadini	<http://pt.wikipedia.org/wiki/Carlo_Vittadini>	
+Viv.	Domenico Viviani	<http://pt.wikipedia.org/wiki/Domenico_Viviani>	
+Vuill.	Jean Paul Vuillemin	<http://pt.wikipedia.org/wiki/Jean_Paul_Vuillemin>	
+Salta!	Jump In!	<http://pt.wikipedia.org/wiki/Jump_In!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Hartw.	Karl Theodor Hartweg	<http://pt.wikipedia.org/wiki/Karl_Theodor_Hartweg>	
+Hasselq.	Fredric Hasselquist	<http://pt.wikipedia.org/wiki/Fredric_Hasselquist>	
+Haw.	Adrian Hardy Haworth	<http://pt.wikipedia.org/wiki/Adrian_Hardy_Haworth>	
+Hegetschw.	Johannes Jacob Hegetschweiler	<http://pt.wikipedia.org/wiki/Johannes_Jacob_Hegetschweiler>	
+Heinr.	Emil Johann Lambert Heinricher	<http://pt.wikipedia.org/wiki/Emil_Johann_Lambert_Heinricher>	
+Hellm.	Carl Edward Hellmayr	<http://pt.wikipedia.org/wiki/Carl_Edward_Hellmayr>	
+Hemsl.	William Botting Hemsley	<http://pt.wikipedia.org/wiki/William_Botting_Hemsley>	
+Henneg.	Louis-Félix Henneguy	<http://pt.wikipedia.org/wiki/Louis-Félix_Henneguy>	
+Hensl.	John Stevens Henslow	<http://pt.wikipedia.org/wiki/John_Stevens_Henslow>	
+Herb.	William Herbert	<http://pt.wikipedia.org/wiki/William_Herbert>	
+Herb.H.Sm.	Herbert Huntington Smith	<http://pt.wikipedia.org/wiki/Herbert_Huntington_Smith>	
+Herm.	Paul Hermann	<http://pt.wikipedia.org/wiki/Paul_Hermann>	
+Herr.-Schaeff.	Gottlieb August Wilhelm Herrich-Schäffer	<http://pt.wikipedia.org/wiki/Gottlieb_August_Wilhelm_Herrich-Schäffer>	
+H.F.Copel.	Herbert Faulkner Copeland	<http://pt.wikipedia.org/wiki/Herbert_Faulkner_Copeland>	
+Hillh.	William Hillhouse	<http://pt.wikipedia.org/wiki/William_Hillhouse>	
+H.Karst.	Gustav Hermann Karsten	<http://pt.wikipedia.org/wiki/Gustav_Hermann_Karsten>	
+H.L.Wendl.	Heinrich Ludolph Wendland	<http://pt.wikipedia.org/wiki/Heinrich_Ludolph_Wendland>	
+H.Müll.	Heinrich Ludwig Hermann Müller	<http://pt.wikipedia.org/wiki/Heinrich_Ludwig_Hermann_Müller>	
+Hoffm.	Georg Franz Hoffmann	<http://pt.wikipedia.org/wiki/Georg_Franz_Hoffmann>	
+Hoffmanns.	Johann Centurius von Hoffmannsegg	<http://pt.wikipedia.org/wiki/Johann_Centurius_von_Hoffmannsegg>	
+Hombr.	Jacques Bernard Hombron	<http://pt.wikipedia.org/wiki/Jacques_Bernard_Hombron>	
+Horan.	Paul Fedorowitsch Horaninow	<http://pt.wikipedia.org/wiki/Paul_Fedorowitsch_Horaninow>	
+Hornst.	Claudius Fredric Hornstedt	<http://pt.wikipedia.org/wiki/Claudius_Fredric_Hornstedt>	
+Horsf.	Thomas Horsfield	<http://pt.wikipedia.org/wiki/Thomas_Horsfield>	
+Houtt.	Maarten Houttuyn	<http://pt.wikipedia.org/wiki/Maarten_Houttuyn>	
+H.Rob.	Harold Ernest Robinson	<http://pt.wikipedia.org/wiki/Harold_Ernest_Robinson>	
+Huds.	William Hudson	<http://pt.wikipedia.org/wiki/William_Hudson>	
+Humb.	Alexander von Humboldt	<http://pt.wikipedia.org/wiki/Alexander_von_Humboldt>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Husn.	Pierre Tranquille Husnot	<http://pt.wikipedia.org/wiki/Pierre_Tranquille_Husnot>	
+Hutch.	John Hutchinson	<http://pt.wikipedia.org/wiki/John_Hutchinson>	
+Seub.	Moritz August Seubert	<http://pt.wikipedia.org/wiki/Moritz_August_Seubert>	
+T.c.b.s.	T.C.B.S.	<http://pt.wikipedia.org/wiki/T.C.B.S.>	
+T.f.forst.	Thomas Furly Forster	<http://pt.wikipedia.org/wiki/Thomas_Furly_Forster>	
+T.i.	T.I.	<http://pt.wikipedia.org/wiki/T.I.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+T.m.a.	Mancha Azul (Avaí)	<http://pt.wikipedia.org/wiki/Mancha_Azul_(Avaí)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/SambaSchool>,<http://schema.org/Organization> 
+T.lestib.	Gaspard Thémistocle Lestiboudois	<http://pt.wikipedia.org/wiki/Gaspard_Thémistocle_Lestiboudois>	
+A.A.G.	Associação de Atletismo da Guarda	<http://pt.wikipedia.org/wiki/Associação_de_Atletismo_da_Guarda>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+C.DC.	Casimir Pyrame de Candolle	<http://pt.wikipedia.org/wiki/Casimir_Pyrame_de_Candolle>	
+Ponted.	Giulio Pontedera	<http://pt.wikipedia.org/wiki/Giulio_Pontedera>	
+Grisel.	Francesco Griselini	<http://pt.wikipedia.org/wiki/Francesco_Griselini>	
+Germ.	Jacques Nicolas Ernest Germain de Saint-Pierre	<http://pt.wikipedia.org/wiki/Jacques_Nicolas_Ernest_Germain_de_Saint-Pierre>	
+Perr.	George Samuel Perrottet	<http://pt.wikipedia.org/wiki/George_Samuel_Perrottet>	
+Grev.	Robert Kaye Greville	<http://pt.wikipedia.org/wiki/Robert_Kaye_Greville>	
+Graebn.	Karl Otto Robert Peter Paul Graebner	<http://pt.wikipedia.org/wiki/Karl_Otto_Robert_Peter_Paul_Graebner>	
+Backh.	James Backhouse	<http://pt.wikipedia.org/wiki/James_Backhouse>	
+Bess.	Wilibald Swibert Joseph Gottlieb von Besser	<http://pt.wikipedia.org/wiki/Wilibald_Swibert_Joseph_Gottlieb_von_Besser>	
+O.E.S.A.	Ordem de Santo Agostinho	<http://pt.wikipedia.org/wiki/Ordem_de_Santo_Agostinho>	
+Pluk.	Leonard Plukenet	<http://pt.wikipedia.org/wiki/Leonard_Plukenet>	
+B.a.t.m.a.n.	B.A.T.M.A.N.	<http://pt.wikipedia.org/wiki/B.A.T.M.A.N.>	
+Cauby!cauby!	Cauby! Cauby!	<http://pt.wikipedia.org/wiki/Cauby!_Cauby!>	
+A.a.g.	Associação de Atletismo da Guarda	<http://pt.wikipedia.org/wiki/Associação_de_Atletismo_da_Guarda>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+A.poit.	Pierre-Antoine Poiteau	<http://pt.wikipedia.org/wiki/Pierre-Antoine_Poiteau>	
+Pic.serm.	Rodolfo Emilio Giuseppe Pichi-Sermolli	<http://pt.wikipedia.org/wiki/Rodolfo_Emilio_Giuseppe_Pichi-Sermolli>	
+B.a.r.	British American Racing	<http://pt.wikipedia.org/wiki/British_American_Racing>	
+B.e.a.s.t.	Projecto: Animal	<http://pt.wikipedia.org/wiki/Projecto:_Animal>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://purl.org/ontology/bibo/Book>,<http://dbpedia.org/ontology/Book>,<http://schema.org/CreativeWork>,<http://schema.org/Book> 
+R.e.schult.	Richard Evans Schultes	<http://pt.wikipedia.org/wiki/Richard_Evans_Schultes>	
+R.h.schomb.	Robert Hermann Schomburgk	<http://pt.wikipedia.org/wiki/Robert_Hermann_Schomburgk>	
+R.o.d.	Read Or Die	<http://pt.wikipedia.org/wiki/Read_Or_Die>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+R.vilm.	Roger Marie Vincent Philippe Lévêque de Vilmorin	<http://pt.wikipedia.org/wiki/Roger_Marie_Vincent_Philippe_Lévêque_de_Vilmorin>	
+C.dc.	Casimir Pyrame de Candolle	<http://pt.wikipedia.org/wiki/Casimir_Pyrame_de_Candolle>	
+Rich.bell.	Pierre Richer de Belleval	<http://pt.wikipedia.org/wiki/Pierre_Richer_de_Belleval>	
+Soul.-bod.	Étienne Soulange-Bodin	<http://pt.wikipedia.org/wiki/Étienne_Soulange-Bodin>	
+J.c.buxb.	Johann Christian Buxbaum	<http://pt.wikipedia.org/wiki/Johann_Christian_Buxbaum>	
+J.dyb.	Jean Dybowski	<http://pt.wikipedia.org/wiki/Jean_Dybowski>	
+J.f.gmel.	Johann Friedrich Gmelin	<http://pt.wikipedia.org/wiki/Johann_Friedrich_Gmelin>	
+J.f.mill.	John Frederick Miller	<http://pt.wikipedia.org/wiki/John_Frederick_Miller>	
+J.fabr.	Johan Christian Fabricius	<http://pt.wikipedia.org/wiki/Johan_Christian_Fabricius>	
+J.g.br.	James Greenlief Brown	<http://pt.wikipedia.org/wiki/James_Greenlief_Brown>	
+J.g.gmel.	Johann Georg Gmelin	<http://pt.wikipedia.org/wiki/Johann_Georg_Gmelin>	
+J.juss.	Joseph de Jussieu	<http://pt.wikipedia.org/wiki/Joseph_de_Jussieu>	
+J.kern.	Johann Simon von Kerner	<http://pt.wikipedia.org/wiki/Johann_Simon_von_Kerner>	
+J.lestib.	Jean-Baptiste Lestiboudois	<http://pt.wikipedia.org/wiki/Jean-Baptiste_Lestiboudois>	
+J.m.c.rich.	Jean Michel Claude Richard	<http://pt.wikipedia.org/wiki/Jean_Michel_Claude_Richard>	
+J.m.coult.	John Merle Coulter	<http://pt.wikipedia.org/wiki/John_Merle_Coulter>	
+Run-d.m.c.	Run-D.M.C.	<http://pt.wikipedia.org/wiki/Run-D.M.C.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+J.r.forst.	Johann Reinhold Forster	<http://pt.wikipedia.org/wiki/Johann_Reinhold_Forster>	
+J.rev.	Julien Reverchon	<http://pt.wikipedia.org/wiki/Julien_Reverchon>	
+J.st.-hil.	Jean Henri Jaume Saint-Hilaire	<http://pt.wikipedia.org/wiki/Jean_Henri_Jaume_Saint-Hilaire>	
+J.v.lamour.	Jean Vincent Félix Lamouroux	<http://pt.wikipedia.org/wiki/Jean_Vincent_Félix_Lamouroux>	
+S.c.i.	Congregação dos Sacerdotes do Sagrado Coração de Jesus	<http://pt.wikipedia.org/wiki/Congregação_dos_Sacerdotes_do_Sagrado_Coração_de_Jesus>	
+S.d.b.	Salesianos	<http://pt.wikipedia.org/wiki/Salesianos>	
+S.d.sundb.	Scott D. Sundberg	<http://pt.wikipedia.org/wiki/Scott_D._Sundberg>	
+S.e.i.	Sistema Estrutural Integrado	<http://pt.wikipedia.org/wiki/Sistema_Estrutural_Integrado>	
+S.g.gmel.	Samuel Gottlieb Gmelin	<http://pt.wikipedia.org/wiki/Samuel_Gottlieb_Gmelin>	
+S.krasch.	Stephan Petrovich Krascheninnikov	<http://pt.wikipedia.org/wiki/Stephan_Petrovich_Krascheninnikov>	
+S.o.s.	SOS	<http://pt.wikipedia.org/wiki/SOS>	
+D'urv.	Jules Dumont d'Urville	<http://pt.wikipedia.org/wiki/Jules_Dumont_d'Urville>	
+D.s.jord.	David Starr Jordan	<http://pt.wikipedia.org/wiki/David_Starr_Jordan>	
+Dum.cours.	Georges Louis Marie Dumont de Courset	<http://pt.wikipedia.org/wiki/Georges_Louis_Marie_Dumont_de_Courset>	
+E.fisch.	Eduard Fischer	<http://pt.wikipedia.org/wiki/Eduard_Fischer>	
+E.forst.	Edward Forster	<http://pt.wikipedia.org/wiki/Edward_Forster>	
+E.g.h.oliv.	Edward George Hudson Oliver	<http://pt.wikipedia.org/wiki/Edward_George_Hudson_Oliver>	
+E.holmb.	Eduardo Ladislao Holmberg	<http://pt.wikipedia.org/wiki/Eduardo_Ladislao_Holmberg>	
+E.mey.	Ernst Heinrich Friedrich Meyer	<http://pt.wikipedia.org/wiki/Ernst_Heinrich_Friedrich_Meyer>	
+E.salisb.	Edward James Salisbury	<http://pt.wikipedia.org/wiki/Edward_James_Salisbury>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Targ.tozz.	Giovanni Targioni Tozzetti	<http://pt.wikipedia.org/wiki/Giovanni_Targioni_Tozzetti>	
+K.f.schimp.	Karl Friedrich Schimper	<http://pt.wikipedia.org/wiki/Karl_Friedrich_Schimper>	
+Th.fr.	Theodor Magnus Fries	<http://pt.wikipedia.org/wiki/Theodor_Magnus_Fries>	
+L'hér.	Charles Louis L'Héritier de Brutelle	<http://pt.wikipedia.org/wiki/Charles_Louis_L'Héritier_de_Brutelle>	
+L'herm.	Ferdinand Joseph L'Herminier	<http://pt.wikipedia.org/wiki/Ferdinand_Joseph_L'Herminier>	
+L.s.d.	LSD	<http://pt.wikipedia.org/wiki/LSD>	
+L.thienem.	Ludwig Thienemann	<http://pt.wikipedia.org/wiki/Ludwig_Thienemann>	
+L.vaill.	Léon Vaillant	<http://pt.wikipedia.org/wiki/Léon_Vaillant>	
+Thib.chanv.	Jean-Baptiste Thibault de Chanvalon	<http://pt.wikipedia.org/wiki/Jean-Baptiste_Thibault_de_Chanvalon>	
+Tscherm.-seys.	Erich von Tschermak-Seysenegg	<http://pt.wikipedia.org/wiki/Erich_von_Tschermak-Seysenegg>	
+Sch.bip.	Carl Heinrich Schultz Bipontinus	<http://pt.wikipedia.org/wiki/Carl_Heinrich_Schultz_Bipontinus>	
+M.bieb.	Friedrich August Marschall von Bieberstein	<http://pt.wikipedia.org/wiki/Friedrich_August_Marschall_von_Bieberstein>	
+M.i.a.	M.I.A.	<http://pt.wikipedia.org/wiki/M.I.A.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+M.m.d.c.a.	M.M.D.C.	<http://pt.wikipedia.org/wiki/M.M.D.C.>	
+H.f.copel.	Herbert Faulkner Copeland	<http://pt.wikipedia.org/wiki/Herbert_Faulkner_Copeland>	
+H.karst.	Gustav Hermann Karsten	<http://pt.wikipedia.org/wiki/Gustav_Hermann_Karsten>	
+H.l.wendl.	Heinrich Ludolph Wendland	<http://pt.wikipedia.org/wiki/Heinrich_Ludolph_Wendland>	
+H.müll.	Heinrich Ludwig Hermann Müller	<http://pt.wikipedia.org/wiki/Heinrich_Ludwig_Hermann_Müller>	
+H.rob.	Harold Ernest Robinson	<http://pt.wikipedia.org/wiki/Harold_Ernest_Robinson>	
+H.wendl.	Hermann Wendland	<http://pt.wikipedia.org/wiki/Hermann_Wendland>	
+Herb.h.sm.	Herbert Huntington Smith	<http://pt.wikipedia.org/wiki/Herbert_Huntington_Smith>	
+Herr.-schaeff.	Gottlieb August Wilhelm Herrich-Schäffer	<http://pt.wikipedia.org/wiki/Gottlieb_August_Wilhelm_Herrich-Schäffer>	
+Müll.-thurg.	Hermann Müller Thurgau	<http://pt.wikipedia.org/wiki/Hermann_Müller_Thurgau>	
+Müll.arg.	Johannes Müller Argoviensis	<http://pt.wikipedia.org/wiki/Johannes_Müller_Argoviensis>	
+Müll.stuttg.	Karl Müller (naturalista)	<http://pt.wikipedia.org/wiki/Karl_Müller_(naturalista)>	
+Muss.puschk.	Apollo Mussin-Pushkin	<http://pt.wikipedia.org/wiki/Apollo_Mussin-Pushkin>	
+N.e.br.	Nicholas Edward Brown	<http://pt.wikipedia.org/wiki/Nicholas_Edward_Brown>	
+N.t.sauss.	Nicolas Théodore de Saussure	<http://pt.wikipedia.org/wiki/Nicolas_Théodore_de_Saussure>	
+Vivamúsica!	VivaMúsica!	<http://pt.wikipedia.org/wiki/VivaMúsica!>	
+O.f.müll.	Otto Friedrich Müller	<http://pt.wikipedia.org/wiki/Otto_Friedrich_Müller>	
+O.s.a.	Ordem de Santo Agostinho	<http://pt.wikipedia.org/wiki/Ordem_de_Santo_Agostinho>	
+W.l.culb.	William Louis Culberson	<http://pt.wikipedia.org/wiki/William_Louis_Culberson>	
+W.macgill.	William MacGillivray	<http://pt.wikipedia.org/wiki/William_MacGillivray>	
+W.o.	Walkover	<http://pt.wikipedia.org/wiki/Walkover>	
+W.w.sm.	William Wright Smith	<http://pt.wikipedia.org/wiki/William_Wright_Smith>	
+W.zimm.	Walter Max Zimmermann	<http://pt.wikipedia.org/wiki/Walter_Max_Zimmermann>	
+P.a.dang.	Pierre Augustin Dangeard	<http://pt.wikipedia.org/wiki/Pierre_Augustin_Dangeard>	
+P.fourn.	Paul Victor Fournier	<http://pt.wikipedia.org/wiki/Paul_Victor_Fournier>	
+P.j.l.dang.	Pierre Jean Louis Dangeard	<http://pt.wikipedia.org/wiki/Pierre_Jean_Louis_Dangeard>	
+P.karst.	Petter Adolf Karsten	<http://pt.wikipedia.org/wiki/Petter_Adolf_Karsten>	
+P.m.	Post meridiem	<http://pt.wikipedia.org/wiki/Post_meridiem>	
+P.parm.	Paul Évariste Parmentier	<http://pt.wikipedia.org/wiki/Paul_Évariste_Parmentier>	
+Wied-neuw.	Maximilian zu Wied-Neuwied	<http://pt.wikipedia.org/wiki/Maximilian_zu_Wied-Neuwied>	
+Wm.g.sm.	William Gardner Smith	<http://pt.wikipedia.org/wiki/William_Gardner_Smith>	
+A.K.	AK-47	<http://pt.wikipedia.org/wiki/AK-47>	<http://schema.org/Product>,<http://dbpedia.org/ontology/Device>,<http://dbpedia.org/ontology/Weapon> 
+A.K.	Armia Krajowa	<http://pt.wikipedia.org/wiki/Armia_Krajowa>	
+G.L.O.W.	Gorgeous Ladies of Wrestling	<http://pt.wikipedia.org/wiki/Gorgeous_Ladies_of_Wrestling>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Bl.	Carl Ludwig Blume	<http://pt.wikipedia.org/wiki/Carl_Ludwig_Blume>	
+Bong.	August Gustav Heinrich von Bongard	<http://pt.wikipedia.org/wiki/August_Gustav_Heinrich_von_Bongard>	
+Cauby!Cauby!	Cauby! Cauby!	<http://pt.wikipedia.org/wiki/Cauby!_Cauby!>	
+S.H.I.E.L.D.	S.H.I.E.L.D	<http://pt.wikipedia.org/wiki/S.H.I.E.L.D>	
+C.I.	Índice Internacional de Corantes	<http://pt.wikipedia.org/wiki/Índice_Internacional_de_Corantes>	
+Action!	AXN	<http://pt.wikipedia.org/wiki/AXN>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Broadcaster>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/TelevisionStation>,<http://schema.org/Organization>,<http://schema.org/TelevisionStation> 
+M.U.G.E.N.	M.U.G.E.N	<http://pt.wikipedia.org/wiki/M.U.G.E.N>	<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork> 
+J.A.K.Q.	JAKQ Dengekitai	<http://pt.wikipedia.org/wiki/JAKQ_Dengekitai>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+Hosanna!	Hosanna! Music	<http://pt.wikipedia.org/wiki/Hosanna!_Music>	
+Mentira!	Shadow of a Doubt	<http://pt.wikipedia.org/wiki/Shadow_of_a_Doubt>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Desaparecida!	The Lady Vanishes	<http://pt.wikipedia.org/wiki/The_Lady_Vanishes>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Buchh.	Fedor Vladimirovic Buchholz	<http://pt.wikipedia.org/wiki/Fedor_Vladimirovic_Buchholz>	
+S.V.D.	Missionários do Verbo Divino	<http://pt.wikipedia.org/wiki/Missionários_do_Verbo_Divino>	
+C.S.S.	Congregação dos Sagrados Estigmas de Nosso Senhor Jesus Cristo	<http://pt.wikipedia.org/wiki/Congregação_dos_Sagrados_Estigmas_de_Nosso_Senhor_Jesus_Cristo>	
+Bravo!	Bravo (software)	<http://pt.wikipedia.org/wiki/Bravo_(software)>	
+Bravo!	Bravo (álbum)	<http://pt.wikipedia.org/wiki/Bravo_(álbum)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Bravo!	Los Bravos	<http://pt.wikipedia.org/wiki/Los_Bravos>	<http://schema.org/MusicGroup>,<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation> 
+Bravo!	Fiat Bravo	<http://pt.wikipedia.org/wiki/Fiat_Bravo>	
+Bravo!	Bravo! (telenovela)	<http://pt.wikipedia.org/wiki/Bravo!_(telenovela)>	
+Bravo!	Bravo! (revista)	<http://pt.wikipedia.org/wiki/Bravo!_(revista)>	
+G.r.t.	Gujrat	<http://pt.wikipedia.org/wiki/Gujrat>	<http://schema.org/Place>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace> 
+A.D.B.	Associação Dramática de Baependi	<http://pt.wikipedia.org/wiki/Associação_Dramática_de_Baependi>	
+H20H!	H2OH!	<http://pt.wikipedia.org/wiki/H2OH!>	
+Lira.	Lira (São Luís)	<http://pt.wikipedia.org/wiki/Lira_(São_Luís)>	<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://dbpedia.org/ontology/Settlement>,<http://schema.org/Place> 
+T.i.p.	T.I.P.	<http://pt.wikipedia.org/wiki/T.I.P.>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+LIVE!	Yngwie Malmsteen LIVE!!	<http://pt.wikipedia.org/wiki/Yngwie_Malmsteen_LIVE!!>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+G.l.o.w.	Gorgeous Ladies of Wrestling	<http://pt.wikipedia.org/wiki/Gorgeous_Ladies_of_Wrestling>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+J.a.k.q.	JAKQ Dengekitai	<http://pt.wikipedia.org/wiki/JAKQ_Dengekitai>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+G.F.U.	Grande Fraternidade Universal	<http://pt.wikipedia.org/wiki/Grande_Fraternidade_Universal>	
+H2Oh!	H2OH!	<http://pt.wikipedia.org/wiki/H2OH!>	
+Live!	Live (álbum de Blind Guardian)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_Blind_Guardian)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de Metal Church)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_Metal_Church)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de AC/DC)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_AC/DC)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de Alice in Chains)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_Alice_in_Chains)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de Candlemass)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_Candlemass)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live! (álbum de Bob Marley & The Wailers)	<http://pt.wikipedia.org/wiki/Live!_(álbum_de_Bob_Marley_&_The_Wailers)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de Usher)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_Usher)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de Guano Apes)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_Guano_Apes)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de 311)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_311)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live! (álbum de Status Quo)	<http://pt.wikipedia.org/wiki/Live!_(álbum_de_Status_Quo)>	
+Live!	Live (álbum de Face to Face)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_Face_to_Face)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de Our Lady Peace)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_Our_Lady_Peace)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de They Might Be Giants)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_They_Might_Be_Giants)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live! (filme de 2007)	<http://pt.wikipedia.org/wiki/Live!_(filme_de_2007)>	
+Live!	Live! (álbum de The Police)	<http://pt.wikipedia.org/wiki/Live!_(álbum_de_The_Police)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de UB40)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_UB40)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de Erykah Badu)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_Erykah_Badu)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de Meat Puppets)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_Meat_Puppets)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de Gipsy Kings)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_Gipsy_Kings)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live! (álbum de Vinnie Moore)	<http://pt.wikipedia.org/wiki/Live!_(álbum_de_Vinnie_Moore)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de Lacrimosa)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_Lacrimosa)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Live!	Live (álbum de The Kelly Family)	<http://pt.wikipedia.org/wiki/Live_(álbum_de_The_Kelly_Family)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+E.U.	Estados Unidos	<http://pt.wikipedia.org/wiki/Estados_Unidos>	<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Country>,<http://schema.org/Place> 
+G.A.D.U.	Grande Arquiteto do Universo	<http://pt.wikipedia.org/wiki/Grande_Arquiteto_do_Universo>	
+G.a.d.u.	Grande Arquiteto do Universo	<http://pt.wikipedia.org/wiki/Grande_Arquiteto_do_Universo>	
+Hochst.	Christian Ferdinand Friedrich Hochstetter	<http://pt.wikipedia.org/wiki/Christian_Ferdinand_Friedrich_Hochstetter>	
+MP717(r).	PPSh-41	<http://pt.wikipedia.org/wiki/PPSh-41>	
+N.M.E.	NightMare Enterprises (Kirby)	<http://pt.wikipedia.org/wiki/NightMare_Enterprises_(Kirby)>	
+A.d.b.	Associação Dramática de Baependi	<http://pt.wikipedia.org/wiki/Associação_Dramática_de_Baependi>	
+A.e.r.o.	A.E.R.O.	<http://pt.wikipedia.org/wiki/A.E.R.O.>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+A.t.o.m.	A.T.O.M.	<http://pt.wikipedia.org/wiki/A.T.O.M.>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+Bercht.	Friedrich von Berchtold	<http://pt.wikipedia.org/wiki/Friedrich_von_Berchtold>	
+Berkh.	Christine Marie Berkhout	<http://pt.wikipedia.org/wiki/Christine_Marie_Berkhout>	
+Berland.	Jean Louis Berlandier	<http://pt.wikipedia.org/wiki/Jean_Louis_Berlandier>	
+Bisch.	Gottlieb Wilhelm Bischoff	<http://pt.wikipedia.org/wiki/Gottlieb_Wilhelm_Bischoff>	
+Chiov.	Emilio Chiovenda	<http://pt.wikipedia.org/wiki/Emilio_Chiovenda>	
+Christm.	Gottlieb Friedrich Christmann	<http://pt.wikipedia.org/wiki/Gottlieb_Friedrich_Christmann>	
+C.K.Schneid.	Camillo Karl Schneider	<http://pt.wikipedia.org/wiki/Camillo_Karl_Schneider>	
+C.L.Hitchc.	Charles Leo Hitchcock	<http://pt.wikipedia.org/wiki/Charles_Leo_Hitchcock>	
+Cogn.	Célestin Alfred Cogniaux	<http://pt.wikipedia.org/wiki/Célestin_Alfred_Cogniaux>	
+F.A.M.E.	Fans of Adult Media & Entertainment	<http://pt.wikipedia.org/wiki/Fans_of_Adult_Media_&_Entertainment>	
+Nimrod.	Nimrod (álbum)	<http://pt.wikipedia.org/wiki/Nimrod_(álbum)>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+F.R.A.	Federação Revolucionária Armênia	<http://pt.wikipedia.org/wiki/Federação_Revolucionária_Armênia>	
+GOL!	Goal!	<http://pt.wikipedia.org/wiki/Goal!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+GOAL!	Goal!	<http://pt.wikipedia.org/wiki/Goal!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Greg.	Mudança para o calendário gregoriano	<http://pt.wikipedia.org/wiki/Mudança_para_o_calendário_gregoriano>	
+Jul.	Mudança para o calendário gregoriano	<http://pt.wikipedia.org/wiki/Mudança_para_o_calendário_gregoriano>	
+S.P.A.	Sociedade Portuguesa de Autores	<http://pt.wikipedia.org/wiki/Sociedade_Portuguesa_de_Autores>	
+C.C.	Anexo:Lista de personagens de Code Geass - Lelouch of the Rebellion	<http://pt.wikipedia.org/wiki/Anexo:Lista_de_personagens_de_Code_Geass_-_Lelouch_of_the_Rebellion>	
+U.E.B.	União dos Escoteiros do Brasil	<http://pt.wikipedia.org/wiki/União_dos_Escoteiros_do_Brasil>	
+L.A.R.	Luta Armada Revolucionária	<http://pt.wikipedia.org/wiki/Luta_Armada_Revolucionária>	
+A.P.V.G.	Associação Portuguesa dos Veteranos de Guerra	<http://pt.wikipedia.org/wiki/Associação_Portuguesa_dos_Veteranos_de_Guerra>	
+BAADASSSSS!	How to Get the Man's Foot Outta Your Ass	<http://pt.wikipedia.org/wiki/How_to_Get_the_Man's_Foot_Outta_Your_Ass>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Baadasssss!	How to Get the Man's Foot Outta Your Ass	<http://pt.wikipedia.org/wiki/How_to_Get_the_Man's_Foot_Outta_Your_Ass>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+U.P.E.C.	União Portuguesa do Estado da Califórnia	<http://pt.wikipedia.org/wiki/União_Portuguesa_do_Estado_da_Califórnia>	
+J.C.D.	Juris Canonici Doctor	<http://pt.wikipedia.org/wiki/Juris_Canonici_Doctor>	
+U.S.M.C.	Corpo de Fuzileiros Navais dos Estados Unidos	<http://pt.wikipedia.org/wiki/Corpo_de_Fuzileiros_Navais_dos_Estados_Unidos>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Lancenet!	Lance!	<http://pt.wikipedia.org/wiki/Lance!>	<http://dbpedia.org/ontology/Newspaper>,<http://dbpedia.org/ontology/PeriodicalLiterature>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://schema.org/CreativeWork> 
+R.I.	Relações internacionais	<http://pt.wikipedia.org/wiki/Relações_internacionais>	
+O.N.U.	Organização das Nações Unidas	<http://pt.wikipedia.org/wiki/Organização_das_Nações_Unidas>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+C.C.T.C.	Companhia Campineira de Transporte Coletivo	<http://pt.wikipedia.org/wiki/Companhia_Campineira_de_Transporte_Coletivo>	
+Sakpatá.	Sakpata	<http://pt.wikipedia.org/wiki/Sakpata>	
+N.A.R.A.S.	National Academy of Recording Arts and Sciences	<http://pt.wikipedia.org/wiki/National_Academy_of_Recording_Arts_and_Sciences>	
+O.I.G.	Organização intergovernamental	<http://pt.wikipedia.org/wiki/Organização_intergovernamental>	
+Dead!	Bucky (anime)	<http://pt.wikipedia.org/wiki/Bucky_(anime)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow> 
+Dead!	Dead (álbum)	<http://pt.wikipedia.org/wiki/Dead_(álbum)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Dead!	Dead! (canção)	<http://pt.wikipedia.org/wiki/Dead!_(canção)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Single> 
+Crank!	Crank! Records	<http://pt.wikipedia.org/wiki/Crank!_Records>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/RecordLabel>,<http://schema.org/Organization> 
+T.A.T.U.	T.A.T.u.	<http://pt.wikipedia.org/wiki/T.A.T.u.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+E.A.U.	Emirados Árabes Unidos	<http://pt.wikipedia.org/wiki/Emirados_Árabes_Unidos>	<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Country>,<http://schema.org/Place> 
+U.S.S.R.	União Soviética	<http://pt.wikipedia.org/wiki/União_Soviética>	<http://dbpedia.org/ontology/AdministrativeRegion>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://dbpedia.org/ontology/Region>,<http://schema.org/AdministrativeArea>,<http://schema.org/Place> 
+P.i.	P.I.	<http://pt.wikipedia.org/wiki/P.I.>	
+K.O.	Nocaute	<http://pt.wikipedia.org/wiki/Nocaute>	
+Impulse!	Impulse! Records	<http://pt.wikipedia.org/wiki/Impulse!_Records>	
+E.g.	Exempli gratia	<http://pt.wikipedia.org/wiki/Exempli_gratia>	
+LL.M.	Mestrado em Direito	<http://pt.wikipedia.org/wiki/Mestrado_em_Direito>	
+Gand.	Michel Gandoger	<http://pt.wikipedia.org/wiki/Michel_Gandoger>	
+Trel.	William Trelease	<http://pt.wikipedia.org/wiki/William_Trelease>	
+Habbo.	Habbo Hotel	<http://pt.wikipedia.org/wiki/Habbo_Hotel>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Website>,<http://schema.org/CreativeWork>,<http://schema.org/WebPage> 
+S.K.I.N.	Skin (banda)	<http://pt.wikipedia.org/wiki/Skin_(banda)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+N.W.A.	N.W.A	<http://pt.wikipedia.org/wiki/N.W.A>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+W.Y.D.	With Your Destiny	<http://pt.wikipedia.org/wiki/With_Your_Destiny>	<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame>,<http://schema.org/CreativeWork> 
+D.E.T.A.	Direcção de Exploração dos Transportes Aéreos	<http://pt.wikipedia.org/wiki/Direcção_de_Exploração_dos_Transportes_Aéreos>	
+Reborn!	Katekyō Hitman Reborn!	<http://pt.wikipedia.org/wiki/Katekyō_Hitman_Reborn!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+A.t.c.	Teatro Construção	<http://pt.wikipedia.org/wiki/Teatro_Construção>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+A.T.C.	Teatro Construção	<http://pt.wikipedia.org/wiki/Teatro_Construção>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Hawksw.	Frank Goode Hawksworth	<http://pt.wikipedia.org/wiki/Frank_Goode_Hawksworth>	
+Barb.Rodr.	João Barbosa Rodrigues	<http://pt.wikipedia.org/wiki/João_Barbosa_Rodrigues>	
+Rchb.f.	Heinrich Gustav Reichenbach	<http://pt.wikipedia.org/wiki/Heinrich_Gustav_Reichenbach>	
+D.O.U.	Diário Oficial da União	<http://pt.wikipedia.org/wiki/Diário_Oficial_da_União>	
+D.O.	Diário Oficial	<http://pt.wikipedia.org/wiki/Diário_Oficial>	
+W.o.m.a.n.	W.O.M.A.N.	<http://pt.wikipedia.org/wiki/W.O.M.A.N.>	<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Single>,<http://schema.org/CreativeWork> 
+Szlach.	Dariusz Szlachetko	<http://pt.wikipedia.org/wiki/Dariusz_Szlachetko>	
+Translit.	Transliteração	<http://pt.wikipedia.org/wiki/Transliteração>	
+C.Q.D.	Quod erat demonstrandum	<http://pt.wikipedia.org/wiki/Quod_erat_demonstrandum>	
+Flow!	Flow (banda)	<http://pt.wikipedia.org/wiki/Flow_(banda)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Kraenzl.	Friedrich Wilhelm Ludwig Kraenzlin	<http://pt.wikipedia.org/wiki/Friedrich_Wilhelm_Ludwig_Kraenzlin>	
+F.e.m.	Fórum Econômico Mundial	<http://pt.wikipedia.org/wiki/Fórum_Econômico_Mundial>	<http://schema.org/Organization>,<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation> 
+F.e.m.	Faculdade de Engenharia Mecânica da Unicamp	<http://pt.wikipedia.org/wiki/Faculdade_de_Engenharia_Mecânica_da_Unicamp>	
+Ca.	Circa	<http://pt.wikipedia.org/wiki/Circa>	
+C.E.P.	Controle estatístico de processos	<http://pt.wikipedia.org/wiki/Controle_estatístico_de_processos>	
+A.U.c.	Ab urbe condita	<http://pt.wikipedia.org/wiki/Ab_urbe_condita>	
+E.R.	ER (série)	<http://pt.wikipedia.org/wiki/ER_(série)>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+I.A.P.B.	Instituto de Aposentadoria e Pensões dos Bancários	<http://pt.wikipedia.org/wiki/Instituto_de_Aposentadoria_e_Pensões_dos_Bancários>	
+I.a.p.b.	Instituto de Aposentadoria e Pensões dos Bancários	<http://pt.wikipedia.org/wiki/Instituto_de_Aposentadoria_e_Pensões_dos_Bancários>	
+V.I.B.E.	V.I.B.E.: Vibrações Inteligentes Beneficiando a Existência	<http://pt.wikipedia.org/wiki/V.I.B.E.:_Vibrações_Inteligentes_Beneficiando_a_Existência>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+O.S.J.J.	Ordem Soberana e Militar de Malta	<http://pt.wikipedia.org/wiki/Ordem_Soberana_e_Militar_de_Malta>	<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Country>,<http://schema.org/Place> 
+CC.OO.	Comissões Operárias	<http://pt.wikipedia.org/wiki/Comissões_Operárias>	
+M.A.Clem.	Mark Alwin Clements	<http://pt.wikipedia.org/wiki/Mark_Alwin_Clements>	
+Lour.	João de Loureiro	<http://pt.wikipedia.org/wiki/João_de_Loureiro>	
+S.I.	Sistema Internacional de Unidades	<http://pt.wikipedia.org/wiki/Sistema_Internacional_de_Unidades>	
+C.R.A.S.H.	Anexo:Lista de gangues da série Grand Theft Auto	<http://pt.wikipedia.org/wiki/Anexo:Lista_de_gangues_da_série_Grand_Theft_Auto>	
+Cath.	Eduardo Luis Martins Catharino	<http://pt.wikipedia.org/wiki/Eduardo_Luis_Martins_Catharino>	
+D.E.Benn.	David E. Bennett	<http://pt.wikipedia.org/wiki/David_E._Bennett>	
+Eureka!	Eureka (exclamação)	<http://pt.wikipedia.org/wiki/Eureka_(exclamação)>	
+L.I.L.Y.	L.I.L.Y. (Like I Love You)	<http://pt.wikipedia.org/wiki/L.I.L.Y._(Like_I_Love_You)>	
+F.ur.t.o.	Furto (banda)	<http://pt.wikipedia.org/wiki/Furto_(banda)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+M.P.B.	Música popular brasileira	<http://pt.wikipedia.org/wiki/Música_popular_brasileira>	<http://dbpedia.org/ontology/Genre>,<http://dbpedia.org/ontology/MusicGenre>,<http://dbpedia.org/ontology/TopicalConcept> 
+K.Hoffm.	Käthe Hoffmann	<http://pt.wikipedia.org/wiki/Käthe_Hoffmann>	
+Less.	Christian Friedrich Lessing	<http://pt.wikipedia.org/wiki/Christian_Friedrich_Lessing>	
+Langeth.	Christian Eduard Langethal	<http://pt.wikipedia.org/wiki/Christian_Eduard_Langethal>	
+A.Cunn.	Allan Cunningham	<http://pt.wikipedia.org/wiki/Allan_Cunningham>	
+E.Wimm.	Franz Elfried Wimmer	<http://pt.wikipedia.org/wiki/Franz_Elfried_Wimmer>	
+J.F.Macbr.	James Francis Macbride	<http://pt.wikipedia.org/wiki/James_Francis_Macbride>	
+Mate.Feed.Kill.Repeat.	Mate. Feed. Kill. Repeat.	<http://pt.wikipedia.org/wiki/Mate._Feed._Kill._Repeat.>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+Pritz.	George August Pritzel	<http://pt.wikipedia.org/wiki/George_August_Pritzel>	
+O.Hoffm.	Karl August Otto Hoffmann	<http://pt.wikipedia.org/wiki/Karl_August_Otto_Hoffmann>	
+Rothm.	Werner Hugo Paul Rothmaler	<http://pt.wikipedia.org/wiki/Werner_Hugo_Paul_Rothmaler>	
+Emb.	Marie Louis Emberger	<http://pt.wikipedia.org/wiki/Marie_Louis_Emberger>	
+Pilg.	Robert Knud Friedrich Pilger	<http://pt.wikipedia.org/wiki/Robert_Knud_Friedrich_Pilger>	
+Urb.	Ignatz Urban	<http://pt.wikipedia.org/wiki/Ignatz_Urban>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Speg.	Carlos Luis Spegazzini	<http://pt.wikipedia.org/wiki/Carlos_Luis_Spegazzini>	
+D.D.I.	Discagem Direta Internacional	<http://pt.wikipedia.org/wiki/Discagem_Direta_Internacional>	
+Tronc.	Nélida Sara Troncoso	<http://pt.wikipedia.org/wiki/Nélida_Sara_Troncoso>	
+Hunz.	Armando Theodoro Hunziker	<http://pt.wikipedia.org/wiki/Armando_Theodoro_Hunziker>	
+Filmore!	Fillmore!	<http://pt.wikipedia.org/wiki/Fillmore!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+F.UR.T.O.	Furto (banda)	<http://pt.wikipedia.org/wiki/Furto_(banda)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Forssk.	Pehr Forsskål	<http://pt.wikipedia.org/wiki/Pehr_Forsskål>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Berthel.	Sabin Berthelot	<http://pt.wikipedia.org/wiki/Sabin_Berthelot>	
+S.A.S.	Serviço Aéreo Especial	<http://pt.wikipedia.org/wiki/Serviço_Aéreo_Especial>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/MilitaryUnit>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+A.Cast.	Alberto Castellanos	<http://pt.wikipedia.org/wiki/Alberto_Castellanos>	
+J.A.Castigl.	Julio A. Castiglioni	<http://pt.wikipedia.org/wiki/Julio_A._Castiglioni>	
+Ciciar.	María de las Mercedes Ciciarelli	<http://pt.wikipedia.org/wiki/María_de_las_Mercedes_Ciciarelli>	
+Hieron.	Jorge Hieronymus	<http://pt.wikipedia.org/wiki/Jorge_Hieronymus>	
+J.H.Hunz.	Juan Héctor Hunziker	<http://pt.wikipedia.org/wiki/Juan_Héctor_Hunziker>	
+Krapov.	Antonio Krapovickas	<http://pt.wikipedia.org/wiki/Antonio_Krapovickas>	
+Mart.Crov.	Raúl Martínez Crovetto	<http://pt.wikipedia.org/wiki/Raúl_Martínez_Crovetto>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+T.Mey.	Teodore Meyer	<http://pt.wikipedia.org/wiki/Teodore_Meyer>	
+Niederl.	Gustavo Niederlein	<http://pt.wikipedia.org/wiki/Gustavo_Niederlein>	
+Guagl.	Encarnación Rosa Guaglianone	<http://pt.wikipedia.org/wiki/Encarnación_Rosa_Guaglianone>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+J.O.N.A.S!	Jonas L.A.	<http://pt.wikipedia.org/wiki/Jonas_L.A.>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+Mildbr.	Gottfried Wilhelm Johannes Mildbraed	<http://pt.wikipedia.org/wiki/Gottfried_Wilhelm_Johannes_Mildbraed>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Scheidw.	Michael Joseph François Scheidweiler	<http://pt.wikipedia.org/wiki/Michael_Joseph_François_Scheidweiler>	
+Oerst.	Anders Sandoe Oersted	<http://pt.wikipedia.org/wiki/Anders_Sandoe_Oersted>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+A.G.Mill.	Anthony G. Miller	<http://pt.wikipedia.org/wiki/Anthony_G._Miller>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Bremek.	Cornelis Eliza Bertus Bremekamp	<http://pt.wikipedia.org/wiki/Cornelis_Eliza_Bertus_Bremekamp>	
+Greenm.	Jesse More Greenman	<http://pt.wikipedia.org/wiki/Jesse_More_Greenman>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Radlk.	Ludwig Adolph Timotheus Radlkofer	<http://pt.wikipedia.org/wiki/Ludwig_Adolph_Timotheus_Radlkofer>	
+K.Schum.	Karl Moritz Schumann	<http://pt.wikipedia.org/wiki/Karl_Moritz_Schumann>	
+Michx.	André Michaux	<http://pt.wikipedia.org/wiki/André_Michaux>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Coem.	Henri Eugène Lucien Gaëtan Coemans	<http://pt.wikipedia.org/wiki/Henri_Eugène_Lucien_Gaëtan_Coemans>	
+Rzed.	Jerzy Rzedowski	<http://pt.wikipedia.org/wiki/Jerzy_Rzedowski>	
+Wassh.	Dieter Carl Wasshausen	<http://pt.wikipedia.org/wiki/Dieter_Carl_Wasshausen>	
+Moric.	Moïse Étienne Moricand	<http://pt.wikipedia.org/wiki/Moïse_Étienne_Moricand>	
+N.P.Balakr.	Nambiyath Puthansurayil Balakrishnan	<http://pt.wikipedia.org/wiki/Nambiyath_Puthansurayil_Balakrishnan>	
+Subr.	Krishnaier Subramanyam	<http://pt.wikipedia.org/wiki/Krishnaier_Subramanyam>	
+Hand.-Mazz.	Heinrich R.E. Handel-Mazzetti	<http://pt.wikipedia.org/wiki/Heinrich_R.E._Handel-Mazzetti>	
+Ovcz.	Pavel Nikolaevich Ovczinnikov	<http://pt.wikipedia.org/wiki/Pavel_Nikolaevich_Ovczinnikov>	
+Hosok.	Takahide Hosokawa	<http://pt.wikipedia.org/wiki/Takahide_Hosokawa>	
+Hassk.	Justus Carl Hasskarl	<http://pt.wikipedia.org/wiki/Justus_Carl_Hasskarl>	
+R.M.Sm.	Rosemary Margaret Smith	<http://pt.wikipedia.org/wiki/Rosemary_Margaret_Smith>	
+O.D.A.M.	Organização dos Arquitectos Modernos	<http://pt.wikipedia.org/wiki/Organização_dos_Arquitectos_Modernos>	
+J.C.Wendl.	Johann Christoph Wendland	<http://pt.wikipedia.org/wiki/Johann_Christoph_Wendland>	
+Montrouz.	Xavier Montrouzier	<http://pt.wikipedia.org/wiki/Xavier_Montrouzier>	
+Kütz.	Friedrich Traugott Kützing	<http://pt.wikipedia.org/wiki/Friedrich_Traugott_Kützing>	
+Vieill.	Eugène Vieillard	<http://pt.wikipedia.org/wiki/Eugène_Vieillard>	
+Pellegr.	François Pellegrin	<http://pt.wikipedia.org/wiki/François_Pellegrin>	
+Pav.	José Antonio Pavón Jiménez	<http://pt.wikipedia.org/wiki/José_Antonio_Pavón_Jiménez>	
+Decne.	Joseph Decaisne	<http://pt.wikipedia.org/wiki/Joseph_Decaisne>	
+Ramam.	Kandasamy Ramamurthy	<http://pt.wikipedia.org/wiki/Kandasamy_Ramamurthy>	
+Aberc.	Henry Duncan McClaren Aberconway	<http://pt.wikipedia.org/wiki/Henry_Duncan_McClaren_Aberconway>	
+Abercr.	John Abercrombie (botânico)	<http://pt.wikipedia.org/wiki/John_Abercrombie_(botânico)>	
+Abildg.	Pedro Cristiano Abildgaard	<http://pt.wikipedia.org/wiki/Pedro_Cristiano_Abildgaard>	
+G.W.Schimp.	Wilhelm Schimper	<http://pt.wikipedia.org/wiki/Wilhelm_Schimper>	
+A.Spreng.	Anton Sprengel	<http://pt.wikipedia.org/wiki/Anton_Sprengel>	
+Weberb.	Augusto Weberbauer	<http://pt.wikipedia.org/wiki/Augusto_Weberbauer>	
+Acev.-Rodr.	Pedro Acevedo-Rodríguez	<http://pt.wikipedia.org/wiki/Pedro_Acevedo-Rodríguez>	
+D.O.C.	Denominação de Origem Controlada	<http://pt.wikipedia.org/wiki/Denominação_de_Origem_Controlada>	
+Run!	Anexo:Lista de episódios de Heroes	<http://pt.wikipedia.org/wiki/Anexo:Lista_de_episódios_de_Heroes>	
+Grave!	Grave (banda)	<http://pt.wikipedia.org/wiki/Grave_(banda)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Acht.	Boris T. Achtarov	<http://pt.wikipedia.org/wiki/Boris_T._Achtarov>	
+Achv.	Agazi Asaturovich Achverdov	<http://pt.wikipedia.org/wiki/Agazi_Asaturovich_Achverdov>	
+Kitt.	Baldwin Martin Kittel	<http://pt.wikipedia.org/wiki/Baldwin_Martin_Kittel>	
+G.Gaertn.	Philipp Gottfried Gaertner	<http://pt.wikipedia.org/wiki/Philipp_Gottfried_Gaertner>	
+Scherb.	Johannes Scherbius	<http://pt.wikipedia.org/wiki/Johannes_Scherbius>	
+Adelb.	Albert George Ludwig Adelbert	<http://pt.wikipedia.org/wiki/Albert_George_Ludwig_Adelbert>	
+Pron.	Pronúncia	<http://pt.wikipedia.org/wiki/Pronúncia>	
+Aderh.	Eudolph Ferdinand Theodor Aderhold	<http://pt.wikipedia.org/wiki/Eudolph_Ferdinand_Theodor_Aderhold>	
+Adjan.	Edouard Adjanohoun	<http://pt.wikipedia.org/wiki/Edouard_Adjanohoun>	
+Lauterb.	Carl Adolf Georg Lauterbach	<http://pt.wikipedia.org/wiki/Carl_Adolf_Georg_Lauterbach>	
+I.M.	Injeção intramuscular	<http://pt.wikipedia.org/wiki/Injeção_intramuscular>	
+Dum.	Barthélemy Charles Joseph Dumortier	<http://pt.wikipedia.org/wiki/Barthélemy_Charles_Joseph_Dumortier>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Trin.	Carl Bernhard von Trinius	<http://pt.wikipedia.org/wiki/Carl_Bernhard_von_Trinius>	
+Kielm.	Carl Friedrich Kielmeyer	<http://pt.wikipedia.org/wiki/Carl_Friedrich_Kielmeyer>	
+Wimm.	Christian Friedrich Heinrich Wimmer	<http://pt.wikipedia.org/wiki/Christian_Friedrich_Heinrich_Wimmer>	
+Grab.	Heinrich Emanuel Grabowski	<http://pt.wikipedia.org/wiki/Heinrich_Emanuel_Grabowski>	
+Ludw.	Christian Gottlieb Ludwig	<http://pt.wikipedia.org/wiki/Christian_Gottlieb_Ludwig>	
+W.Lodd.	William Loddiges	<http://pt.wikipedia.org/wiki/William_Loddiges>	
+D.Dietr.	David Nathaniel Friedrich Dietrich	<http://pt.wikipedia.org/wiki/David_Nathaniel_Friedrich_Dietrich>	
+Irmsch.	Edgar Irmscher	<http://pt.wikipedia.org/wiki/Edgar_Irmscher>	
+L.B.Sm.	Lyman Bradford Smith	<http://pt.wikipedia.org/wiki/Lyman_Bradford_Smith>	
+B.O.B.	Monsters vs. Aliens	<http://pt.wikipedia.org/wiki/Monsters_vs._Aliens>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Petz.	Eduard Petzold	<http://pt.wikipedia.org/wiki/Eduard_Petzold>	
+Werderm.	Erich Werdermann	<http://pt.wikipedia.org/wiki/Erich_Werdermann>	
+Afonso-Carr.	Julio Afonso-Carrillo	<http://pt.wikipedia.org/wiki/Julio_Afonso-Carrillo>	
+A.A.Afzel.	Arvid August Afzelius	<http://pt.wikipedia.org/wiki/Arvid_August_Afzelius>	
+K.Afzel.	Karl Rudolf Afzelius	<http://pt.wikipedia.org/wiki/Karl_Rudolf_Afzelius>	
+P.Afzel.	Pehr Conrad Afzelius	<http://pt.wikipedia.org/wiki/Pehr_Conrad_Afzelius>	
+M.V.Agab.	Mariam V. Agababjan	<http://pt.wikipedia.org/wiki/Mariam_V._Agababjan>	
+Agst.	Etienne Agsteribbe	<http://pt.wikipedia.org/wiki/Etienne_Agsteribbe>	
+Aguil.	Antoni Aguilella	<http://pt.wikipedia.org/wiki/Antoni_Aguilella>	
+Ahlfv.	Frederik Elias Ahlfvengren	<http://pt.wikipedia.org/wiki/Frederik_Elias_Ahlfvengren>	
+Ahnf.	Nicolaus ("Nils") Otto Ahnfelt	<http://pt.wikipedia.org/wiki/Nicolaus_(%22Nils%22)_Otto_Ahnfelt>	
+B.E.A.S.T.	Projecto: Animal	<http://pt.wikipedia.org/wiki/Projecto:_Animal>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://purl.org/ontology/bibo/Book>,<http://dbpedia.org/ontology/Book>,<http://schema.org/CreativeWork>,<http://schema.org/Book> 
+Ainsw.	Geoffrey Clough Ainsworth	<http://pt.wikipedia.org/wiki/Geoffrey_Clough_Ainsworth>	
+Akinf.	Ivan Jakovlevic Akinfiev	<http://pt.wikipedia.org/wiki/Ivan_Jakovlevic_Akinfiev>	
+L.O.P.	Pedigree	<http://pt.wikipedia.org/wiki/Pedigree>	
+D.E.R.	Diagrama entidade relacionamento	<http://pt.wikipedia.org/wiki/Diagrama_entidade_relacionamento>	
+D.E.R.	Departamento de Estradas de Rodagem	<http://pt.wikipedia.org/wiki/Departamento_de_Estradas_de_Rodagem>	
+D.E.R.	Departamento de Estradas de Rodagem do estado de São Paulo	<http://pt.wikipedia.org/wiki/Departamento_de_Estradas_de_Rodagem_do_estado_de_São_Paulo>	
+Alef.	Friedrich Christoph Wilhelm Alefeld	<http://pt.wikipedia.org/wiki/Friedrich_Christoph_Wilhelm_Alefeld>	
+Avé-Lall.	Julius Leopold Eduard Avé-Lallemant	<http://pt.wikipedia.org/wiki/Julius_Leopold_Eduard_Avé-Lallemant>	
+M.E.P.	Sociedade para as Missões Estrangeiras de Paris	<http://pt.wikipedia.org/wiki/Sociedade_para_as_Missões_Estrangeiras_de_Paris>	
+Baumg.	Johann Christian Gottlob Baumgarten	<http://pt.wikipedia.org/wiki/Johann_Christian_Gottlob_Baumgarten>	
+R.P.M.	Revolution Per Minute	<http://pt.wikipedia.org/wiki/Revolution_Per_Minute>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Beyr.	Heinrich Karl Beyrich	<http://pt.wikipedia.org/wiki/Heinrich_Karl_Beyrich>	
+Boed.	Friedrich Boedeker	<http://pt.wikipedia.org/wiki/Friedrich_Boedeker>	
+Bol.	Henry Nicholas Bolander	<http://pt.wikipedia.org/wiki/Henry_Nicholas_Bolander>	
+Lesq.	Charles Léo Lesquereux	<http://pt.wikipedia.org/wiki/Charles_Léo_Lesquereux>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+A.Fedtsch.	Alexei Pavlovich Fedchenko	<http://pt.wikipedia.org/wiki/Alexei_Pavlovich_Fedchenko>	
+W.O.	Walkover	<http://pt.wikipedia.org/wiki/Walkover>	
+C.S.Sp.	Congregação do Espírito Santo	<http://pt.wikipedia.org/wiki/Congregação_do_Espírito_Santo>	
+Alberts.	Nils Albertson	<http://pt.wikipedia.org/wiki/Nils_Albertson>	
+Albr.	David Edward Albrecht	<http://pt.wikipedia.org/wiki/David_Edward_Albrecht>	
+Albuq.	Byron Wilson Pereira de Albuquerque	<http://pt.wikipedia.org/wiki/Byron_Wilson_Pereira_de_Albuquerque>	
+D.A.F.T.	D.A.F.T.: A Story About Dogs, Androids, Firemen and Tomatoes	<http://pt.wikipedia.org/wiki/D.A.F.T.:_A_Story_About_Dogs,_Androids,_Firemen_and_Tomatoes>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+N.E.R.D.	N.E.R.D	<http://pt.wikipedia.org/wiki/N.E.R.D>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+S.A.C.	Palotinos	<http://pt.wikipedia.org/wiki/Palotinos>	
+X.A.N.A.	Anexo:Lista de personagens principais de Code Lyoko	<http://pt.wikipedia.org/wiki/Anexo:Lista_de_personagens_principais_de_Code_Lyoko>	
+C.R.L.	Cônegos Regulares Lateranenses	<http://pt.wikipedia.org/wiki/Cônegos_Regulares_Lateranenses>	
+R.I.A.A.	Recording Industry Association of America	<http://pt.wikipedia.org/wiki/Recording_Industry_Association_of_America>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Cf.	CompactFlash	<http://pt.wikipedia.org/wiki/CompactFlash>	
+Cf.	Califórnio	<http://pt.wikipedia.org/wiki/Califórnio>	
+Cf.	Constituição	<http://pt.wikipedia.org/wiki/Constituição>	
+Cf.	Convívios Fraternos	<http://pt.wikipedia.org/wiki/Convívios_Fraternos>	
+O.S.F.	Ordem Franciscana Secular	<http://pt.wikipedia.org/wiki/Ordem_Franciscana_Secular>	
+L.A.X.	Aeroporto Internacional de Los Angeles	<http://pt.wikipedia.org/wiki/Aeroporto_Internacional_de_Los_Angeles>	<http://dbpedia.org/ontology/Airport>,<http://dbpedia.org/ontology/ArchitecturalStructure>,<http://dbpedia.org/ontology/Infrastructure>,<http://dbpedia.org/ontology/Place>,<http://schema.org/Airport>,<http://schema.org/Place> 
+E.Fourn.	Eugène Pierre Nicolas Fournier	<http://pt.wikipedia.org/wiki/Eugène_Pierre_Nicolas_Fournier>	
+Desv.	Nicaise Augustin Desvaux	<http://pt.wikipedia.org/wiki/Nicaise_Augustin_Desvaux>	
+Devotos.	Devotos (álbum)	<http://pt.wikipedia.org/wiki/Devotos_(álbum)>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+Ibid.	Ibidem	<http://pt.wikipedia.org/wiki/Ibidem>	
+R.U.	Reino Unido	<http://pt.wikipedia.org/wiki/Reino_Unido>	<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Country>,<http://schema.org/Place> 
+K-ON!	K-On!	<http://pt.wikipedia.org/wiki/K-On!>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+¡Átame!	Ata-me!	<http://pt.wikipedia.org/wiki/Ata-me!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Etc.	Et cetera	<http://pt.wikipedia.org/wiki/Et_cetera>	
+T.O.E.	Cauterize	<http://pt.wikipedia.org/wiki/Cauterize>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Now!	Now That's What I Call Music!	<http://pt.wikipedia.org/wiki/Now_That's_What_I_Call_Music!>	
+T.R.O.Y.C.	Hangar (banda)	<http://pt.wikipedia.org/wiki/Hangar_(banda)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Koord.	Sijfert Hendrik Koorders	<http://pt.wikipedia.org/wiki/Sijfert_Hendrik_Koorders>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+!BANG!	!Bang!	<http://pt.wikipedia.org/wiki/!Bang!>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+O.A.R.	Of a Revolution	<http://pt.wikipedia.org/wiki/Of_a_Revolution>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Fertig,Los!	Fertig, Los!	<http://pt.wikipedia.org/wiki/Fertig,_Los!>	
+S.I.F.	Serviço de Inspeção Federal	<http://pt.wikipedia.org/wiki/Serviço_de_Inspeção_Federal>	
+P.N.R.	Partido Nacional Renovador	<http://pt.wikipedia.org/wiki/Partido_Nacional_Renovador>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/PoliticalParty>,<http://schema.org/Organization> 
+B.E.	Bloco de Esquerda (Portugal)	<http://pt.wikipedia.org/wiki/Bloco_de_Esquerda_(Portugal)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/PoliticalParty>,<http://schema.org/Organization> 
+P.H.	Partido Humanista (Portugal)	<http://pt.wikipedia.org/wiki/Partido_Humanista_(Portugal)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/PoliticalParty>,<http://schema.org/Organization> 
+MPT-P.H.	FEH - Frente Ecologia e Humanismo	<http://pt.wikipedia.org/wiki/FEH_-_Frente_Ecologia_e_Humanismo>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/PoliticalParty>,<http://schema.org/Organization> 
+Fun!Fun!Buggy!	Kart N' Crazy	<http://pt.wikipedia.org/wiki/Kart_N'_Crazy>	<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame>,<http://schema.org/CreativeWork> 
+D.A.	Diários Associados	<http://pt.wikipedia.org/wiki/Diários_Associados>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Company>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+U.S.	Estados Unidos	<http://pt.wikipedia.org/wiki/Estados_Unidos>	<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Country>,<http://schema.org/Place> 
+NEU!	Neu!	<http://pt.wikipedia.org/wiki/Neu!>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Alive!	Alive! (álbum de Snot)	<http://pt.wikipedia.org/wiki/Alive!_(álbum_de_Snot)>	
+Alive!	Alive (1993)	<http://pt.wikipedia.org/wiki/Alive_(1993)>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive! (álbum de Kiss)	<http://pt.wikipedia.org/wiki/Alive!_(álbum_de_Kiss)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive (canção de Jennifer Lopez)	<http://pt.wikipedia.org/wiki/Alive_(canção_de_Jennifer_Lopez)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Single> 
+Alive!	Alive (filme de 2002)	<http://pt.wikipedia.org/wiki/Alive_(filme_de_2002)>	<http://schema.org/CreativeWork>,<http://schema.org/Movie>,<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive (álbum de Kate Ryan)	<http://pt.wikipedia.org/wiki/Alive_(álbum_de_Kate_Ryan)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive (álbum de Dr. Sin)	<http://pt.wikipedia.org/wiki/Alive_(álbum_de_Dr._Sin)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive II	<http://pt.wikipedia.org/wiki/Alive_II>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive (canção de P.O.D.)	<http://pt.wikipedia.org/wiki/Alive_(canção_de_P.O.D.)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Single> 
+Alive!	Alive (EP)	<http://pt.wikipedia.org/wiki/Alive_(EP)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive (canção de Pearl Jam)	<http://pt.wikipedia.org/wiki/Alive_(canção_de_Pearl_Jam)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Single> 
+Alive!	Alive III	<http://pt.wikipedia.org/wiki/Alive_III>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Alive!	Alive (canção de Black Eyed Peas)	<http://pt.wikipedia.org/wiki/Alive_(canção_de_Black_Eyed_Peas)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicRecording>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Song> 
+Splank!	Zombie Nation	<http://pt.wikipedia.org/wiki/Zombie_Nation>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+Var.	Variedade (biologia)	<http://pt.wikipedia.org/wiki/Variedade_(biologia)>	
+Subsp.	Subespécie	<http://pt.wikipedia.org/wiki/Subespécie>	
+T.S.I.	Nelly Furtado	<http://pt.wikipedia.org/wiki/Nelly_Furtado>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Fl.	Floruit	<http://pt.wikipedia.org/wiki/Floruit>	
+R.A.S.H.	Red and Anarchist Skinheads	<http://pt.wikipedia.org/wiki/Red_and_Anarchist_Skinheads>	
+S.H.A.R.P.	Skinheads Against Racial Prejudice	<http://pt.wikipedia.org/wiki/Skinheads_Against_Racial_Prejudice>	
+F.A.S.H.	Federación Anarco Skinhead	<http://pt.wikipedia.org/wiki/Federación_Anarco_Skinhead>	
+L.E.G.I.O.N.	L.E.G.I.Ã.O.	<http://pt.wikipedia.org/wiki/L.E.G.I.Ã.O.>	
+B.o.B.	B.o.B	<http://pt.wikipedia.org/wiki/B.o.B>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Spec.	Espécie	<http://pt.wikipedia.org/wiki/Espécie>	
+Sp.	Espécie	<http://pt.wikipedia.org/wiki/Espécie>	
+Spp.	Espécie	<http://pt.wikipedia.org/wiki/Espécie>	
+P.P.A.O.	Panathinaikos	<http://pt.wikipedia.org/wiki/Panathinaikos>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/SoccerClub>,<http://dbpedia.org/ontology/SportsTeam>,<http://schema.org/Organization>,<http://schema.org/SportsTeam> 
+C.S.I.	CSI: Crime Scene Investigation	<http://pt.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+Little♥Princess☆Pri!	Lilpri	<http://pt.wikipedia.org/wiki/Lilpri>	
+Capan.	Guilherme Schüch	<http://pt.wikipedia.org/wiki/Guilherme_Schüch>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://dbpedia.org/ontology/Scientist>,<http://schema.org/Person> 
+Lev.	Levítico	<http://pt.wikipedia.org/wiki/Levítico>	
+H.E.A.T.	H.E.A.T	<http://pt.wikipedia.org/wiki/H.E.A.T>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+F.O.X.E.	Fans of X-Rated Entertainment	<http://pt.wikipedia.org/wiki/Fans_of_X-Rated_Entertainment>	
+S.A.R.	Sua Alteza Real	<http://pt.wikipedia.org/wiki/Sua_Alteza_Real>	
+In.	Polegada	<http://pt.wikipedia.org/wiki/Polegada>	
+P.E.N.	PEN (clube)	<http://pt.wikipedia.org/wiki/PEN_(clube)>	
+P.L.	Patrologia Latina	<http://pt.wikipedia.org/wiki/Patrologia_Latina>	
+Jakers!	Jakers! The Adventures of Piggley Winks	<http://pt.wikipedia.org/wiki/Jakers!_The_Adventures_of_Piggley_Winks>	<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/TelevisionShow>,<http://schema.org/CreativeWork> 
+O.M.I.	Missionários Oblatos de Maria Imaculada	<http://pt.wikipedia.org/wiki/Missionários_Oblatos_de_Maria_Imaculada>	
+O.F.M.Conv.	Cordeliers	<http://pt.wikipedia.org/wiki/Cordeliers>	
+C.O.	Congregação do Oratório	<http://pt.wikipedia.org/wiki/Congregação_do_Oratório>	
+O.S.Io.Hieros.	Ordem Equestre do Santo Sepulcro de Jerusalém	<http://pt.wikipedia.org/wiki/Ordem_Equestre_do_Santo_Sepulcro_de_Jerusalém>	
+S.T.G.	Strike Gunner S.T.G.	<http://pt.wikipedia.org/wiki/Strike_Gunner_S.T.G.>	<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame>,<http://schema.org/CreativeWork> 
+O.E.S.S.H.	Ordem Equestre do Santo Sepulcro de Jerusalém	<http://pt.wikipedia.org/wiki/Ordem_Equestre_do_Santo_Sepulcro_de_Jerusalém>	
+P.L.M.	Paulo Leivas Macalão	<http://pt.wikipedia.org/wiki/Paulo_Leivas_Macalão>	
+Oil!	Petróleo!	<http://pt.wikipedia.org/wiki/Petróleo!>	
+P.G.	Patrologia Graeca	<http://pt.wikipedia.org/wiki/Patrologia_Graeca>	
+RedeTv!	RedeTV!	<http://pt.wikipedia.org/wiki/RedeTV!>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Broadcaster>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/TelevisionStation>,<http://schema.org/Organization>,<http://schema.org/TelevisionStation> 
+Hampe.	Georg Ernst Ludwig Hampe	<http://pt.wikipedia.org/wiki/Georg_Ernst_Ludwig_Hampe>	
+O.S.Io.Hier.	Ordem Equestre do Santo Sepulcro de Jerusalém	<http://pt.wikipedia.org/wiki/Ordem_Equestre_do_Santo_Sepulcro_de_Jerusalém>	
+B.P.R.D.	Bureau of Paranormal Research and Defence	<http://pt.wikipedia.org/wiki/Bureau_of_Paranormal_Research_and_Defence>	
+LANCE!	Lance!	<http://pt.wikipedia.org/wiki/Lance!>	<http://dbpedia.org/ontology/Newspaper>,<http://dbpedia.org/ontology/PeriodicalLiterature>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/WrittenWork>,<http://schema.org/CreativeWork> 
+O.Cart.	Ordem dos Cartuxos	<http://pt.wikipedia.org/wiki/Ordem_dos_Cartuxos>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Máfia!	Mafia!	<http://pt.wikipedia.org/wiki/Mafia!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+C.G.F.Hochst.	Ferdinand von Hochstetter	<http://pt.wikipedia.org/wiki/Ferdinand_von_Hochstetter>	
+C.R.	Teatinos	<http://pt.wikipedia.org/wiki/Teatinos>	
+Atco.	Atco Records	<http://pt.wikipedia.org/wiki/Atco_Records>	
+E.S.P.	External Stowage Platform	<http://pt.wikipedia.org/wiki/External_Stowage_Platform>	
+E.S.P.	ESP (guitarras)	<http://pt.wikipedia.org/wiki/ESP_(guitarras)>	
+O.S.H.	Ordem de São Jerónimo	<http://pt.wikipedia.org/wiki/Ordem_de_São_Jerónimo>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+Cyrill.	Domenico Maria Leone Cirillo	<http://pt.wikipedia.org/wiki/Domenico_Maria_Leone_Cirillo>	
+Cyr.	Domenico Maria Leone Cirillo	<http://pt.wikipedia.org/wiki/Domenico_Maria_Leone_Cirillo>	
+B.S.	Grau académico	<http://pt.wikipedia.org/wiki/Grau_académico>	
+E.L.E.	E.L.E. (Extinction Level Event): The Final World Front	<http://pt.wikipedia.org/wiki/E.L.E._(Extinction_Level_Event):_The_Final_World_Front>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+Artzooka!	Discovery Kids	<http://pt.wikipedia.org/wiki/Discovery_Kids>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Broadcaster>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/TelevisionStation>,<http://schema.org/Organization>,<http://schema.org/TelevisionStation> 
+Carruth.	William Carruthers	<http://pt.wikipedia.org/wiki/William_Carruthers>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Person>,<http://schema.org/Person> 
+Hey!	Hey (canção de Mitchel Musso)	<http://pt.wikipedia.org/wiki/Hey_(canção_de_Mitchel_Musso)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Single> 
+Hey!	Hey! (álbum de Jullie)	<http://pt.wikipedia.org/wiki/Hey!_(álbum_de_Jullie)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Hey!	Hey! (canção de Jullie)	<http://pt.wikipedia.org/wiki/Hey!_(canção_de_Jullie)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Single> 
+M.M.A.	Ministério do Meio Ambiente	<http://pt.wikipedia.org/wiki/Ministério_do_Meio_Ambiente>	
+H.A.M.	H•A•M	<http://pt.wikipedia.org/wiki/H•A•M>	<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Single>,<http://schema.org/CreativeWork> 
+Knobl.	Emil Friedrich Knoblauch	<http://pt.wikipedia.org/wiki/Emil_Friedrich_Knoblauch>	
+F.C.R.	Fidalgo	<http://pt.wikipedia.org/wiki/Fidalgo>	
+M.S.	Grau académico	<http://pt.wikipedia.org/wiki/Grau_académico>	
+M.A.	Masters of Arts	<http://pt.wikipedia.org/wiki/Masters_of_Arts>	
+B.A.	Bachelor of Arts	<http://pt.wikipedia.org/wiki/Bachelor_of_Arts>	
+A.H.Sm.	Alexander H. Smith	<http://pt.wikipedia.org/wiki/Alexander_H._Smith>	
+Romagn.	Henri Romagnesi	<http://pt.wikipedia.org/wiki/Henri_Romagnesi>	
+Britzelm.	Max Britzelmayr	<http://pt.wikipedia.org/wiki/Max_Britzelmayr>	
+Burl.	Gertrude Simmons Burlingham	<http://pt.wikipedia.org/wiki/Gertrude_Simmons_Burlingham>	
+PlayRadioPlay!	Analog Rebellion	<http://pt.wikipedia.org/wiki/Analog_Rebellion>	
+Rech.f.	Karl Heinz Rechinger	<http://pt.wikipedia.org/wiki/Karl_Heinz_Rechinger>	
+Oh!	Oh! (canção)	<http://pt.wikipedia.org/wiki/Oh!_(canção)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Single> 
+Oh!	Oh! (álbum)	<http://pt.wikipedia.org/wiki/Oh!_(álbum)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Oh!	Oh (canção)	<http://pt.wikipedia.org/wiki/Oh_(canção)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Single> 
+Oh!	Ohio	<http://pt.wikipedia.org/wiki/Ohio>	
+Boud.	Jean Louis Émile Boudier	<http://pt.wikipedia.org/wiki/Jean_Louis_Émile_Boudier>	
+Weinm.	Johann Anton Weinmann	<http://pt.wikipedia.org/wiki/Johann_Anton_Weinmann>	
+Quél.	Lucien Quélet	<http://pt.wikipedia.org/wiki/Lucien_Quélet>	
+LL.D.	Legum Doctor	<http://pt.wikipedia.org/wiki/Legum_Doctor>	
+Dr.	Doutor	<http://pt.wikipedia.org/wiki/Doutor>	
+V.gr.	Verbi gratia	<http://pt.wikipedia.org/wiki/Verbi_gratia>	
+Spectacular!	Espetacular!	<http://pt.wikipedia.org/wiki/Espetacular!>	<http://dbpedia.org/ontology/Film>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/Movie> 
+Transl.	Transliteração	<http://pt.wikipedia.org/wiki/Transliteração>	
+Vasc.	João de Carvalho e Vasconcelos	<http://pt.wikipedia.org/wiki/João_de_Carvalho_e_Vasconcelos>	
+Samp.	Gonçalo Sampaio	<http://pt.wikipedia.org/wiki/Gonçalo_Sampaio>	
+P.Kumm.	Paul Kummer	<http://pt.wikipedia.org/wiki/Paul_Kummer>	
+O.S.B.Clun.	Ordem de Cluny	<http://pt.wikipedia.org/wiki/Ordem_de_Cluny>	
+A.O.L.	Army of Love	<http://pt.wikipedia.org/wiki/Army_of_Love>	<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Song>,<http://schema.org/CreativeWork>,<http://schema.org/MusicRecording> 
+Fun.	Fun (banda)	<http://pt.wikipedia.org/wiki/Fun_(banda)>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Band>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/MusicGroup>,<http://schema.org/Organization> 
+I.S.S.	Imposto sobre serviços de qualquer natureza	<http://pt.wikipedia.org/wiki/Imposto_sobre_serviços_de_qualquer_natureza>	
+U.D.R.	União Democrática Ruralista	<http://pt.wikipedia.org/wiki/União_Democrática_Ruralista>	
+P.I.M.E.	Pontifício Instituto para as Missões Estrangeiras	<http://pt.wikipedia.org/wiki/Pontifício_Instituto_para_as_Missões_Estrangeiras>	
+C.S.	Scalabrinianos	<http://pt.wikipedia.org/wiki/Scalabrinianos>	
+C.M.F.	Claretianos	<http://pt.wikipedia.org/wiki/Claretianos>	
+L'Hérit.	Charles Louis L'Héritier de Brutelle	<http://pt.wikipedia.org/wiki/Charles_Louis_L'Héritier_de_Brutelle>	
+M.Afr.	Sociedade dos Missionários da África	<http://pt.wikipedia.org/wiki/Sociedade_dos_Missionários_da_África>	
+Guthn.	Heinrich Joseph Guthnik	<http://pt.wikipedia.org/wiki/Heinrich_Joseph_Guthnik>	
+O.Ss.C.A.	Oblatos de Santo Ambrósio	<http://pt.wikipedia.org/wiki/Oblatos_de_Santo_Ambrósio>	
+Goodsp.	Thomas Harper Goodspeed	<http://pt.wikipedia.org/wiki/Thomas_Harper_Goodspeed>	
+A.B.	Bachelor of Arts	<http://pt.wikipedia.org/wiki/Bachelor_of_Arts>	
+Mouill.	Pierre Mouillefert	<http://pt.wikipedia.org/wiki/Pierre_Mouillefert>	
+H.Klinggr.	Hugo Erich Meyer von Klinggräff	<http://pt.wikipedia.org/wiki/Hugo_Erich_Meyer_von_Klinggräff>	
+Lindb.	Sextus Otto Lindberg	<http://pt.wikipedia.org/wiki/Sextus_Otto_Lindberg>	
+Schlecht.	Friedrich Richard Rudolf Schlechter	<http://pt.wikipedia.org/wiki/Friedrich_Richard_Rudolf_Schlechter>	
+A.A.	Congregação dos Agostinianos da Assunção	<http://pt.wikipedia.org/wiki/Congregação_dos_Agostinianos_da_Assunção>	
+C.D.C.	Congregação dos Padres da Doutrina Cristã	<http://pt.wikipedia.org/wiki/Congregação_dos_Padres_da_Doutrina_Cristã>	
+C.F.M.I.	Pavonianos	<http://pt.wikipedia.org/wiki/Pavonianos>	
+Newm.	Edward Newman	<http://pt.wikipedia.org/wiki/Edward_Newman>	
+R.P.D.	Raccoon Police Department	<http://pt.wikipedia.org/wiki/Raccoon_Police_Department>	
+Grossh.	Aleksandr Grossheim	<http://pt.wikipedia.org/wiki/Aleksandr_Grossheim>	
+O.F.S.	Ordem Franciscana Secular	<http://pt.wikipedia.org/wiki/Ordem_Franciscana_Secular>	
+O.T.C.	Ordem Terceira do Carmo	<http://pt.wikipedia.org/wiki/Ordem_Terceira_do_Carmo>	
+O.Carm.	Ordem do Carmo	<http://pt.wikipedia.org/wiki/Ordem_do_Carmo>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+O.C.S.O.	Ordem Trapista	<http://pt.wikipedia.org/wiki/Ordem_Trapista>	
+T.O.D.C.	Ordem dos Carmelitas Descalços	<http://pt.wikipedia.org/wiki/Ordem_dos_Carmelitas_Descalços>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+O.T.S.F.	Ordem Franciscana Secular	<http://pt.wikipedia.org/wiki/Ordem_Franciscana_Secular>	
+S.P.	Escolápios	<http://pt.wikipedia.org/wiki/Escolápios>	
+T.O.S.D.	Ordem dos Pregadores	<http://pt.wikipedia.org/wiki/Ordem_dos_Pregadores>	
+Obl.S.B.	Ordem de São Bento	<http://pt.wikipedia.org/wiki/Ordem_de_São_Bento>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://schema.org/Organization> 
+M.S.C.	Missionários do Sagrado Coração	<http://pt.wikipedia.org/wiki/Missionários_do_Sagrado_Coração>	
+Yeah!	Yeah! (álbum)	<http://pt.wikipedia.org/wiki/Yeah!_(álbum)>	<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum>,<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work> 
+Yeah!	Yeah! (canção)	<http://pt.wikipedia.org/wiki/Yeah!_(canção)>	<http://schema.org/CreativeWork>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/Single> 
+S.M.O.M.	Ordem Soberana e Militar de Malta	<http://pt.wikipedia.org/wiki/Ordem_Soberana_e_Militar_de_Malta>	<http://dbpedia.org/ontology/Country>,<http://dbpedia.org/ontology/Place>,<http://dbpedia.org/ontology/PopulatedPlace>,<http://schema.org/Country>,<http://schema.org/Place> 
+F.U.E.P.	Lily Allen	<http://pt.wikipedia.org/wiki/Lily_Allen>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+O.Merc.	Ordem de Nossa Senhora das Mercês	<http://pt.wikipedia.org/wiki/Ordem_de_Nossa_Senhora_das_Mercês>	
+O.F.M.Cap.	Ordem dos Frades Menores Capuchinhos	<http://pt.wikipedia.org/wiki/Ordem_dos_Frades_Menores_Capuchinhos>	
+F.C.	Filhas da Caridade de São Vicente de Paulo	<http://pt.wikipedia.org/wiki/Filhas_da_Caridade_de_São_Vicente_de_Paulo>	
+C.P.	Passionistas	<http://pt.wikipedia.org/wiki/Passionistas>	
+F.C.C.	Ordem das Clarissas	<http://pt.wikipedia.org/wiki/Ordem_das_Clarissas>	
+A.H.	Calendário islâmico	<http://pt.wikipedia.org/wiki/Calendário_islâmico>	
+Janisch.	Dmitrij Erastovich Janischewsky	<http://pt.wikipedia.org/wiki/Dmitrij_Erastovich_Janischewsky>	
+C.U.R.C.C.	Central Uruguay Railway Cricket Club	<http://pt.wikipedia.org/wiki/Central_Uruguay_Railway_Cricket_Club>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/SoccerClub>,<http://dbpedia.org/ontology/SportsTeam>,<http://schema.org/Organization>,<http://schema.org/SportsTeam> 
+O.SS.T.	Ordem da Trindade	<http://pt.wikipedia.org/wiki/Ordem_da_Trindade>	
+A.Berl.	Antonio Berlese	<http://pt.wikipedia.org/wiki/Antonio_Berlese>	
+Velen.	Josef Velenovský	<http://pt.wikipedia.org/wiki/Josef_Velenovský>	
+Mett.	Georg Heinrich Mettenius	<http://pt.wikipedia.org/wiki/Georg_Heinrich_Mettenius>	
+A.R.E.S.	A.R.E.S.: Extinction Agenda	<http://pt.wikipedia.org/wiki/A.R.E.S.:_Extinction_Agenda>	<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame>,<http://schema.org/CreativeWork> 
+Kaboom!	Kaboom! (Atari 2600)	<http://pt.wikipedia.org/wiki/Kaboom!_(Atari_2600)>	<http://dbpedia.org/ontology/Software>,<http://dbpedia.org/ontology/Work>,<http://dbpedia.org/ontology/VideoGame>,<http://schema.org/CreativeWork> 
+Shazam!	Capitão Marvel (DC Comics)	<http://pt.wikipedia.org/wiki/Capitão_Marvel_(DC_Comics)>	
+Fitzg.	Robert Desmond FitzGerald	<http://pt.wikipedia.org/wiki/Robert_Desmond_FitzGerald>	
+A.P.Br.	Andrew Phillip Brown	<http://pt.wikipedia.org/wiki/Andrew_Phillip_Brown>	
+C.P.K.	Chao Pak Kei	<http://pt.wikipedia.org/wiki/Chao_Pak_Kei>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Organisation>,<http://dbpedia.org/ontology/SoccerClub>,<http://dbpedia.org/ontology/SportsTeam>,<http://schema.org/Organization>,<http://schema.org/SportsTeam> 
+LIVE!!	Yngwie Malmsteen LIVE!!	<http://pt.wikipedia.org/wiki/Yngwie_Malmsteen_LIVE!!>	<http://dbpedia.org/ontology/Album>,<http://dbpedia.org/ontology/MusicalWork>,<http://dbpedia.org/ontology/Work>,<http://schema.org/CreativeWork>,<http://schema.org/MusicAlbum> 
+Attenchn!	Bone Crusher	<http://pt.wikipedia.org/wiki/Bone_Crusher>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Attenchun!	Bone Crusher	<http://pt.wikipedia.org/wiki/Bone_Crusher>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Movies!	Wikipédia:Artigo sobre evento futuro	<http://pt.wikipedia.org/wiki/Wikipédia:Artigo_sobre_evento_futuro>	
+Sin.	Sinonímia (taxonomia)	<http://pt.wikipedia.org/wiki/Sinonímia_(taxonomia)>	
+N.O.R.E.	P.A.P.I.	<http://pt.wikipedia.org/wiki/P.A.P.I.>	<http://dbpedia.org/ontology/Agent>,<http://dbpedia.org/ontology/Artist>,<http://dbpedia.org/ontology/MusicalArtist>,<http://dbpedia.org/ontology/Person>,<http://schema.org/MusicGroup>,<http://schema.org/Person> 
+Op.	Opus (música)	<http://pt.wikipedia.org/wiki/Opus_(música)>	
