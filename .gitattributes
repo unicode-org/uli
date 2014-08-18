@@ -84,8 +84,7 @@ abbrs/xls_dbpedia/an.tsv -text
 abbrs/xls_dbpedia/ar.tsv -text
 abbrs/xls_dbpedia/ast.tsv -text
 abbrs/xls_dbpedia/az.tsv -text
-abbrs/xls_dbpedia/bat_smg.tsv -text
-abbrs/xls_dbpedia/be_x_old.tsv -text
+abbrs/xls_dbpedia/be-tarask.tsv -text
 abbrs/xls_dbpedia/bg.tsv -text
 abbrs/xls_dbpedia/bn.tsv -text
 abbrs/xls_dbpedia/br.tsv -text
@@ -98,6 +97,7 @@ abbrs/xls_dbpedia/cy.tsv -text
 abbrs/xls_dbpedia/da.tsv -text
 abbrs/xls_dbpedia/de.tsv -text
 abbrs/xls_dbpedia/el.tsv -text
+abbrs/xls_dbpedia/en-x-simple.tsv -text
 abbrs/xls_dbpedia/en.tsv -text
 abbrs/xls_dbpedia/eo.tsv -text
 abbrs/xls_dbpedia/es.tsv -text
@@ -105,6 +105,7 @@ abbrs/xls_dbpedia/et.tsv -text
 abbrs/xls_dbpedia/eu.tsv -text
 abbrs/xls_dbpedia/fa.tsv -text
 abbrs/xls_dbpedia/fi.tsv -text
+abbrs/xls_dbpedia/fil.tsv -text
 abbrs/xls_dbpedia/fr.tsv -text
 abbrs/xls_dbpedia/fy.tsv -text
 abbrs/xls_dbpedia/ga.tsv -text
@@ -155,18 +156,17 @@ abbrs/xls_dbpedia/ro.tsv -text
 abbrs/xls_dbpedia/ru.tsv -text
 abbrs/xls_dbpedia/scn.tsv -text
 abbrs/xls_dbpedia/sco.tsv -text
-abbrs/xls_dbpedia/sh.tsv -text
-abbrs/xls_dbpedia/simple.tsv -text
+abbrs/xls_dbpedia/sgs.tsv -text
 abbrs/xls_dbpedia/sk.tsv -text
 abbrs/xls_dbpedia/sl.tsv -text
 abbrs/xls_dbpedia/sq.tsv -text
+abbrs/xls_dbpedia/sr-Latn.tsv -text
 abbrs/xls_dbpedia/sr.tsv -text
 abbrs/xls_dbpedia/sv.tsv -text
 abbrs/xls_dbpedia/sw.tsv -text
 abbrs/xls_dbpedia/ta.tsv -text
 abbrs/xls_dbpedia/te.tsv -text
 abbrs/xls_dbpedia/th.tsv -text
-abbrs/xls_dbpedia/tl.tsv -text
 abbrs/xls_dbpedia/tr.tsv -text
 abbrs/xls_dbpedia/tt.tsv -text
 abbrs/xls_dbpedia/uk.tsv -text
@@ -176,8 +176,8 @@ abbrs/xls_dbpedia/vi.tsv -text
 abbrs/xls_dbpedia/wa.tsv -text
 abbrs/xls_dbpedia/yi.tsv -text
 abbrs/xls_dbpedia/yo.tsv -text
+abbrs/xls_dbpedia/yue.tsv -text
 abbrs/xls_dbpedia/zh.tsv -text
-abbrs/xls_dbpedia/zh_yue.tsv -text
 abbrs/xml/common/segments/de.xml svneol=native#text/xml
 abbrs/xml/common/segments/en.xml svneol=native#text/xml
 abbrs/xml/common/segments/es.xml svneol=native#text/xml
