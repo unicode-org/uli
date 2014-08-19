@@ -5,6 +5,10 @@ This directory changes depending on what stage of the submission is available. S
 
 * Current format is the following, tab separated (TSV):
 
+The files follow the format "Abbreviation\tMeaning\tWikipediaLink\tType\n"
+
+Type is a number of URIs representing DBpedia ontology and schema.org types, like "Organization" or "Location". These can possibly be used for domain restrictions.
+
 ENTRY	FULLENTRY	<URL>
 
 * Here is the current list of locales:
