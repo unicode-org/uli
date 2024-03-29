@@ -4,7 +4,7 @@ Data for the [ULI-TC](http://unicode.org/uli) (Unicode Localization Interoperabi
 
 ### License
 
-Copyright © 2012-2023 Unicode, Inc. Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the United States and other countries.
+Copyright © 2012-2024 Unicode, Inc. Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the United States and other countries.
 
 The project is released under [LICENSE](./LICENSE).
 
